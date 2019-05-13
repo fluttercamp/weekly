@@ -1,0 +1,3 @@
+[submodule "themes/material-flow"]
+	path = themes/material-flow
+	url = git@github.com:fluttercamp/material-flow.git
