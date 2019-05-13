@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://flutterweekly.dev
+url: http://www.flutterweekly.dev
 root: /
 permalink: :title/
 permalink_defaults:
@@ -134,8 +134,8 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   - type: git
-    repo: git@git.dev.tencent.com:inferjay/newsletter.git
-    branch: master
-  - type: git
     repo: git@github.com:fluttercamp/weekly.git
     branch: gh-pages
+
+include:
+  - '.nojekyll'
