@@ -86,11 +86,11 @@
       
         <tags>
             
-            <tag> 多线程 </tag>
-            
             <tag> JSON </tag>
             
             <tag> PlatformView </tag>
+            
+            <tag> 多线程 </tag>
             
             <tag> Texture </tag>
             
@@ -243,11 +243,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -274,11 +274,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             

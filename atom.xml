@@ -5,9 +5,9 @@
   <subtitle>Flutter 开发技术周报</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.flutterweekly.dev/"/>
+  <link href="https://flutterweekly.dev/"/>
   <updated>2019-05-13T03:48:38.359Z</updated>
-  <id>http://www.flutterweekly.dev/</id>
+  <id>https://flutterweekly.dev/</id>
   
   <author>
     <name>CFUG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Flutter Weekly Issue 20</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-20/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-20/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-20/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-20/</id>
     <published>2019-05-13T03:41:19.000Z</published>
     <updated>2019-05-13T03:48:38.359Z</updated>
     
@@ -53,25 +53,25 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="多线程" scheme="http://www.flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
-      <category term="触摸" scheme="http://www.flutterweekly.dev/tags/%E8%A7%A6%E6%91%B8/"/>
+      <category term="触摸" scheme="https://flutterweekly.dev/tags/%E8%A7%A6%E6%91%B8/"/>
     
-      <category term="滑动原理" scheme="http://www.flutterweekly.dev/tags/%E6%BB%91%E5%8A%A8%E5%8E%9F%E7%90%86/"/>
+      <category term="滑动原理" scheme="https://flutterweekly.dev/tags/%E6%BB%91%E5%8A%A8%E5%8E%9F%E7%90%86/"/>
     
-      <category term="嵌入式" scheme="http://www.flutterweekly.dev/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+      <category term="嵌入式" scheme="https://flutterweekly.dev/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
     
-      <category term="Flutter Web" scheme="http://www.flutterweekly.dev/tags/Flutter-Web/"/>
+      <category term="Flutter Web" scheme="https://flutterweekly.dev/tags/Flutter-Web/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 19</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-19/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-19/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-19/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-19/</id>
     <published>2019-05-06T05:45:19.000Z</published>
     <updated>2019-05-06T05:46:11.482Z</updated>
     
@@ -104,25 +104,25 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="渲染过程" scheme="http://www.flutterweekly.dev/tags/%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/"/>
+      <category term="渲染过程" scheme="https://flutterweekly.dev/tags/%E6%B8%B2%E6%9F%93%E8%BF%87%E7%A8%8B/"/>
     
-      <category term="布局约束" scheme="http://www.flutterweekly.dev/tags/%E5%B8%83%E5%B1%80%E7%BA%A6%E6%9D%9F/"/>
+      <category term="布局约束" scheme="https://flutterweekly.dev/tags/%E5%B8%83%E5%B1%80%E7%BA%A6%E6%9D%9F/"/>
     
-      <category term="导航" scheme="http://www.flutterweekly.dev/tags/%E5%AF%BC%E8%88%AA/"/>
+      <category term="导航" scheme="https://flutterweekly.dev/tags/%E5%AF%BC%E8%88%AA/"/>
     
-      <category term="MVC" scheme="http://www.flutterweekly.dev/tags/MVC/"/>
+      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
     
-      <category term="ORM" scheme="http://www.flutterweekly.dev/tags/ORM/"/>
+      <category term="ORM" scheme="https://flutterweekly.dev/tags/ORM/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 18</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-18/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-18/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-18/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-18/</id>
     <published>2019-05-01T05:06:19.000Z</published>
     <updated>2019-05-06T05:42:01.623Z</updated>
     
@@ -155,23 +155,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="多线程" scheme="http://www.flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
-      <category term="JSON" scheme="http://www.flutterweekly.dev/tags/JSON/"/>
+      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
-      <category term="PlatformView" scheme="http://www.flutterweekly.dev/tags/PlatformView/"/>
+      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
-      <category term="Texture" scheme="http://www.flutterweekly.dev/tags/Texture/"/>
+      <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 17</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-17/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-17/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-17/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-17/</id>
     <published>2019-04-23T06:41:19.000Z</published>
     <updated>2019-04-28T05:30:40.978Z</updated>
     
@@ -200,23 +200,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Widget" scheme="http://www.flutterweekly.dev/tags/Widget/"/>
+      <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
-      <category term="Streams" scheme="http://www.flutterweekly.dev/tags/Streams/"/>
+      <category term="Streams" scheme="https://flutterweekly.dev/tags/Streams/"/>
     
-      <category term="BloC" scheme="http://www.flutterweekly.dev/tags/BloC/"/>
+      <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
     
-      <category term="JSON" scheme="http://www.flutterweekly.dev/tags/JSON/"/>
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 16</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-16/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-16/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-16/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-16/</id>
     <published>2019-04-15T03:40:19.000Z</published>
     <updated>2019-04-28T05:30:40.954Z</updated>
     
@@ -250,25 +250,25 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="图片加载" scheme="http://www.flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD/"/>
+      <category term="图片加载" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD/"/>
     
-      <category term="Future" scheme="http://www.flutterweekly.dev/tags/Future/"/>
+      <category term="Future" scheme="https://flutterweekly.dev/tags/Future/"/>
     
-      <category term="MicroTask" scheme="http://www.flutterweekly.dev/tags/MicroTask/"/>
+      <category term="MicroTask" scheme="https://flutterweekly.dev/tags/MicroTask/"/>
     
-      <category term="启动过程" scheme="http://www.flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/"/>
+      <category term="启动过程" scheme="https://flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/"/>
     
-      <category term="文档注释" scheme="http://www.flutterweekly.dev/tags/%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A/"/>
+      <category term="文档注释" scheme="https://flutterweekly.dev/tags/%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 15</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-15/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-15/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-15/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-15/</id>
     <published>2019-04-08T03:32:19.000Z</published>
     <updated>2019-04-28T05:36:53.082Z</updated>
     
@@ -305,23 +305,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="启动流程" scheme="http://www.flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/"/>
+      <category term="启动流程" scheme="https://flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/"/>
     
-      <category term="绘制原理" scheme="http://www.flutterweekly.dev/tags/%E7%BB%98%E5%88%B6%E5%8E%9F%E7%90%86/"/>
+      <category term="绘制原理" scheme="https://flutterweekly.dev/tags/%E7%BB%98%E5%88%B6%E5%8E%9F%E7%90%86/"/>
     
-      <category term="图片组件" scheme="http://www.flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E7%BB%84%E4%BB%B6/"/>
+      <category term="图片组件" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E7%BB%84%E4%BB%B6/"/>
     
-      <category term="Key" scheme="http://www.flutterweekly.dev/tags/Key/"/>
+      <category term="Key" scheme="https://flutterweekly.dev/tags/Key/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 14</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-14/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-14/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-14/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-14/</id>
     <published>2019-04-01T03:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.936Z</updated>
     
@@ -356,23 +356,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="测试" scheme="http://www.flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="https://flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="自定义字体" scheme="http://www.flutterweekly.dev/tags/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/"/>
+      <category term="自定义字体" scheme="https://flutterweekly.dev/tags/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93/"/>
     
-      <category term="插件开发" scheme="http://www.flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
+      <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
     
-      <category term="快捷键" scheme="http://www.flutterweekly.dev/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <category term="快捷键" scheme="https://flutterweekly.dev/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 13</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-13/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-13/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-13/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-13/</id>
     <published>2019-03-25T03:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.970Z</updated>
     
@@ -401,23 +401,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="http://www.flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+      <category term="事件循环机制" scheme="https://flutterweekly.dev/tags/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/"/>
     
-      <category term="事件循环机制" scheme="http://www.flutterweekly.dev/tags/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/"/>
+      <category term="异步" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5/"/>
     
-      <category term="异步" scheme="http://www.flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5/"/>
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
-      <category term="路由" scheme="http://www.flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
+      <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 12</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-12/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-12/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-12/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-12/</id>
     <published>2019-03-18T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.964Z</updated>
     
@@ -446,23 +446,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="测试" scheme="http://www.flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
-      <category term="WebView" scheme="http://www.flutterweekly.dev/tags/WebView/"/>
+      <category term="测试" scheme="https://flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="混合开发" scheme="http://www.flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+      <category term="WebView" scheme="https://flutterweekly.dev/tags/WebView/"/>
     
-      <category term="Widget" scheme="http://www.flutterweekly.dev/tags/Widget/"/>
+      <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 11</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-11/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-11/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-11/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-11/</id>
     <published>2019-03-11T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.949Z</updated>
     
@@ -494,23 +494,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="游戏" scheme="http://www.flutterweekly.dev/tags/%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏" scheme="https://flutterweekly.dev/tags/%E6%B8%B8%E6%88%8F/"/>
     
-      <category term="动画" scheme="http://www.flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
-      <category term="内存泄漏" scheme="http://www.flutterweekly.dev/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/"/>
+      <category term="内存泄漏" scheme="https://flutterweekly.dev/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/"/>
     
-      <category term="SafeArea" scheme="http://www.flutterweekly.dev/tags/SafeArea/"/>
+      <category term="SafeArea" scheme="https://flutterweekly.dev/tags/SafeArea/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 10</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-10/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-10/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-10/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-10/</id>
     <published>2019-03-04T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.928Z</updated>
     
@@ -543,19 +543,19 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="手势" scheme="http://www.flutterweekly.dev/tags/%E6%89%8B%E5%8A%BF/"/>
+      <category term="手势" scheme="https://flutterweekly.dev/tags/%E6%89%8B%E5%8A%BF/"/>
     
-      <category term="Painter" scheme="http://www.flutterweekly.dev/tags/Painter/"/>
+      <category term="Painter" scheme="https://flutterweekly.dev/tags/Painter/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 9</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-9/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-9/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-9/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-9/</id>
     <published>2019-02-25T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.807Z</updated>
     
@@ -587,21 +587,21 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Flame" scheme="http://www.flutterweekly.dev/tags/Flame/"/>
+      <category term="Flame" scheme="https://flutterweekly.dev/tags/Flame/"/>
     
-      <category term="Firestore" scheme="http://www.flutterweekly.dev/tags/Firestore/"/>
+      <category term="Firestore" scheme="https://flutterweekly.dev/tags/Firestore/"/>
     
-      <category term="Dialog" scheme="http://www.flutterweekly.dev/tags/Dialog/"/>
+      <category term="Dialog" scheme="https://flutterweekly.dev/tags/Dialog/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 7</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-7/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-7/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-7/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-7/</id>
     <published>2019-02-11T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.945Z</updated>
     
@@ -630,23 +630,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Steams" scheme="http://www.flutterweekly.dev/tags/Steams/"/>
+      <category term="Steams" scheme="https://flutterweekly.dev/tags/Steams/"/>
     
-      <category term="BLoC" scheme="http://www.flutterweekly.dev/tags/BLoC/"/>
+      <category term="BLoC" scheme="https://flutterweekly.dev/tags/BLoC/"/>
     
-      <category term="Redux" scheme="http://www.flutterweekly.dev/tags/Redux/"/>
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
-      <category term="isolate" scheme="http://www.flutterweekly.dev/tags/isolate/"/>
+      <category term="isolate" scheme="https://flutterweekly.dev/tags/isolate/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 8</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-8/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-8/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-8/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-8/</id>
     <published>2019-02-08T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.739Z</updated>
     
@@ -676,25 +676,25 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Animation" scheme="http://www.flutterweekly.dev/tags/Animation/"/>
+      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
     
-      <category term="Redux" scheme="http://www.flutterweekly.dev/tags/Redux/"/>
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
-      <category term="Canvas" scheme="http://www.flutterweekly.dev/tags/Canvas/"/>
+      <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
     
-      <category term="TextField" scheme="http://www.flutterweekly.dev/tags/TextField/"/>
+      <category term="TextField" scheme="https://flutterweekly.dev/tags/TextField/"/>
     
-      <category term="Container" scheme="http://www.flutterweekly.dev/tags/Container/"/>
+      <category term="Container" scheme="https://flutterweekly.dev/tags/Container/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 6</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-6/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-6/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-6/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-6/</id>
     <published>2019-02-04T12:32:19.000Z</published>
     <updated>2019-04-28T05:30:40.894Z</updated>
     
@@ -723,23 +723,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="PlatformView" scheme="http://www.flutterweekly.dev/tags/PlatformView/"/>
+      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
-      <category term="GestureDetector" scheme="http://www.flutterweekly.dev/tags/GestureDetector/"/>
+      <category term="GestureDetector" scheme="https://flutterweekly.dev/tags/GestureDetector/"/>
     
-      <category term="CI/CD" scheme="http://www.flutterweekly.dev/tags/CI-CD/"/>
+      <category term="CI/CD" scheme="https://flutterweekly.dev/tags/CI-CD/"/>
     
-      <category term="Google Map" scheme="http://www.flutterweekly.dev/tags/Google-Map/"/>
+      <category term="Google Map" scheme="https://flutterweekly.dev/tags/Google-Map/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 5</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-5/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-5/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-5/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-5/</id>
     <published>2019-01-28T12:32:15.000Z</published>
     <updated>2019-04-28T05:30:40.966Z</updated>
     
@@ -770,23 +770,23 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Animation" scheme="http://www.flutterweekly.dev/tags/Animation/"/>
+      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
     
-      <category term="ListView" scheme="http://www.flutterweekly.dev/tags/ListView/"/>
+      <category term="ListView" scheme="https://flutterweekly.dev/tags/ListView/"/>
     
-      <category term="StatefulWidget" scheme="http://www.flutterweekly.dev/tags/StatefulWidget/"/>
+      <category term="StatefulWidget" scheme="https://flutterweekly.dev/tags/StatefulWidget/"/>
     
-      <category term="Garbage Collector" scheme="http://www.flutterweekly.dev/tags/Garbage-Collector/"/>
+      <category term="Garbage Collector" scheme="https://flutterweekly.dev/tags/Garbage-Collector/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 4</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-4/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-4/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-4/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-4/</id>
     <published>2019-01-21T12:32:11.000Z</published>
     <updated>2019-04-28T05:30:40.959Z</updated>
     
@@ -820,21 +820,21 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="路由" scheme="http://www.flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
+      <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
     
-      <category term="编译" scheme="http://www.flutterweekly.dev/tags/%E7%BC%96%E8%AF%91/"/>
+      <category term="编译" scheme="https://flutterweekly.dev/tags/%E7%BC%96%E8%AF%91/"/>
     
-      <category term="优化" scheme="http://www.flutterweekly.dev/tags/%E4%BC%98%E5%8C%96/"/>
+      <category term="优化" scheme="https://flutterweekly.dev/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 3</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-3/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-3/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-3/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-3/</id>
     <published>2019-01-14T12:32:07.000Z</published>
     <updated>2019-04-28T05:30:40.939Z</updated>
     
@@ -867,21 +867,21 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="实践" scheme="http://www.flutterweekly.dev/tags/%E5%AE%9E%E8%B7%B5/"/>
+      <category term="实践" scheme="https://flutterweekly.dev/tags/%E5%AE%9E%E8%B7%B5/"/>
     
-      <category term="绘制" scheme="http://www.flutterweekly.dev/tags/%E7%BB%98%E5%88%B6/"/>
+      <category term="绘制" scheme="https://flutterweekly.dev/tags/%E7%BB%98%E5%88%B6/"/>
     
-      <category term="线程" scheme="http://www.flutterweekly.dev/tags/%E7%BA%BF%E7%A8%8B/"/>
+      <category term="线程" scheme="https://flutterweekly.dev/tags/%E7%BA%BF%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 2</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-2/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-2/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-2/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-2/</id>
     <published>2019-01-07T12:32:02.000Z</published>
     <updated>2019-04-28T05:30:40.932Z</updated>
     
@@ -911,21 +911,21 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="http://www.flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
-      <category term="内存" scheme="http://www.flutterweekly.dev/tags/%E5%86%85%E5%AD%98/"/>
+      <category term="内存" scheme="https://flutterweekly.dev/tags/%E5%86%85%E5%AD%98/"/>
     
-      <category term="布局" scheme="http://www.flutterweekly.dev/tags/%E5%B8%83%E5%B1%80/"/>
+      <category term="布局" scheme="https://flutterweekly.dev/tags/%E5%B8%83%E5%B1%80/"/>
     
   </entry>
   
   <entry>
     <title>Flutter Weekly Issue 1</title>
-    <link href="http://www.flutterweekly.dev/flutter-weekly-issue-1/"/>
-    <id>http://www.flutterweekly.dev/flutter-weekly-issue-1/</id>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-1/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-1/</id>
     <published>2019-01-01T12:31:54.000Z</published>
     <updated>2019-04-28T05:30:40.974Z</updated>
     
@@ -951,14 +951,14 @@
     
     </summary>
     
-      <category term="Weekly" scheme="http://www.flutterweekly.dev/categories/Weekly/"/>
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Hybrid" scheme="http://www.flutterweekly.dev/tags/Hybrid/"/>
+      <category term="Hybrid" scheme="https://flutterweekly.dev/tags/Hybrid/"/>
     
-      <category term="Desktop" scheme="http://www.flutterweekly.dev/tags/Desktop/"/>
+      <category term="Desktop" scheme="https://flutterweekly.dev/tags/Desktop/"/>
     
-      <category term="入门" scheme="http://www.flutterweekly.dev/tags/%E5%85%A5%E9%97%A8/"/>
+      <category term="入门" scheme="https://flutterweekly.dev/tags/%E5%85%A5%E9%97%A8/"/>
     
   </entry>
   
