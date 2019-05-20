@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-05-13T03:48:38.359Z</updated>
+  <updated>2019-05-20T11:03:06.304Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 21</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-21/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-21/</id>
+    <published>2019-05-20T11:02:19.000Z</published>
+    <updated>2019-05-20T11:03:06.304Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. UI2CODE 智能生成代码——组件识别篇
+    
+    
+ 2. Flutter 面试知识点集锦
+    
+    
+ 3. 在闲鱼，我们如何用 Dart 做高效后端开发？
+    
+    
+ 4. Flutter 完全手册
+    
+    
+
+插件
+ 1. flutter_i18n
+    
+     一个国际化插件
+    
+    
+ 2. flutter_classic_kit
+    
+     经典 UI 组件库
+    
+     
+    
+    
+ 3. TextReaderAnimation
+    
+     该动画灵感来自于谷歌IO19 RNN
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+      <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 20</title>
@@ -160,9 +213,9 @@
     
       <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
-      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
-    
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -404,11 +457,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
       <category term="事件循环机制" scheme="https://flutterweekly.dev/tags/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/"/>
     
       <category term="异步" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5/"/>
-    
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
     
@@ -449,11 +502,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="测试" scheme="https://flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
     
       <category term="WebView" scheme="https://flutterweekly.dev/tags/WebView/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
@@ -679,9 +732,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
-    
       <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
+    
+      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
     
       <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
     
@@ -919,46 +972,6 @@
       <category term="内存" scheme="https://flutterweekly.dev/tags/%E5%86%85%E5%AD%98/"/>
     
       <category term="布局" scheme="https://flutterweekly.dev/tags/%E5%B8%83%E5%B1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 1</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-1/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-1/</id>
-    <published>2019-01-01T12:31:54.000Z</published>
-    <updated>2019-04-28T05:30:40.974Z</updated>
-    
-    <summary type="html">
-    
-      新闻
- 1. Flutter 示范应用现已开源 — 万物起源 (The History of Everything)
-
-教程
- 1. Flutter 的好的，坏的和丑的
-    
-     作者较深入地评论了目前 Flutter 框架开发手机应用的优缺点，总体上还是鼓励大家使用它。
-    
-    
- 2. 爱奇艺 Flutter 跨平台 Hybrid 实践
-    
-     爱奇艺开播助手项目的混合开发实战经验
-    
-    
- 3. Flutter快速上车之Widget
-    
-     本文面向刚刚踏上 Flutter 的同学，从 Flutter 体系中最基本的一个概念 wid
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Hybrid" scheme="https://flutterweekly.dev/tags/Hybrid/"/>
-    
-      <category term="Desktop" scheme="https://flutterweekly.dev/tags/Desktop/"/>
-    
-      <category term="入门" scheme="https://flutterweekly.dev/tags/%E5%85%A5%E9%97%A8/"/>
     
   </entry>
   
