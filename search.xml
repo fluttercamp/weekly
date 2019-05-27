@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 22</title>
+      <link href="/flutter-weekly-issue-22/"/>
+      <url>/flutter-weekly-issue-22/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/VlleaiIzsZHZDkDrGgYi1g" target="_blank" rel="noopener">如何用 Flutter 实现混合开发？</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/CqjVgCjQVowReqG1PaDXUg" target="_blank" rel="noopener">Flutter 动画的实现原理浅析</a></p></li><li><p><a href="https://www.yuque.com/xytech/flutter/fznnd1" target="_blank" rel="noopener">Flutter 高内聚组件怎么做？</a></p></li><li><p><a href="https://juejin.im/post/5ce515fb518825642c3f42dd" target="_blank" rel="noopener">Flutter Web初体验</a></p></li><li><p><a href="https://juejin.im/post/5ce7ddf95188257a2b1eac8a" target="_blank" rel="noopener">Flutter 开发实战与前景展望</a></p></li><li><p><a href="https://www.jianshu.com/p/4d1e81ab3f54" target="_blank" rel="noopener">Flutter 交互实战－即刻 App 探索页下拉＆拖拽效果</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/IhorKlimov/FlutterProgressButton" target="_blank" rel="noopener">FlutterProgressButton</a></p><p> 带循环加载进度和涟漪动画的按钮插件</p><p> <img src="https://i.loli.net/2019/05/26/5cea04a09176910198.gif" alt></p></li><li><p><a href="https://github.com/jifalops/datetime_picker_formfield" target="_blank" rel="noopener">datetime_picker_formfield</a></p><p> 封装了 TextFormField 并集成日期和/或时间选择器对话框的小部件。</p><p> <img src="https://i.loli.net/2019/05/26/5cea04a09176910198.gif" alt></p></li><li><p><a href="https://github.com/nitishk72/flutter_form_validation" target="_blank" rel="noopener">flutter_form_validation</a></p><p> 表单验证插件</p><p> <img src="https://i.loli.net/2019/05/26/5cea171ddda2119352.png" alt></p></li><li><p><a href="https://github.com/trentpiercy/flutter-candlesticks" target="_blank" rel="noopener">flutter_candlesticks</a></p><p> 优雅的OHLC烛台和贸易量图表插件</p><p> <img src="https://i.loli.net/2019/05/26/5cea2910e7fff10693.png" alt></p></li><li><p><a href="https://github.com/best-flutter/sweetalert" target="_blank" rel="noopener">sweetalert</a></p><p> 警告提示对话框插件</p><p> <img src="https://i.loli.net/2019/05/26/5cea3eb80cf8a66157.gif" alt></p></li><li><p><a href="https://github.com/beagle-barks/material_segmented_control" target="_blank" rel="noopener">material_segmented_control</a></p><p> 一个 iOS 风格的分段控制按钮插件</p><p> <img src="https://i.loli.net/2019/05/26/5cea4944b1f6171072.png" alt></p></li><li><p><a href="https://github.com/lesnitsky/network_state" target="_blank" rel="noopener">network_state</a></p><p> 服务感知网络状态插件</p></li><li><p><a href="https://github.com/KingWu/gen_lang" target="_blank" rel="noopener">gen_lang</a></p><p> 一个用于国际化的dart库</p></li><li><p><a href="https://github.com/RafaelBarbosatec/bsev" target="_blank" rel="noopener">BSEV</a></p><p> 一组包和实用函数，帮助使用依赖注入的块模式。</p><p> <img src="https://i.loli.net/2019/05/26/5cea4ddb940e241292.png" alt></p></li><li><p><a href="https://github.com/andrewackerman/bloc_lite" target="_blank" rel="noopener">bloc_lite</a></p><p> 一个精简的 Bloc 实现库</p></li><li><p><a href="https://github.com/mezoni/marshalling" target="_blank" rel="noopener">marshalling</a></p><p> 编组库允许对对象进行编组和解组(也可以序列化/反序列化)(例如，将对象转换为json兼容类型)</p></li><li><p><a href="https://github.com/KingWu/lang_table" target="_blank" rel="noopener">lang_table</a></p><p> 一个用于从源文件生成字符串文件的dart插件。使用一个表来管理所有多语言资源。</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/nb312/flutter-ui-nice" target="_blank" rel="noopener">flutter-ui-nice</a></p><p> 一个  130+ 漂亮页面的 App</p><p> <img src="https://i.loli.net/2019/05/26/5cea1203217cf52015.png" alt></p></li><li><p><a href="https://github.com/hekaiyou/talk_casually" target="_blank" rel="noopener">talk_casually</a></p><p> 使用Flutter框架和Firebase平台开发的实时聊天APP</p><p> <img src="https://i.loli.net/2019/05/26/5cea4d4eca03825061.png" alt></p></li><li><p><a href="https://github.com/veetaw/quake" target="_blank" rel="noopener">quake</a></p><p> 一个可以向你展示最近发生在世界各地或你附近的地震信息的 App</p><p> <img src="https://i.loli.net/2019/05/26/5cea4d77ef48410658.png" alt></p></li><li><p><a href="https://github.com/pinkeshdarji/SuperHeroInteraction" target="_blank" rel="noopener">SuperHeroInteraction</a></p><p> 一个展示超级英雄的 App</p><p> <img src="https://i.loli.net/2019/05/26/5cea4d8cc467155961.gif" alt></p></li><li><p><a href="https://github.com/Iliescu-Dorin/CS-UBB" target="_blank" rel="noopener">Student UBB</a></p><p> 我的教员的伙伴 App</p><p> <img src="https://i.loli.net/2019/05/26/5cea4d3237fea20328.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
+            
+            <tag> Web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 21</title>
       <link href="/flutter-weekly-issue-21/"/>
       <url>/flutter-weekly-issue-21/</url>
@@ -117,9 +146,9 @@
             
             <tag> JSON </tag>
             
-            <tag> 多线程 </tag>
-            
             <tag> PlatformView </tag>
+            
+            <tag> 多线程 </tag>
             
             <tag> Texture </tag>
             
@@ -421,11 +450,11 @@
       
         <tags>
             
+            <tag> Redux </tag>
+            
             <tag> Steams </tag>
             
             <tag> BLoC </tag>
-            
-            <tag> Redux </tag>
             
             <tag> isolate </tag>
             
@@ -452,11 +481,11 @@
       
         <tags>
             
-            <tag> Redux </tag>
-            
             <tag> Animation </tag>
             
             <tag> Canvas </tag>
+            
+            <tag> Redux </tag>
             
             <tag> TextField </tag>
             

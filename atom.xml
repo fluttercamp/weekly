@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-05-20T11:03:06.304Z</updated>
+  <updated>2019-05-26T08:48:12.127Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -17,11 +17,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Flutter Weekly Issue 22</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-22/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-22/</id>
+    <published>2019-05-26T08:41:19.000Z</published>
+    <updated>2019-05-26T08:48:12.127Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 如何用 Flutter 实现混合开发？
+    
+    
+ 2. Flutter 动画的实现原理浅析
+    
+    
+ 3. Flutter 高内聚组件怎么做？
+    
+    
+ 4. Flutter Web初体验
+    
+    
+ 5. Flutter 开发实战与前景展望
+    
+    
+ 6. Flutter 交互实战－即刻 App 探索页下拉＆拖拽效果
+    
+    
+
+插件
+ 1.  FlutterProgressButton
+     
+      带循环加载进度和涟漪动画的按钮插件
+     
+      
+     
+     
+ 2.  da
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Flutter Weekly Issue 21</title>
     <link href="https://flutterweekly.dev/flutter-weekly-issue-21/"/>
     <id>https://flutterweekly.dev/flutter-weekly-issue-21/</id>
     <published>2019-05-20T11:02:19.000Z</published>
-    <updated>2019-05-20T11:03:06.304Z</updated>
+    <updated>2019-05-26T08:41:17.081Z</updated>
     
     <summary type="html">
     
@@ -213,9 +265,9 @@
     
       <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
-      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    
       <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
+    
+      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -686,11 +738,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
+    
       <category term="Steams" scheme="https://flutterweekly.dev/tags/Steams/"/>
     
       <category term="BLoC" scheme="https://flutterweekly.dev/tags/BLoC/"/>
-    
-      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
       <category term="isolate" scheme="https://flutterweekly.dev/tags/isolate/"/>
     
@@ -732,11 +784,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
-    
       <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
     
       <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
+    
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
       <category term="TextField" scheme="https://flutterweekly.dev/tags/TextField/"/>
     
@@ -928,50 +980,6 @@
       <category term="绘制" scheme="https://flutterweekly.dev/tags/%E7%BB%98%E5%88%B6/"/>
     
       <category term="线程" scheme="https://flutterweekly.dev/tags/%E7%BA%BF%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 2</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-2/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-2/</id>
-    <published>2019-01-07T12:32:02.000Z</published>
-    <updated>2019-04-28T05:30:40.932Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  Flare x Flutter】Flutter 2D 矢量动画入门
-     
-     
- 2.  Flutter仿微信项目实战,这才是期待中的跨平台框架
-     
-     
- 3.  如何用 Flutter 实现 Twitter 的 FAB 动画效果
-     
-     
- 4.  揭秘Flutter Hot Reload（原理篇）
-     
-     
- 5.  如何进一步提高flutter内存表现
-     
-     
- 6.  流言终结者- Flutter和RN谁才是更好的跨端开发方案？
-     
-     
- 7.  Flutter 插件编写必知必会
- 
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
-      <category term="内存" scheme="https://flutterweekly.dev/tags/%E5%86%85%E5%AD%98/"/>
-    
-      <category term="布局" scheme="https://flutterweekly.dev/tags/%E5%B8%83%E5%B1%80/"/>
     
   </entry>
   
