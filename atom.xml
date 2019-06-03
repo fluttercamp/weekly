@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-05-26T08:48:12.127Z</updated>
+  <updated>2019-06-03T03:20:17.798Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 23</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-23/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-23/</id>
+    <published>2019-06-02T03:55:19.000Z</published>
+    <updated>2019-06-03T03:20:17.798Z</updated>
+    
+    <summary type="html">
+    
+      新闻
+ 1. Flutter 与 Chrome OS 珠联璧合
+
+教程
+ 1. 一招教你解决 FlutterPlatformViews 内存泄露问题
+    
+    
+ 2. 彻底理解 Dart mixin 机制
+    
+    
+ 3. Flutter 混合开发二- FlutterBoost 使用介绍
+    
+    
+
+插件
+ 1.  qr_utils
+     
+      一个新的同时支持 Android 和 iOS 的 QR 扫描和生成插件
+     
+      
+     
+     
+ 2.  floating_dots
+     
+      一个可以创建一组浮动点并且
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="Dart mixin" scheme="https://flutterweekly.dev/tags/Dart-mixin/"/>
+    
+      <category term="FlutterBoost" scheme="https://flutterweekly.dev/tags/FlutterBoost/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 22</title>
@@ -113,11 +161,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
-    
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -738,11 +786,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
-    
       <category term="Steams" scheme="https://flutterweekly.dev/tags/Steams/"/>
     
       <category term="BLoC" scheme="https://flutterweekly.dev/tags/BLoC/"/>
+    
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
       <category term="isolate" scheme="https://flutterweekly.dev/tags/isolate/"/>
     
@@ -786,9 +834,9 @@
     
       <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
     
-      <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
-    
       <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
+    
+      <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
     
       <category term="TextField" scheme="https://flutterweekly.dev/tags/TextField/"/>
     
@@ -933,53 +981,6 @@
       <category term="编译" scheme="https://flutterweekly.dev/tags/%E7%BC%96%E8%AF%91/"/>
     
       <category term="优化" scheme="https://flutterweekly.dev/tags/%E4%BC%98%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 3</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-3/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-3/</id>
-    <published>2019-01-14T12:32:07.000Z</published>
-    <updated>2019-04-28T05:30:40.939Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. 闲鱼flutter混合工程持续集成最佳实践
-    
-    
- 2. Flutter React编程范式实践
-    
-    
- 3. Release Flutter的最后一公里
-    
-    
- 4. 使用Flutter CustomPainter绘制8段数码管
-    
-    
- 5. Flutter混合工程改造实践
-    
-    
- 6. Flutter Plugin调用Native APIs
-    
-    
- 7. Flutter Engine线程管理与Dart Isolate机制
-    
-    
- 8. 如何在Flutter中为窗口小部件添加边框
-
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="实践" scheme="https://flutterweekly.dev/tags/%E5%AE%9E%E8%B7%B5/"/>
-    
-      <category term="绘制" scheme="https://flutterweekly.dev/tags/%E7%BB%98%E5%88%B6/"/>
-    
-      <category term="线程" scheme="https://flutterweekly.dev/tags/%E7%BA%BF%E7%A8%8B/"/>
     
   </entry>
   
