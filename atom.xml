@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-06-03T03:20:17.798Z</updated>
+  <updated>2019-06-17T09:50:13.470Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,113 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 25</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-25/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-25/</id>
+    <published>2019-06-17T09:49:19.000Z</published>
+    <updated>2019-06-17T09:50:13.470Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 给 Android 开发者的 Flutter 指南（下）
+    
+    
+ 2. Flutter 混合开发组件化与工程化架构
+    
+    
+ 3. Flutter完整开发实战详解(十五、全面理解State与Provider)
+    
+    
+ 4. [译] Flutter 布局备忘录
+    
+    
+ 5. 揭秘！一个高准确率的 Flutter 埋点框架如何设计
+    
+    
+ 6. Flutter | 状态管理指南篇——Provider
+    
+    
+
+插件
+ 1. WiFiFlutter
+    
+     可以处理WiFi连接(AP, STA)
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="组件化" scheme="https://flutterweekly.dev/tags/%E7%BB%84%E4%BB%B6%E5%8C%96/"/>
+    
+      <category term="工程化" scheme="https://flutterweekly.dev/tags/%E5%B7%A5%E7%A8%8B%E5%8C%96/"/>
+    
+      <category term="埋点框架" scheme="https://flutterweekly.dev/tags/%E5%9F%8B%E7%82%B9%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter Weekly Issue 24</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-24/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-24/</id>
+    <published>2019-06-09T08:41:19.000Z</published>
+    <updated>2019-06-09T10:58:48.328Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 给 Android 开发者的 Flutter 指南（上）
+
+插件
+ 1.  flutter_offline
+     
+      一个在线和离线提示插件
+     
+      
+     
+     
+ 2.  expand_widget
+     
+      能够轻松地展开和收缩组件集合或文本的小组件
+     
+      
+     
+     
+ 3.  provider
+     
+      一组多用途的通用继承小组件
+     
+     
+ 4.  IntervalProgressBar
+     
+      间隔进度条组件
+     
+      
+  
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="图表" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E8%A1%A8/"/>
+    
+      <category term="MobX" scheme="https://flutterweekly.dev/tags/MobX/"/>
+    
+      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
+    
+      <category term="Android" scheme="https://flutterweekly.dev/tags/Android/"/>
+    
+      <category term="Log" scheme="https://flutterweekly.dev/tags/Log/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 23</title>
@@ -108,9 +215,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -161,11 +268,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -313,9 +420,9 @@
     
       <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
-      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
-    
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
+    
+      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -886,101 +993,6 @@
       <category term="CI/CD" scheme="https://flutterweekly.dev/tags/CI-CD/"/>
     
       <category term="Google Map" scheme="https://flutterweekly.dev/tags/Google-Map/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 5</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-5/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-5/</id>
-    <published>2019-01-28T12:32:15.000Z</published>
-    <updated>2019-04-28T05:30:40.966Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  使用 Flare 创建 Flutter 动画
-     
-     
- 2.  Flutter: 如何使用 streams 动态改变 app 的主题
-     
-     
- 3.  Flutter 的 listview 和 checkbox
-     
-     
- 4.  深入探究 Flutter 的页面视图
-     
-     
- 5.  Flutter — 密码校验动画
-     
-     
- 6.  Flutter-你还在滥用 StatefulWidget 吗
-     
-     
- 7.  微店的Flutter混合开发组件化与工程化架构实践
-     
-   
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
-    
-      <category term="ListView" scheme="https://flutterweekly.dev/tags/ListView/"/>
-    
-      <category term="StatefulWidget" scheme="https://flutterweekly.dev/tags/StatefulWidget/"/>
-    
-      <category term="Garbage Collector" scheme="https://flutterweekly.dev/tags/Garbage-Collector/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 4</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-4/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-4/</id>
-    <published>2019-01-21T12:32:11.000Z</published>
-    <updated>2019-04-28T05:30:40.959Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. 深入理解flutter的编译原理与优化
-    
-    
- 2. Android Flutter实践内存初探
-    
-    
- 3. 深入了解Flutter界面开发
-    
-    
- 4. Flutter — PageView with BottomNavigationBar
-    
-    
- 5. 深入了解Flutter界面开发
-    
-    
- 6. 如何通过 Bloc 实现登录
-    
-    
- 7. Flutter 与 Material Design 双剑合璧，助您构建精美应用
-    
-    
- 8. Flutter 的高级路由和导航
-    
-
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
-    
-      <category term="编译" scheme="https://flutterweekly.dev/tags/%E7%BC%96%E8%AF%91/"/>
-    
-      <category term="优化" scheme="https://flutterweekly.dev/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   

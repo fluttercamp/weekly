@@ -4,6 +4,72 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 25</title>
+      <link href="/flutter-weekly-issue-25/"/>
+      <url>/flutter-weekly-issue-25/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/IuaDajQx_tGMKeCzKy-l8A" target="_blank" rel="noopener">给 Android 开发者的 Flutter 指南（下）</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/NK0RMuXM2_AJmAbnnvv9SA" target="_blank" rel="noopener">Flutter 混合开发组件化与工程化架构</a></p></li><li><p><a href="https://juejin.im/post/5d0634c7f265da1b91639232" target="_blank" rel="noopener">Flutter完整开发实战详解(十五、全面理解State与Provider)</a></p></li><li><p><a href="https://juejin.im/post/5cfe0d136fb9a07efc497d7d" target="_blank" rel="noopener">[译] Flutter 布局备忘录</a></p></li><li><p><a href="https://juejin.im/post/5d011f7c51882559ef78e419" target="_blank" rel="noopener">揭秘！一个高准确率的 Flutter 埋点框架如何设计</a></p></li><li><p><a href="https://juejin.im/post/5d00a84fe51d455a2f22023f" target="_blank" rel="noopener">Flutter | 状态管理指南篇——Provider</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/alternadom/WiFiFlutter" target="_blank" rel="noopener">WiFiFlutter</a></p><p> 可以处理WiFi连接(AP, STA)的插件</p></li><li><p><a href="https://github.com/thorandresen/one_time_dialog" target="_blank" rel="noopener">one_time_dialog</a></p><p> 警告提示对话框</p><p> <img src="https://i.loli.net/2019/06/17/5d070a91c88a887840.gif" alt></p></li><li><p><a href="https://github.com/aeyrium/bezier-chart" target="_blank" rel="noopener">bezier-chart</a></p><p> 一个美丽的贝塞尔曲线图表插件</p><p> <img src="https://i.loli.net/2019/06/17/5d070d35c5fbe28704.gif" alt></p></li><li><p><a href="https://github.com/rushio-consulting/flutter_camera_ml_vision" target="_blank" rel="noopener">Flutter Camera Ml Vision</a></p><p> 允许ML视觉识别的相机插件</p></li><li><p><a href="https://github.com/HomeXLabs/lookback-ios-flutter" target="_blank" rel="noopener">Lookback iOS Flutter</a></p><p> 用于Lookback iOS SDK的Flutter插件</p></li><li><p><a href="https://github.com/MaikuB/flutter_app_templates" target="_blank" rel="noopener">Flutter application templates</a></p><p> 可用于构建Flutter应用程序的模板集合</p></li><li><p><a href="https://github.com/itzmeanjan/intent" target="_blank" rel="noopener">intent</a></p><p> 一个简单的处理Android的意图的插件</p></li><li><p><a href="https://github.com/andrewackerman/darq" target="_blank" rel="noopener">darq</a></p><p> .NET的LINQ IEnumerable 的 Dart 实现。 该库为 Dart 添加了一个强大的Enumerable集合类型，这极大地增加了修改集合时的便利性以及处理大型集合和复杂修改时的性能。</p></li><li><p><a href="https://github.com/alnitak/flutter_opengl" target="_blank" rel="noopener">OpenGL Flutter plugin</a></p><p> OpenGL Android NDK插件。</p><p> <img src="https://i.loli.net/2019/06/17/5d07583500c5892713.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/flschweiger/reply" target="_blank" rel="noopener">Reply ❤️ Flutter</a></p><p> 一个电子邮件应用程序，使用 Material Design 组件和Material 主题创建一个品牌上的流畅体验。</p><p> <img src="https://i.loli.net/2019/06/17/5d0717632f1ed76338.png" alt></p></li><li><p><a href="https://github.com/roshanrahman/flutter-notes-app" target="_blank" rel="noopener">Draft - Notes app</a></p><p> 用Flutter写的笔记应用</p><p> <img src="https://i.loli.net/2019/06/17/5d0754878004660341.gif" alt></p></li><li><p><a href="https://github.com/vineeshvk/chat-app-flutter" target="_blank" rel="noopener">Chap Client</a></p><p> 一个功能完整的聊天应用</p><p> <img src="https://i.loli.net/2019/06/17/5d0754ea4fe9670778.png" alt></p></li><li><p><a href="https://github.com/loicgeek/shopper-flut" target="_blank" rel="noopener">shopapp_flut</a></p><p> 一个使用 Bloc  模式的购物 App</p></li><li><p><a href="https://github.com/bailabs/pop" target="_blank" rel="noopener">Pop</a></p><p> 电影趋势App</p><p> <img src="https://i.loli.net/2019/06/17/5d075712bc1c752201.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/FlutterOpen/flutter-canvas" target="_blank" rel="noopener">flutter-canvas</a></p><p> 关于在 Flutter 中使用 Canvas 的例子</p></li><li><p><a href="https://github.com/flutter-devs/flutter_github_profiler" target="_blank" rel="noopener">Flutter GitHub Profiler Demo</a></p><p> 显示GitHub概要文件的示例应用程序。</p><p> <img src="https://i.loli.net/2019/06/17/5d0717ef9102363568.png" alt></p></li><li><p><a href="https://github.com/AppleEducate/flutter_everywhere" target="_blank" rel="noopener">Flutter Everywhere</a></p><p> 适用于iOS, Android, Fuschica, MacOS, Windows, Linux, Web，命令行的 Flutter 模板项目</p></li><li><p><a href="https://github.com/flutter-devs/flutter_MakeMyTrip_UI_Demo" target="_blank" rel="noopener">Flutter Make My Trip App UI Demo</a></p><p> 一个示例应用程序来显示使用flutter的Make My Trip应用程序的UI演示。</p><p> <img src="https://i.loli.net/2019/06/17/5d071584cf61d96972.png" alt></p></li><li><p><a href="https://github.com/rushio-consulting/all_platform_example" target="_blank" rel="noopener">All platform example</a></p><p> Flutter 跨平台应用程序的移动，桌面和web 的示例项目</p></li><li><p><a href="https://github.com/ibhavikmakwana/ExpandingCardAnimation" target="_blank" rel="noopener">ExpandingCardAnimation</a></p><p> 扩展卡片动画演示应用</p></li><li><p><a href="https://github.com/rknell/flutter_skia_example" target="_blank" rel="noopener">flutter_skia_example</a></p><p> painter 的使用示例</p><p> <img src="https://i.loli.net/2019/06/17/5d0753750204e43039.png" alt></p></li></ol><ol><li><p><a href="https://github.com/AppleEducate/provider_persist" target="_blank" rel="noopener">provider_persist</a></p><p> 一个Flutter模板，显示如何为应用提供持久化。</p><p> <img src="https://i.loli.net/2019/06/17/5d075712bc1c752201.png" alt></p></li></ol><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><ol><li><a href="https://www.bilibili.com/video/av55813252/" target="_blank" rel="noopener">DartConf 2018 大会 - Flutter Inspector</a></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files" target="_blank" rel="noopener">Flutter Files</a></p><p> 此扩展允许在VS Code中快速创建Flutter 的 BLoC模板代码。</p><p> <img src="https://i.loli.net/2019/06/17/5d07593b693bf27007.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 混合开发 </tag>
+            
+            <tag> 组件化 </tag>
+            
+            <tag> 工程化 </tag>
+            
+            <tag> 埋点框架 </tag>
+            
+            <tag> 状态管理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Flutter Weekly Issue 24</title>
+      <link href="/flutter-weekly-issue-24/"/>
+      <url>/flutter-weekly-issue-24/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/nMXehH-qYVj-luP6xyOsoA" target="_blank" rel="noopener">给 Android 开发者的 Flutter 指南（上）</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/jogboms/flutter_offline" target="_blank" rel="noopener">flutter_offline</a></p><p> 一个在线和离线提示插件</p><p> <img src="https://i.loli.net/2019/06/09/5cfc89846170c61522.gif" alt></p></li><li><p><a href="https://github.com/jesusrp98/expand_widget" target="_blank" rel="noopener">expand_widget</a></p><p> 能够轻松地展开和收缩组件集合或文本的小组件</p><p> <img src="https://i.loli.net/2019/06/09/5cfcbd8400c7517947.png" alt></p></li><li><p><a href="https://github.com/rrousselGit/provider" target="_blank" rel="noopener">provider</a></p><p> 一组多用途的通用继承小组件</p></li><li><p><a href="https://github.com/stefanJi/IntervalProgressBar" target="_blank" rel="noopener">IntervalProgressBar</a></p><p> 间隔进度条组件</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc089bf47f58906.png" alt></p></li><li><p><a href="https://github.com/Vanethos/flutter_version_banner" target="_blank" rel="noopener">flutter_version_banner</a></p><p> 显示应用程序当前版本或 flavor 的 banner 小组件</p></li><li><p><a href="https://github.com/yadaniyil/flutter_badges" target="_blank" rel="noopener">flutter_badges</a></p><p> 一个用于创建徽章的库。</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc78fdbc6792656.png" alt></p></li><li><p><a href="https://github.com/imaNNeoFighT/fl_chart" target="_blank" rel="noopener">fl_chart</a></p><p> 一个强大的图表库，目前支持线形图，条形图和饼状图。</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc62ecef4e86791.png" alt></p></li><li><p><a href="https://github.com/julvo/flutter_page_slider" target="_blank" rel="noopener">flutter_page_slider</a></p><p> 一个水平滑动页面的小组件</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc6bf7730989587.gif" alt></p></li><li><p><a href="https://github.com/leisim/logger" target="_blank" rel="noopener">logger</a></p><p> 小且易于使用和可扩展的打印漂亮日志记录的库。</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc78fdbc6792656.png" alt></p></li><li><p><a href="https://github.com/ajviera/easy_permission_validator" target="_blank" rel="noopener">easy_permission_validator</a></p><p> 方便的权限验证插件</p></li><li><p><a href="https://github.com/davidanaya/flutter-circular-slider" target="_blank" rel="noopener">flutter-circular-slider</a></p><p> 一个可定制的圆形滑块进度条组件</p><p> <img src="https://i.loli.net/2019/06/09/5cfce63bdae8a24335.gif" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/zubairehman/flutter-boilerplate-project" target="_blank" rel="noopener">flutter-boilerplate-project</a></p><p> 在 Flutter 中使用 MobX 和 Provider 创建的样板项目。</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/songxiaoliang/visitor-flutter" target="_blank" rel="noopener">visitor-flutter</a></p><p> 基于 Flutter &amp; scoped_model 实现的视频类App客户端</p><p> <img src="https://i.loli.net/2019/06/09/5cfc6deaad5e860129.png" alt></p></li><li><p><a href="https://github.com/KarimElghamry/chillify" target="_blank" rel="noopener">chillify</a></p><p> 音乐 App</p><p> <img src="https://i.loli.net/2019/06/09/5cfcc1bd0473198071.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图表 </tag>
+            
+            <tag> MobX </tag>
+            
+            <tag> Provider </tag>
+            
+            <tag> Android </tag>
+            
+            <tag> Log </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 23</title>
       <link href="/flutter-weekly-issue-23/"/>
       <url>/flutter-weekly-issue-23/</url>
@@ -49,9 +115,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
@@ -78,11 +144,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
@@ -175,9 +241,9 @@
             
             <tag> JSON </tag>
             
-            <tag> PlatformView </tag>
-            
             <tag> 多线程 </tag>
+            
+            <tag> PlatformView </tag>
             
             <tag> Texture </tag>
             
