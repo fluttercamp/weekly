@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 26</title>
+      <link href="/flutter-weekly-issue-26/"/>
+      <url>/flutter-weekly-issue-26/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/dC2C1jpDrQSsip6wjiejBw" target="_blank" rel="noopener">Flutter 最新进展与未来展望</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/qDg7WV3tbgDC_kvv3U0ZIA" target="_blank" rel="noopener">Flutter 移动端实战手册</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/iWQwjC8mEWSX9TNz_hn6rw" target="_blank" rel="noopener">Flutter 您需要知道的知识点 | FAQ・第四期</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/alibaba-flutter/aspectd" target="_blank" rel="noopener">AspectD</a></p><p> dart 的 AOP(面向切面编程)框架</p></li><li><p><a href="https://github.com/fabiomsr/lottie-flutter" target="_blank" rel="noopener">LottieFlutter</a></p><p> Flutter 版本的 Lottie 库</p></li><li><p><a href="https://github.com/google/flutter_flux" target="_blank" rel="noopener">flutter_flux</a></p><p> Flux 框架的 Flutter 实现</p></li><li><p><a href="https://github.com/rvamsikrishna/inview_notifier_list" target="_blank" rel="noopener">inview_notifier_list</a></p><p> 一个可以创建一个列表视图，并在小部件出现在屏幕上时发出通知的插件。</p><p> <img src="https://i.loli.net/2019/06/24/5d104e4c8173a48833.png" alt></p></li><li><p><a href="https://github.com/blackmann/story_view" target="_blank" rel="noopener">story_view</a></p><p> 这是一个可以像Whatsapp和Instagram一样显示故事。也可以使用内联/内列表视图或列，就像谷歌新闻应用程序一样。带有暂停、前进和转到前一页的手势。</p><p> <img src="https://i.loli.net/2019/06/24/5d104d2aa4e3670798.gif" alt></p></li><li><p><a href="https://github.com/ReinBentdal/division" target="_blank" rel="noopener">Division</a></p><p> 一个语法受到CSS启发的简单易用的且强大的样式小组件</p><p> <img src="https://i.loli.net/2019/06/24/5d10977f3aac820623.png" alt></p></li><li><p><a href="https://github.com/Sub6Resources/flutter_html" target="_blank" rel="noopener">flutter_html</a></p><p> 一个可以将静态 html 渲染为 Flutter UI 组件的插件(支持70多个不同的 html 标签)</p></li><li><p><a href="https://github.com/lesnitsky/flutter_local_assets_server" target="_blank" rel="noopener">local_assets_server</a></p><p> 一个可以为WebView提供资源的本地服务器插件</p></li><li><p><a href="https://github.com/tomgilder/flutter_platform_inputs" target="_blank" rel="noopener">Flutter Platform Inputs</a></p><p> 从 Flutter 访问 native 的 text field，可以使用familar Flutter小部件语法创建 native 的 text field 来访问本机特性，比如密码自动填充。前期工作正在进行中，目前只支持iOS。</p><p> <img src="https://i.loli.net/2019/06/25/5d11f3d2851bb72288.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter" target="_blank" rel="noopener">GZXTaoBaoAppFlutter</a></p><p> 一个用 Flutter 仿写的淘宝的 App</p><p> <img src="https://i.loli.net/2019/06/24/5d104ba3e161c32992.png" alt></p></li><li><p><a href="https://github.com/ayush221b/newsline" target="_blank" rel="noopener">Newsline</a></p><p> 基于地理位置的新闻趋势 App</p><p> <img src="https://i.loli.net/2019/06/25/5d11f0165b4c859205.png" alt></p></li><li><p><a href="https://github.com/maylortaylor/ArtStumble" target="_blank" rel="noopener">ArtStumble</a></p><p> 一个Flutter开发的艺术探索应用</p></li><li><p><a href="https://github.com/Jithin-Jude/flutter_my_jio_clone" target="_blank" rel="noopener">MyJio</a></p><p> MyJio 应用的 UI 仿写 App</p><p> <img src="https://i.loli.net/2019/06/24/5d109614072c678958.png" alt></p></li><li><p><a href="https://github.com/mkiisoft/taphero" target="_blank" rel="noopener">Tap Hero</a></p><p> 全平台的游戏应用</p><p> <img src="https://i.loli.net/2019/06/25/5d11f348dfbcc75538.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/simplezhli/flutter_deer" target="_blank" rel="noopener">Flutter Deer</a></p><p> Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习。</p><p> <img src="https://i.loli.net/2019/06/18/5d08aa546716911608.png" alt></p></li><li><p><a href="https://github.com/follow2vivek/FlutterBlog" target="_blank" rel="noopener">FlutterBlog</a></p><p> 一些漂亮的 UI 界面实现效果示例</p><p> <img src="https://i.loli.net/2019/06/25/5d11f4fbb897253899.png" alt></p></li></ol><h3 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h3><ol><li><p><a href="https://github.com/JideGuru/FlutterWeb-Pizza" target="_blank" rel="noopener">🍕FlutterWeb-Pizza🍕</a></p><p> 简单的披萨网站主页</p><p> <img src="https://i.loli.net/2019/06/24/5d1095a9d7ec493561.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> FAQ </tag>
+            
+            <tag> 实战 </tag>
+            
+            <tag> AOP </tag>
+            
+            <tag> Lottie </tag>
+            
+            <tag> Flux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 25</title>
       <link href="/flutter-weekly-issue-25/"/>
       <url>/flutter-weekly-issue-25/</url>
@@ -115,9 +148,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -144,11 +177,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -239,11 +272,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
+            <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
             
-            <tag> PlatformView </tag>
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -272,11 +305,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-06-17T09:50:13.470Z</updated>
+  <updated>2019-06-25T11:28:31.560Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 26</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-26/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-26/</id>
+    <published>2019-06-25T11:27:19.000Z</published>
+    <updated>2019-06-25T11:28:31.560Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. Flutter 最新进展与未来展望
+    
+    
+ 2. Flutter 移动端实战手册
+    
+    
+ 3. Flutter 您需要知道的知识点 | FAQ・第四期
+    
+    
+
+插件
+ 1. AspectD
+    
+     dart 的 AOP(面向切面编程)框架
+    
+    
+ 2. LottieFlutter
+    
+     Flutter 版本的 Lottie 库
+    
+    
+ 3. flutter_flux
+    
+     Flux 框架的 Flutter 实现
+    
+    
+ 4. inview_notifier_
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="FAQ" scheme="https://flutterweekly.dev/tags/FAQ/"/>
+    
+      <category term="实战" scheme="https://flutterweekly.dev/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="AOP" scheme="https://flutterweekly.dev/tags/AOP/"/>
+    
+      <category term="Lottie" scheme="https://flutterweekly.dev/tags/Lottie/"/>
+    
+      <category term="Flux" scheme="https://flutterweekly.dev/tags/Flux/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 25</title>
@@ -215,9 +270,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -268,11 +323,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
-    
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -418,11 +473,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
+      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
-      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -465,11 +520,11 @@
     
       <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
+    
       <category term="Streams" scheme="https://flutterweekly.dev/tags/Streams/"/>
     
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
-    
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
   </entry>
   
@@ -948,51 +1003,6 @@
       <category term="TextField" scheme="https://flutterweekly.dev/tags/TextField/"/>
     
       <category term="Container" scheme="https://flutterweekly.dev/tags/Container/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 6</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-6/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-6/</id>
-    <published>2019-02-04T12:32:19.000Z</published>
-    <updated>2019-04-28T05:30:40.894Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  Flutter — 通过布局编辑器创建 Widget #1
-     
-     
- 2.  如何在 Flutter 应用开发中添加 Google Map
-     
-     
- 3.  在 Flutter 中如何实现搜索
-     
-     
- 4.  如何在没有 Mac 的情况下开发和调试 iOS 的 Flutter应用
-     
-     
- 5.  Sample Form — Part 1— Flutter
-     
-     
- 6.  Flutter 容器: 不是你认为的 div
-     
-     
- 7.  深入了解Flutter的 isolate(3
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
-    
-      <category term="GestureDetector" scheme="https://flutterweekly.dev/tags/GestureDetector/"/>
-    
-      <category term="CI/CD" scheme="https://flutterweekly.dev/tags/CI-CD/"/>
-    
-      <category term="Google Map" scheme="https://flutterweekly.dev/tags/Google-Map/"/>
     
   </entry>
   
