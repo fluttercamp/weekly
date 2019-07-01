@@ -13,13 +13,13 @@
   <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="alternate" href="/atom.xml" title="Flutter Weekly">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决Flutter内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于JS的高性能Flutter动态化框架MXFlutter            5. [译] Flutter —— 根据不同屏幕尺寸高">
-<meta name="keywords" content="FAQ,实战,AOP,Lottie,Flux">
+  <meta name="description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决 Flutter 内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于 JS 的高性能 Flutter 动态化框架 MXFlutter            5. [译] Flutter —— 根据">
+<meta name="keywords" content="内存泄漏,Provider,动态化,适配,ReactNative">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Flutter Weekly Issue 27">
 <meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-27/index.html">
 <meta property="og:site_name" content="Flutter Weekly">
-<meta property="og:description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决Flutter内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于JS的高性能Flutter动态化框架MXFlutter            5. [译] Flutter —— 根据不同屏幕尺寸高">
+<meta property="og:description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决 Flutter 内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于 JS 的高性能 Flutter 动态化框架 MXFlutter            5. [译] Flutter —— 根据">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://i.loli.net/2019/06/25/5d11f1a7ad46c51193.png">
 <meta property="og:image" content="https://i.loli.net/2019/07/01/5d195aa8b945b34308.png">
@@ -31,10 +31,10 @@
 <meta property="og:image" content="https://i.loli.net/2019/07/01/5d195a5b81bfb14352.png">
 <meta property="og:image" content="https://i.loli.net/2019/07/01/5d1960b0724e717677.png">
 <meta property="og:image" content="https://i.loli.net/2019/07/01/5d195e35a245e23033.png">
-<meta property="og:updated_time" content="2019-07-01T09:02:39.096Z">
+<meta property="og:updated_time" content="2019-07-01T09:12:01.173Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Flutter Weekly Issue 27">
-<meta name="twitter:description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决Flutter内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于JS的高性能Flutter动态化框架MXFlutter            5. [译] Flutter —— 根据不同屏幕尺寸高">
+<meta name="twitter:description" content="教程  1. Flutter 状态管理指南之 Provider            2. 看腾讯企鹅辅导如何解决 Flutter 内存泄漏            3. 全网最全 Flutter 与 React Native 深入对比分析            4. 基于 JS 的高性能 Flutter 动态化框架 MXFlutter            5. [译] Flutter —— 根据">
 <meta name="twitter:image" content="https://i.loli.net/2019/06/25/5d11f1a7ad46c51193.png">
     
   <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
@@ -173,11 +173,11 @@
     	<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol>
 <li><p><a href="https://mp.weixin.qq.com/s/8VoRA0aE128wKnUq-uRJWA" target="_blank" rel="noopener">Flutter 状态管理指南之 Provider</a></p>
 </li>
-<li><p><a href="https://mp.weixin.qq.com/s/Xjsmc18VJikVaDfyfQO29g" target="_blank" rel="noopener">看腾讯企鹅辅导如何解决Flutter内存泄漏</a></p>
+<li><p><a href="https://mp.weixin.qq.com/s/Xjsmc18VJikVaDfyfQO29g" target="_blank" rel="noopener">看腾讯企鹅辅导如何解决 Flutter 内存泄漏</a></p>
 </li>
 <li><p><a href="https://juejin.im/post/5d0bac156fb9a07ec56e7f15" target="_blank" rel="noopener">全网最全 Flutter 与 React Native 深入对比分析</a></p>
 </li>
-<li><p><a href="https://juejin.im/post/5d11a4f06fb9a07ec63b21ea" target="_blank" rel="noopener">基于JS的高性能Flutter动态化框架MXFlutter</a></p>
+<li><p><a href="https://juejin.im/post/5d11a4f06fb9a07ec63b21ea" target="_blank" rel="noopener">基于 JS 的高性能 Flutter 动态化框架 MXFlutter</a></p>
 </li>
 <li><p><a href="https://juejin.im/post/5d1626a15188255d6c21e806" target="_blank" rel="noopener">[译] Flutter —— 根据不同屏幕尺寸高效的适配 UI</a></p>
 </li>
@@ -201,7 +201,7 @@
 <p> 一个简单、非官方的AWS S3 客户端</p>
 </li>
 <li><p><a href="https://github.com/TGIF-iMatrix/MXFlutter" target="_blank" rel="noopener">MXFlutter</a></p>
-<p> 基于JS的高性能Flutter动态化框架</p>
+<p> 基于 JS 的高性能 Flutter 动态化框架</p>
 </li>
 <li><p><a href="https://github.com/peng8350/flutter_pulltorefresh" target="_blank" rel="noopener">flutter_pulltorefresh</a></p>
 <p> 一个提供上拉加载和下拉刷新的组件,同时支持Android和 iOS</p>
@@ -253,15 +253,15 @@
 	  
 	  <div class="article-tags tags">
       
-        <a href="/tags/FAQ/">FAQ</a>
+        <a href="/tags/内存泄漏/">内存泄漏</a>
       
-        <a href="/tags/实战/">实战</a>
+        <a href="/tags/Provider/">Provider</a>
       
-        <a href="/tags/AOP/">AOP</a>
+        <a href="/tags/动态化/">动态化</a>
       
-        <a href="/tags/Lottie/">Lottie</a>
+        <a href="/tags/适配/">适配</a>
       
-        <a href="/tags/Flux/">Flux</a>
+        <a href="/tags/ReactNative/">ReactNative</a>
       
 	  </div>
     

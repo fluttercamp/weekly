@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-07-01T09:02:39.096Z</updated>
+  <updated>2019-07-01T09:12:01.173Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://flutterweekly.dev/flutter-weekly-issue-27/"/>
     <id>https://flutterweekly.dev/flutter-weekly-issue-27/</id>
     <published>2019-07-01T09:00:19.000Z</published>
-    <updated>2019-07-01T09:02:39.096Z</updated>
+    <updated>2019-07-01T09:12:01.173Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,13 @@
  1. Flutter 状态管理指南之 Provider
     
     
- 2. 看腾讯企鹅辅导如何解决Flutter内存泄漏
+ 2. 看腾讯企鹅辅导如何解决 Flutter 内存泄漏
     
     
  3. 全网最全 Flutter 与 React Native 深入对比分析
     
     
- 4. 基于JS的高性能Flutter动态化框架MXFlutter
+ 4. 基于 JS 的高性能 Flutter 动态化框架 MXFlutter
     
     
  5. [译] Flutter —— 根据不同屏幕尺寸高效的适配 UI
@@ -50,22 +50,20 @@
      
     
     
- 
-    
     </summary>
     
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="FAQ" scheme="https://flutterweekly.dev/tags/FAQ/"/>
+      <category term="内存泄漏" scheme="https://flutterweekly.dev/tags/%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F/"/>
     
-      <category term="实战" scheme="https://flutterweekly.dev/tags/%E5%AE%9E%E6%88%98/"/>
+      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
     
-      <category term="AOP" scheme="https://flutterweekly.dev/tags/AOP/"/>
+      <category term="动态化" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E6%80%81%E5%8C%96/"/>
     
-      <category term="Lottie" scheme="https://flutterweekly.dev/tags/Lottie/"/>
+      <category term="适配" scheme="https://flutterweekly.dev/tags/%E9%80%82%E9%85%8D/"/>
     
-      <category term="Flux" scheme="https://flutterweekly.dev/tags/Flux/"/>
+      <category term="ReactNative" scheme="https://flutterweekly.dev/tags/ReactNative/"/>
     
   </entry>
   
@@ -323,9 +321,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -526,11 +524,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
+    
       <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -573,11 +571,11 @@
     
       <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
-    
       <category term="Streams" scheme="https://flutterweekly.dev/tags/Streams/"/>
     
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
+    
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
   </entry>
   
