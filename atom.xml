@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-06-25T11:28:31.560Z</updated>
+  <updated>2019-07-01T09:02:39.096Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 27</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-27/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-27/</id>
+    <published>2019-07-01T09:00:19.000Z</published>
+    <updated>2019-07-01T09:02:39.096Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. Flutter 状态管理指南之 Provider
+    
+    
+ 2. 看腾讯企鹅辅导如何解决Flutter内存泄漏
+    
+    
+ 3. 全网最全 Flutter 与 React Native 深入对比分析
+    
+    
+ 4. 基于JS的高性能Flutter动态化框架MXFlutter
+    
+    
+ 5. [译] Flutter —— 根据不同屏幕尺寸高效的适配 UI
+    
+    
+
+插件
+ 1. connectivity_widget
+    
+     一个小组件，显示用户的手机是否连接到互联网
+    
+     
+    
+    
+ 
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="FAQ" scheme="https://flutterweekly.dev/tags/FAQ/"/>
+    
+      <category term="实战" scheme="https://flutterweekly.dev/tags/%E5%AE%9E%E6%88%98/"/>
+    
+      <category term="AOP" scheme="https://flutterweekly.dev/tags/AOP/"/>
+    
+      <category term="Lottie" scheme="https://flutterweekly.dev/tags/Lottie/"/>
+    
+      <category term="Flux" scheme="https://flutterweekly.dev/tags/Flux/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 26</title>
@@ -323,11 +376,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -955,54 +1008,6 @@
       <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
     
       <category term="isolate" scheme="https://flutterweekly.dev/tags/isolate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 8</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-8/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-8/</id>
-    <published>2019-02-08T12:32:19.000Z</published>
-    <updated>2019-04-28T05:30:40.739Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  Flutter第1天–初始分析+Dart方言+Canvas简绘
-     
-     
- 2.  Flutter第2天–Animation动画+粒子运动
-     
-     
- 3.  Flutter第3天–基础控件(上)
-     
-     
- 4.  Flutter第4天–基础控件(下)+Flex布局详解
-     
-     
- 5.  Flutter第5天–布局实例+操作交互
-     
-     
- 6.  Flutter第6天–异步-IO+网络访问+json
-     
-     
- 7.  Flutter第7天–字体图标+综合小案例+Android代码交互
- 
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Animation" scheme="https://flutterweekly.dev/tags/Animation/"/>
-    
-      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
-    
-      <category term="Canvas" scheme="https://flutterweekly.dev/tags/Canvas/"/>
-    
-      <category term="TextField" scheme="https://flutterweekly.dev/tags/TextField/"/>
-    
-      <category term="Container" scheme="https://flutterweekly.dev/tags/Container/"/>
     
   </entry>
   

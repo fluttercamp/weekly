@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 27</title>
+      <link href="/flutter-weekly-issue-27/"/>
+      <url>/flutter-weekly-issue-27/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/8VoRA0aE128wKnUq-uRJWA" target="_blank" rel="noopener">Flutter 状态管理指南之 Provider</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/Xjsmc18VJikVaDfyfQO29g" target="_blank" rel="noopener">看腾讯企鹅辅导如何解决Flutter内存泄漏</a></p></li><li><p><a href="https://juejin.im/post/5d0bac156fb9a07ec56e7f15" target="_blank" rel="noopener">全网最全 Flutter 与 React Native 深入对比分析</a></p></li><li><p><a href="https://juejin.im/post/5d11a4f06fb9a07ec63b21ea" target="_blank" rel="noopener">基于JS的高性能Flutter动态化框架MXFlutter</a></p></li><li><p><a href="https://juejin.im/post/5d1626a15188255d6c21e806" target="_blank" rel="noopener">[译] Flutter —— 根据不同屏幕尺寸高效的适配 UI</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Vanethos/flutter_connectivity_widget" target="_blank" rel="noopener">connectivity_widget</a></p><p> 一个小组件，显示用户的手机是否连接到互联网</p><p> <img src="https://i.loli.net/2019/06/25/5d11f1a7ad46c51193.png" alt></p></li><li><p><a href="https://github.com/suyash/geopattern" target="_blank" rel="noopener">geopattern_flutter</a></p><p> 几何图案生成插件</p><p> <img src="https://i.loli.net/2019/07/01/5d195aa8b945b34308.png" alt></p></li><li><p><a href="https://pub.dev/packages/google_photos" target="_blank" rel="noopener">google_photo</a></p><p> Google Photos 的 Dart SDK</p></li><li><p><a href="https://github.com/cachapa/firedart" target="_blank" rel="noopener">firedart</a></p><p> Firebase SDK的一个不完整的 Dart 实现</p></li><li><p><a href="https://github.com/diagnosia/flutter_aws_s3_client" target="_blank" rel="noopener">flutter_aws_s3_client</a></p><p> 一个简单、非官方的AWS S3 客户端</p></li><li><p><a href="https://github.com/TGIF-iMatrix/MXFlutter" target="_blank" rel="noopener">MXFlutter</a></p><p> 基于JS的高性能Flutter动态化框架</p></li><li><p><a href="https://github.com/peng8350/flutter_pulltorefresh" target="_blank" rel="noopener">flutter_pulltorefresh</a></p><p> 一个提供上拉加载和下拉刷新的组件,同时支持Android和 iOS</p><p> <img src="https://i.loli.net/2019/07/01/5d197611abaec96911.gif" alt></p></li><li><p><a href="https://github.com/BaseflowIT/flutter-geolocator" target="_blank" rel="noopener">Flutter Geolocator Plugin</a></p><p> 一个 Flutter 地理定位插件</p></li><li><p><a href="https://github.com/rajajain08/particles_flutter" target="_blank" rel="noopener">particles_flutter</a></p><p> 在 Flutter 项目中用简单的方法实现粒子动画的示例。</p><p> <img src="https://i.loli.net/2019/06/25/5d11f0d26d3ca65727.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/JideGuru/FlutterFoodybite" target="_blank" rel="noopener">Foodybite</a></p><p> 一个漂亮的食物相关 App 界面实现示例</p><p> <img src="https://i.loli.net/2019/06/25/5d11f1de9057a15832.png" alt></p></li><li><p><a href="https://github.com/EsmerlinJM/Card-Wallet-App" target="_blank" rel="noopener">Card Wallet</a></p><p> 信用卡钱包 App</p><p> <img src="https://i.loli.net/2019/06/25/5d11f050a152e44796.gif" alt></p></li><li><p><a href="https://github.com/nonybrighto/tv-series-jokes" target="_blank" rel="noopener">tv-series-jokes</a></p><p> 一个用于与朋友分享你最喜欢的电视剧笑话的android应用程序。帮助您下载您的朋友分享的笑话，并将他们添加到您最喜欢的收藏。</p><p> <img src="https://i.loli.net/2019/06/25/5d11f253b192379719.png" alt></p></li><li><p><a href="https://github.com/AmitJoki/Enigma" target="_blank" rel="noopener">Enigma</a></p><p> 一个极简主义的专注于一对一的聊天应用。</p><p> <img src="https://i.loli.net/2019/07/01/5d195a5b81bfb14352.png" alt></p></li><li><p><a href="https://github.com/ThalapathySiva/drink_reminder_flutter" target="_blank" rel="noopener">Water Drink Reminder App</a></p><p> 一个跨平台的提醒你喝水的应用。</p><p> <img src="https://i.loli.net/2019/07/01/5d1960b0724e717677.png" alt></p></li></ol><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><ol><li><p><a href="https://www.youtube.com/watch?v=OTS-ap9_aXc" target="_blank" rel="noopener">Dart Futures - 聚焦 Flutter</a></p><p> 本视频是《聚焦 Flutter (Flutter in Focus)》系列的第二部视频，本系列旨在讲解如何在 Dart 中进行异步编程。在本集中，你将了解所有与 Future 对象相关的内容，它是 Dart 最基本的异步 API，包括如何处理数据、捕获错误以及使用 Futures 和 FutureBuilder 构建 Flutter 小部件。</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://juejin.im/post/5d1463245188255d0d2f5c81" target="_blank" rel="noopener">JsonToDart</a></p><p> 一个将 JSON 字符串转换成 Dart 代码的工具</p><p> <img src="https://i.loli.net/2019/07/01/5d195e35a245e23033.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> FAQ </tag>
+            
+            <tag> 实战 </tag>
+            
+            <tag> AOP </tag>
+            
+            <tag> Lottie </tag>
+            
+            <tag> Flux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 26</title>
       <link href="/flutter-weekly-issue-26/"/>
       <url>/flutter-weekly-issue-26/</url>
@@ -177,11 +210,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
