@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-07-01T09:12:01.173Z</updated>
+  <updated>2019-07-23T08:09:29.892Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,112 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 29</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-29/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-29/</id>
+    <published>2019-07-23T02:36:19.000Z</published>
+    <updated>2019-07-23T08:09:29.892Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. flutter engine 那些没被释放的东西
+    
+    
+ 2. widget state 界面刷新原理揭秘
+    
+    
+ 3. Flex布局完全解读
+    
+    
+
+插件
+ 1. Flutter Workmanager
+    
+     用于 Flutter 的 Android 的 WorkManager 的包装器
+    
+    
+ 2. tflite_native
+    
+     一个通过Dart的外部功能接口(FFI)连接到TensorFlow Lite (tflite)的Dart接口的库。
+    
+    
+ 3. equinox
+ 
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="Workmanager" scheme="https://flutterweekly.dev/tags/Workmanager/"/>
+    
+      <category term="state" scheme="https://flutterweekly.dev/tags/state/"/>
+    
+      <category term="Reactive" scheme="https://flutterweekly.dev/tags/Reactive/"/>
+    
+      <category term="包管理器" scheme="https://flutterweekly.dev/tags/%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flutter Weekly Issue 28</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-28/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-28/</id>
+    <published>2019-07-15T05:00:19.000Z</published>
+    <updated>2019-07-23T02:35:10.785Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. MVC、MVP、BloC、Redux 四种架构在 Flutter 上的尝试
+    
+    
+ 2. Flutter 从静态界面到抽取封装
+    
+    
+
+插件
+ 1. flutter_ijkplayer
+    
+     Flutter 版的 ijkplayer 音视频播放组件
+    
+    
+ 2. tinycolor
+    
+     一个适用于 Flutter 的 颜色操纵和转换库
+    
+    
+ 3. clippy_flutter
+    
+     用提供的自定义形状剪辑小部件。
+    
+    
+
+
+
+ 1. CountryCodePicke
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
+    
+      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
+    
+      <category term="架构" scheme="https://flutterweekly.dev/tags/%E6%9E%B6%E6%9E%84/"/>
+    
+      <category term="MVP" scheme="https://flutterweekly.dev/tags/MVP/"/>
+    
+      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
+    
+      <category term="ijkplayer" scheme="https://flutterweekly.dev/tags/ijkplayer/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 27</title>
@@ -321,9 +427,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -915,97 +1021,6 @@
       <category term="手势" scheme="https://flutterweekly.dev/tags/%E6%89%8B%E5%8A%BF/"/>
     
       <category term="Painter" scheme="https://flutterweekly.dev/tags/Painter/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 9</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-9/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-9/</id>
-    <published>2019-02-25T12:32:19.000Z</published>
-    <updated>2019-04-28T05:30:40.807Z</updated>
-    
-    <summary type="html">
-    
-      新闻
- 1. 即将开源 | 2亿用户背后的Flutter应用框架Fish Redux
-
-教程
- 1.  用 Flutter 和 Flame 再现著名的霸王龙游戏
-     
-     
- 2.  Flutter实战之实现一个简单的新闻阅读器
-     
-     
- 3.  Flutter布局锦囊—轮播图片与滑块
-     
-     
- 4.  Flutter布局锦囊—验证码倒计时
-     
-     
- 5.  Flutter布局锦囊—涂鸦风格按钮
-     
-     
- 6.  Flutter布局锦囊—带彩条的文本字段
-     
-     
- 7.  Flutter布局锦囊—蜡笔画
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Flame" scheme="https://flutterweekly.dev/tags/Flame/"/>
-    
-      <category term="Firestore" scheme="https://flutterweekly.dev/tags/Firestore/"/>
-    
-      <category term="Dialog" scheme="https://flutterweekly.dev/tags/Dialog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 7</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-7/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-7/</id>
-    <published>2019-02-11T12:32:19.000Z</published>
-    <updated>2019-04-28T05:30:40.945Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  深入了解Flutter的isolate(2) — 创建自己的isolate
-     
-     
- 2.  Flutter中消息传递
-     
-     
- 3.  Flutter仿网易云音乐：播放界面
-     
-     
- 4.  Flutter实战详解–高仿好奇心日报
-     
-     
- 5.  Flutter杂症（InkWell,TextField）
-     
-     
- 6.  [译]Flutter 响应式编程：Steams 和 BLoC 实践范例
-     
-     
- 7.  深入了解Flutter的isolate(4) — 使用isolates
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Steams" scheme="https://flutterweekly.dev/tags/Steams/"/>
-    
-      <category term="BLoC" scheme="https://flutterweekly.dev/tags/BLoC/"/>
-    
-      <category term="Redux" scheme="https://flutterweekly.dev/tags/Redux/"/>
-    
-      <category term="isolate" scheme="https://flutterweekly.dev/tags/isolate/"/>
     
   </entry>
   

@@ -4,6 +4,72 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 29</title>
+      <link href="/flutter-weekly-issue-29/"/>
+      <url>/flutter-weekly-issue-29/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://juejin.im/post/5d35a4736fb9a07eb94fc92c" target="_blank" rel="noopener">flutter engine 那些没被释放的东西</a></p></li><li><p><a href="https://juejin.im/post/5d32b332e51d45105d63a5ed" target="_blank" rel="noopener">widget state 界面刷新原理揭秘</a></p></li><li><p><a href="https://juejin.im/post/5d32f47a6fb9a07ee7431961" target="_blank" rel="noopener">Flex布局完全解读</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/timrijckaert/flutter_workmanager" target="_blank" rel="noopener">Flutter Workmanager</a></p><p> 用于 Flutter 的 Android 的 WorkManager 的包装器</p></li><li><p><a href="https://github.com/dart-lang/tflite_native" target="_blank" rel="noopener">tflite_native</a></p><p> 一个通过Dart的外部功能接口(FFI)连接到TensorFlow Lite (tflite)的Dart接口的库。</p></li><li><p><a href="https://github.com/kekland/equinox" target="_blank" rel="noopener">equinox</a></p><p> Eva Design System  的 Flutter 实现</p><p> <img src="https://i.loli.net/2019/07/22/5d35aad6ec05b45506.png" alt></p></li></ol><ol><li><p><a href="https://github.com/xsahil03x/before_after" target="_blank" rel="noopener">Before After</a></p><p> 一个可以更容易显示两个图像之间差异的库。</p><p> <img src="https://i.loli.net/2019/07/22/5d357c7f3d97527579.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/wiltonribeiro/fluid_slider_flutter" target="_blank" rel="noopener">Fluid Slider Flutter</a></p><p> 液体滑块效果的滑块进度插件</p><p> <img src="https://i.loli.net/2019/07/22/5d35c7759340644186.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/tomgilder/flutter_apple_sign_in" target="_blank" rel="noopener">Apple Sign In - Flutter Plugin</a></p><p>  Flutter 版本的 Apple 账号登录插件</p></li><li><p><a href="https://github.com/Shark01/google_map_polyline" target="_blank" rel="noopener">google_map_polyline</a></p><p> 一个可以根据经纬度坐标点在 Google map 上绘制折线段的库</p></li><li><p><a href="https://github.com/pharshdev/logcat" target="_blank" rel="noopener">logcat</a></p><p> 一个可以获取系统消息、堆栈跟踪等信息，并显示在应用程序中，也可以使用共享插件从远程设备获取应用程序日志的插件。</p></li><li><p><a href="https://github.com/umutseven92/Goban" target="_blank" rel="noopener">Goban</a></p><p> 可定制的围棋板小部件</p><p> <img src="https://i.loli.net/2019/07/22/5d35ca11f0d9077812.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/handoing/flutter_page_transition" target="_blank" rel="noopener">flutter_page_transition</a></p><p> 一个丰富，方便，易于使用的 Flutter 页面转场效果库。</p><p> <img src="https://i.loli.net/2019/07/22/5d35d25a16b3744712.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/iamSahdeep/liquid_swipe_flutter" target="_blank" rel="noopener">liquid_swipe_flutter</a></p><p> 液体滑动效果库</p><p> <img src="https://i.loli.net/2019/07/22/5d35d59a1b60c57151.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/simolus3/moor/" target="_blank" rel="noopener">Moor</a></p><p> 一个易于使用，响应式，类型安全的数据持久化库</p></li><li><p><a href="https://github.com/excogitatr/ant_icons" target="_blank" rel="noopener">ant_icons</a></p><p> 用于Ant图标的Flutter包。</p><p> <img src="https://i.loli.net/2019/07/23/5d35dfcfc0ac073849.png" alt></p></li><li><p><a href="https://github.com/renggli/dart-rx" target="_blank" rel="noopener">Reactive Dart</a></p><p> Dart 的响应式扩展库</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/flutter-devs/flutter_classified_app" target="_blank" rel="noopener">Flutter Classified App Demo</a></p><p> 一个示例应用程序，使用flutter展示分类应用程序。</p><p> <img src="https://github.com/flutter-devs/flutter_classified_app/raw/master/screens/demo.gif" alt></p></li><li><p><a href="https://github.com/HossamElghamry/Mediminder" target="_blank" rel="noopener">Mediminder</a></p><p> 一个医学相关的提醒 App</p><p> <img src="https://i.loli.net/2019/07/22/5d35d4251808599572.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/excogitatr/fun_translation_flutter" target="_blank" rel="noopener">fun_translation_flutter</a></p><p> Fun translation API 使用示例项目</p><p> <img src="https://i.loli.net/2019/07/22/5d35d3c70263e85042.png" alt></p></li></ol><ol><li><p><a href="https://github.com/flutter-devs/flutter_Flipkart_UI_clone" target="_blank" rel="noopener">Flutter Flipkart UI Demo</a></p><p> 仿 Flipkar 的示例 App</p><p> <img src="https://i.loli.net/2019/07/22/5d35a716f356681123.png" alt></p></li></ol><ol><li><p><a href="https://github.com/JideGuru/FlutterSocialAppUIKit" target="_blank" rel="noopener">FlutterSocialAppUIKit</a></p><p> 一个 UI 设计概念稿的实现</p><p> <img src="https://i.loli.net/2019/07/22/5d35a72eeb6b814882.png" alt></p></li><li><p><a href="https://github.com/nonybrighto/login-sign-up-ui" target="_blank" rel="noopener">Login-sign-up-ui</a></p><p> 一个登录和注册用户界面设计实现</p></li></ol><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><ol><li><p><a href="https://github.com/HossamElghamry/FLX" target="_blank" rel="noopener">FLX</a></p><p> 一个用 Provider 和 BLoC 模式开发的简单的 Flutter 游戏</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Flutterando/slidy" target="_blank" rel="noopener">Slidy</a></p><p> 命令行包管理器</p></li><li><p><a href="https://github.com/aksharpatel47/vscode_flutter_helper" target="_blank" rel="noopener">Flutter Helpers VSCode Extension</a></p><p> 一个可以帮助您轻松编写JSONSerializable带注释的类的 VSCode 插件</p><p> <img src="https://i.loli.net/2019/07/22/5d35d6e14b55e70739.gif" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Workmanager </tag>
+            
+            <tag> state </tag>
+            
+            <tag> Reactive </tag>
+            
+            <tag> 包管理器 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Flutter Weekly Issue 28</title>
+      <link href="/flutter-weekly-issue-28/"/>
+      <url>/flutter-weekly-issue-28/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://juejin.im/post/5d2c4b76f265da1bb56529b5" target="_blank" rel="noopener">MVC、MVP、BloC、Redux 四种架构在 Flutter 上的尝试</a></p></li><li><p><a href="https://juejin.im/post/5d352744e51d4510b71da6c4" target="_blank" rel="noopener">Flutter 从静态界面到抽取封装</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/CaiJingLong/flutter_ijkplayer" target="_blank" rel="noopener">flutter_ijkplayer</a></p><p> Flutter 版的 ijkplayer 音视频播放组件</p></li><li><p><a href="https://github.com/FooStudio/tinycolor" target="_blank" rel="noopener">tinycolor</a></p><p> 一个适用于 Flutter 的 颜色操纵和转换库</p></li><li><p><a href="https://github.com/figengungor/clippy_flutter" target="_blank" rel="noopener">clippy_flutter</a></p><p> 用提供的自定义形状剪辑小部件。</p></li></ol><p><img src="https://i.loli.net/2019/07/22/5d350ccd530d256319.png" alt></p><ol><li><p><a href="https://github.com/imtoori/CountryCodePicker" target="_blank" rel="noopener">CountryCodePicker</a></p><p> 一个用于显示国家代码选择器组件</p><p> <img src="https://i.loli.net/2019/07/22/5d357e3041f2915425.png" alt></p></li></ol><ol><li><p><a href="https://github.com/Norbert515/flutter_sequence_animation" target="_blank" rel="noopener">flutter_sequence_animation</a></p><p> 一个方便编排多个动画的库。</p><p> <img src="https://i.loli.net/2019/07/23/5d366fd08f73216888.gif" alt></p></li><li><p><a href="https://github.com/ButterCMS/buttercms-dart" target="_blank" rel="noopener">buttercms_dart</a></p><p> ButterCMS 官方开发的  ButterCMS API 的 Dart SDK</p></li><li><p><a href="https://github.com/best-flutter/transformer_page_view" target="_blank" rel="noopener">transformer_page_view</a></p><p> 适用于 Flutter 的页面转场效果库</p><p> <img src="https://i.loli.net/2019/07/22/5d35801760f7537235.gif" alt></p></li><li><p><a href="https://github.com/jiangyang5157/flutter_progress_button" target="_blank" rel="noopener">flutter_progress_button</a></p><p> 一个带有进度状态的 Material Design 按钮组件</p><p> <img src="https://i.loli.net/2019/07/22/5d3585be6b97b37016.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/devrnt/book-library" target="_blank" rel="noopener">Book Library</a></p><p> 一个适用于 Android 和 iOS 的 图书库 App</p></li><li><p><a href="https://github.com/blankapp/flutter_starterkit" target="_blank" rel="noopener">flutter_starterkit</a></p><p> 一个 Flutter 的模版项目</p></li><li><p><a href="https://github.com/zhaochengxiang/flutter_lychee" target="_blank" rel="noopener">lychee</a></p><p> 超完整的Flutter项目，功能丰富，适合学习和日常使用。</p><p> <img src="https://i.loli.net/2019/07/22/5d350d201df7244240.png" alt></p></li></ol><h3 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h3><ol><li><p><a href="https://github.com/csells/flutter_mplat_ttt" target="_blank" rel="noopener">Flutter Multi-Platform Tic-Tac-Toe</a></p><p> 一个 Flutter 开发的跨平台的简单游戏</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/aloisdeniel/flutter_shared_ui_poc" target="_blank" rel="noopener">flutter_shared_ui_poc</a></p><p> 一个探索在 mobile 和 web 之间共享 UI 的示例项目</p></li><li><p><a href="https://github.com/SubirZ/quick_action" target="_blank" rel="noopener">quick_action</a></p><p> 演示了快速操作的使用。</p></li><li><p><a href="https://github.com/shichunlei/flutter_app" target="_blank" rel="noopener">Flutter Demos</a></p><p> 本项目包括各种基本控件使用</p><p> <img src="https://i.loli.net/2019/07/22/5d35a2210dfd736939.png" alt></p></li></ol><h3 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h3><ol><li><p><a href="https://github.com/ashishrawat2911/flutter_web_portfolio" target="_blank" rel="noopener">flutter_web_portfolio</a></p><p> 一个用 Flutter 开发的个人作品集网站</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> BloC </tag>
+            
+            <tag> MVC </tag>
+            
+            <tag> 架构 </tag>
+            
+            <tag> MVP </tag>
+            
+            <tag> Redux </tag>
+            
+            <tag> ijkplayer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 27</title>
       <link href="/flutter-weekly-issue-27/"/>
       <url>/flutter-weekly-issue-27/</url>
@@ -181,9 +247,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -611,11 +677,11 @@
       
         <tags>
             
+            <tag> Redux </tag>
+            
             <tag> Steams </tag>
             
             <tag> BLoC </tag>
-            
-            <tag> Redux </tag>
             
             <tag> isolate </tag>
             
@@ -642,9 +708,9 @@
       
         <tags>
             
-            <tag> Animation </tag>
-            
             <tag> Redux </tag>
+            
+            <tag> Animation </tag>
             
             <tag> Canvas </tag>
             
