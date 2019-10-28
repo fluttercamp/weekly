@@ -8,7 +8,7 @@
       <link href="/flutter-weekly-issue-31/"/>
       <url>/flutter-weekly-issue-31/</url>
       
-        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/LLU3FfUoeoOyyZnfO81mvg" target="_blank" rel="noopener">探索 Flutter 异步消息的实现</a></li></ol><h3 id="插件-库"><a href="#插件-库" class="headerlink" title="插件/库"></a>插件/库</h3><ol><li><p><a href="https://github.com/ensody/flutter_simple_state" target="_blank" rel="noopener">flutter_simple_state</a></p><p> 一个简单易于理解的 Flutter 状态管理解决方案</p></li><li><p><a href="https://github.com/quentinleguennec/flutter-slide-container" target="_blank" rel="noopener">Slide Container</a></p><p> 一个既可以垂直滑动又可以水平滑动的容器控件。</p></li><li><p><a href="https://github.com/fluttercandies/extended_image" target="_blank" rel="noopener">extended_image</a></p><p> 强大的官方Image扩展组件, 支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能</p></li></ol><p><img src="https://github.com/fluttercandies/Flutter_Candies/raw/master/gif/extended_image/custom.gif" alt></p><ol><li><p><a href="https://github.com/Ali-Azmoud/flutter_xlider" target="_blank" rel="noopener">flutter_xlider</a></p><p> 一个 Material Design 风格的滑块进度条组件</p></li></ol><p><img src="https://i.loli.net/2019/07/31/5d41511442eeb85857.gif" alt></p><ol><li><p><a href="https://github.com/florent37/Flutter-ShapeOfView" target="_blank" rel="noopener">Flutter-ShapeOfView</a></p><p> 一个自定义形状组件</p></li></ol><p><img src="https://i.loli.net/2019/07/31/5d4153d90b2c088043.gif" alt></p><ol><li><p><a href="https://github.com/dnfield/flutter_svg" target="_blank" rel="noopener">flutter_svg</a></p><p> svg 文件解析和渲染小组件</p></li><li><p><a href="https://github.com/tanersener/flutter-ffmpeg" target="_blank" rel="noopener">flutter_ffmpeg</a></p><p> FFmpeg 的 Flutter 插件</p></li><li><p><a href="https://github.com/littlerobots/flutter-native-state" target="_blank" rel="noopener">Flutter native_state</a></p><p> 一个可以在应用的后台进程被杀死后恢复应用状态的插件。</p></li><li><p><a href="https://github.com/joshmatta/paging_library" target="_blank" rel="noopener">paging</a></p><p> 分页加载数据的列表控件</p><p> <img src="https://camo.githubusercontent.com/9493c69d0beddd9272d3aa361ce88ebdc48851e4/68747470733a2f2f692e696d6775722e636f6d2f4a4d31484276452e676966" width="320px"></p></li><li><p><a href="https://github.com/Alpha-health/mixpanel_analytics" target="_blank" rel="noopener">Mixpanel Analytics</a></p><p> 一个对 Mixpanel Analytics 的 REST API 进行二次封装的库</p></li><li><p><a href="https://github.com/hiddencaliber/flutter_multiselect" target="_blank" rel="noopener">flutter_multiselect</a></p><p> 多选控件</p></li><li><p><a href="https://github.com/samurai-dart/samurai" target="_blank" rel="noopener">samurai</a></p><p> JS Interpreter in Dart.</p><p> <img src="https://i.loli.net/2019/08/22/pPCQkIs21iJ8jv5.png" alt></p></li></ol><ol><li><p><a href="https://github.com/MarcinusX/sliver_fab" target="_blank" rel="noopener">sliver_fab</a></p><p> Floating Action Button  插件</p><p> <img src="https://i.loli.net/2019/08/22/rJm2KBofMFylQAL.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/dnfield/flutter_svg" target="_blank" rel="noopener">flutter_svg</a></p><p> SVG parsing, rendering, and widget library for Flutter</p></li><li><p><a href="https://github.com/rishab2113/flutter_text_to_speech" target="_blank" rel="noopener">flutter_text_to_speech</a></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/X-Wei/flutter_catalog" target="_blank" rel="noopener">Flutter Catalog</a></p><p> 一个展示 Flutter 各种组件用法的示例</p><p> <img src="https://i.loli.net/2019/08/19/PClTBS3qFw7egjE.png" width="320px"></p></li><li><p><a href="https://github.com/bluemix/flutter-i18n" target="_blank" rel="noopener">i18n Demo</a></p><p> 一个展示国际化(i18n)和如何在不同语言之间切换，以及使用翻译文本的示例。</p><p> <img src="https://i.loli.net/2019/07/31/5d41570ebdd6e60844.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/magodo/berrycast" target="_blank" rel="noopener">berrycast</a></p><p> Flutter  开发的音频播客 App</p></li></ol><p><img src="https://i.loli.net/2019/08/22/q18wRpgQvDPXeCm.png" alt></p><ol><li><p><a href="https://github.com/LinXiaoTao/today" target="_blank" rel="noopener">today</a></p><p> 仿即刻 APP 的 Flutter 版本</p></li></ol><p><img src="https://github.com/LinXiaoTao/today/raw/master/gif/jike.gif" alt></p><ol><li><p><a href="https://github.com/singhbhavneet/chat_app" target="_blank" rel="noopener">chat_app</a></p><p> 基于 firestore 的聊天 app</p></li></ol><p><img src="https://i.loli.net/2019/08/05/pm6ODXJteKQoukn.png" alt></p><ol><li><p><a href="https://github.com/asjqkkkk/todo-list-app" target="_blank" rel="noopener">一日清单</a></p><p> 全面而又精美的Flutter Todo-List项目</p></li></ol><p><img src="https://i.loli.net/2019/08/05/DVSzcY4jKqswU9C.png" alt></p><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/blankapp/flutter-widget-livebook" target="_blank" rel="noopener">Flutter Widget Livebook</a></p><p> 一个使用 Flutter for web 构建的可在线实时预览 Widget 示例的网站。</p></li></ol><p><img src="https://i.loli.net/2019/08/22/n4m9MoOZxPvpEKc.gif" alt></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/LLU3FfUoeoOyyZnfO81mvg" target="_blank" rel="noopener">探索 Flutter 异步消息的实现</a></li></ol><h3 id="插件-库"><a href="#插件-库" class="headerlink" title="插件/库"></a>插件/库</h3><ol><li><p><a href="https://github.com/ensody/flutter_simple_state" target="_blank" rel="noopener">flutter_simple_state</a></p><p> 一个简单易于理解的 Flutter 状态管理解决方案</p></li><li><p><a href="https://github.com/quentinleguennec/flutter-slide-container" target="_blank" rel="noopener">Slide Container</a></p><p> 一个既可以垂直滑动又可以水平滑动的容器控件。</p></li><li><p><a href="https://github.com/fluttercandies/extended_image" target="_blank" rel="noopener">extended_image</a></p><p> 强大的官方Image扩展组件, 支持加载以及失败显示，缓存网络图片，缩放拖拽图片，图片浏览(微信掘金效果)，滑动退出页面(微信掘金效果)，编辑图片(裁剪旋转翻转)，保存，绘制自定义效果等功能</p></li></ol><p><img src="https://github.com/fluttercandies/Flutter_Candies/raw/master/gif/extended_image/custom.gif" alt></p><ol><li><p><a href="https://github.com/Ali-Azmoud/flutter_xlider" target="_blank" rel="noopener">flutter_xlider</a></p><p> 一个 Material Design 风格的滑块进度条组件</p></li></ol><p><img src="https://i.loli.net/2019/07/31/5d41511442eeb85857.gif" alt></p><ol><li><p><a href="https://github.com/florent37/Flutter-ShapeOfView" target="_blank" rel="noopener">Flutter-ShapeOfView</a></p><p> 一个自定义形状组件</p></li></ol><p><img src="https://i.loli.net/2019/07/31/5d4153d90b2c088043.gif" alt></p><ol><li><p><a href="https://github.com/dnfield/flutter_svg" target="_blank" rel="noopener">flutter_svg</a></p><p> svg 文件解析和渲染小组件</p></li><li><p><a href="https://github.com/tanersener/flutter-ffmpeg" target="_blank" rel="noopener">flutter_ffmpeg</a></p><p> FFmpeg 的 Flutter 插件</p></li><li><p><a href="https://github.com/littlerobots/flutter-native-state" target="_blank" rel="noopener">Flutter native_state</a></p><p> 一个可以在应用的后台进程被杀死后恢复应用状态的插件。</p></li><li><p><a href="https://github.com/joshmatta/paging_library" target="_blank" rel="noopener">paging</a></p><p> 分页加载数据的列表控件</p><p> <img src="https://camo.githubusercontent.com/9493c69d0beddd9272d3aa361ce88ebdc48851e4/68747470733a2f2f692e696d6775722e636f6d2f4a4d31484276452e676966" width="320px"></p></li><li><p><a href="https://github.com/Alpha-health/mixpanel_analytics" target="_blank" rel="noopener">Mixpanel Analytics</a></p><p> 一个对 Mixpanel Analytics 的 REST API 进行二次封装的库</p></li><li><p><a href="https://github.com/hiddencaliber/flutter_multiselect" target="_blank" rel="noopener">flutter_multiselect</a></p><p> 多选控件</p></li><li><p><a href="https://github.com/samurai-dart/samurai" target="_blank" rel="noopener">samurai</a></p><p> JS Interpreter in Dart.</p><p> <img src="https://i.loli.net/2019/08/22/pPCQkIs21iJ8jv5.png" alt></p></li></ol><ol><li><p><a href="https://github.com/MarcinusX/sliver_fab" target="_blank" rel="noopener">sliver_fab</a></p><p> Floating Action Button  插件</p><p> <img src="https://i.loli.net/2019/08/22/rJm2KBofMFylQAL.gif" alt></p></li><li><p><a href="https://github.com/rishab2113/flutter_text_to_speech" target="_blank" rel="noopener">flutter_text_to_speech</a></p><p> Text to Speech for Flutter</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/X-Wei/flutter_catalog" target="_blank" rel="noopener">Flutter Catalog</a></p><p> 一个展示 Flutter 各种组件用法的示例</p><p> <img src="https://i.loli.net/2019/08/19/PClTBS3qFw7egjE.png" width="320px"></p></li><li><p><a href="https://github.com/bluemix/flutter-i18n" target="_blank" rel="noopener">i18n Demo</a></p><p> 一个展示国际化(i18n)和如何在不同语言之间切换，以及使用翻译文本的示例。</p><p> <img src="https://i.loli.net/2019/07/31/5d41570ebdd6e60844.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/magodo/berrycast" target="_blank" rel="noopener">berrycast</a></p><p> Flutter  开发的音频播客 App</p></li></ol><p><img src="https://i.loli.net/2019/08/22/q18wRpgQvDPXeCm.png" alt></p><ol><li><p><a href="https://github.com/LinXiaoTao/today" target="_blank" rel="noopener">today</a></p><p> 仿即刻 APP 的 Flutter 版本</p></li></ol><p><img src="https://github.com/LinXiaoTao/today/raw/master/gif/jike.gif" alt></p><ol><li><p><a href="https://github.com/singhbhavneet/chat_app" target="_blank" rel="noopener">chat_app</a></p><p> 基于 firestore 的聊天 app</p></li></ol><p><img src="https://i.loli.net/2019/08/05/pm6ODXJteKQoukn.png" alt></p><ol><li><p><a href="https://github.com/asjqkkkk/todo-list-app" target="_blank" rel="noopener">一日清单</a></p><p> 全面而又精美的Flutter Todo-List项目</p></li></ol><p><img src="https://i.loli.net/2019/08/05/DVSzcY4jKqswU9C.png" alt></p><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/blankapp/flutter-widget-livebook" target="_blank" rel="noopener">Flutter Widget Livebook</a></p><p> 一个使用 Flutter for web 构建的可在线实时预览 Widget 示例的网站。</p></li></ol><p><img src="https://i.loli.net/2019/08/22/n4m9MoOZxPvpEKc.gif" alt></p>]]></content>
       
       
       <categories>
@@ -24,9 +24,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -53,11 +53,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -309,9 +309,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -590,11 +590,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -621,11 +621,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             

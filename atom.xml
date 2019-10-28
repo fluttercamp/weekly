@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-10-28T03:02:08.500Z</updated>
+  <updated>2019-10-28T03:34:34.440Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://flutterweekly.dev/flutter-weekly-issue-31/"/>
     <id>https://flutterweekly.dev/flutter-weekly-issue-31/</id>
     <published>2019-10-28T02:54:19.000Z</published>
-    <updated>2019-10-28T03:02:08.500Z</updated>
+    <updated>2019-10-28T03:34:34.440Z</updated>
     
     <summary type="html">
     
@@ -54,9 +54,9 @@
     
       <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
     
-      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
-    
       <category term="异步消息" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF/"/>
+    
+      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
   </entry>
   
@@ -107,11 +107,11 @@
     
       <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
     
+      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
+    
       <category term="画中画" scheme="https://flutterweekly.dev/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/"/>
     
       <category term="自动化测试" scheme="https://flutterweekly.dev/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
   </entry>
   
@@ -526,9 +526,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -975,11 +975,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="事件循环机制" scheme="https://flutterweekly.dev/tags/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/"/>
     
       <category term="异步" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
     
@@ -1020,11 +1020,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
       <category term="测试" scheme="https://flutterweekly.dev/tags/%E6%B5%8B%E8%AF%95/"/>
     
       <category term="WebView" scheme="https://flutterweekly.dev/tags/WebView/"/>
-    
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
