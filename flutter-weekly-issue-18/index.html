@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head><meta name="generator" content="Hexo 3.9.0">
+<head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="referrer" content="no-referrer">
@@ -14,7 +14,7 @@
   <link rel="alternate" href="/atom.xml" title="Flutter Weekly">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="教程  1. (译)Flutter中的JSON和序列化            2. 走近科学，探究阿里闲鱼团队通过数据提升Flutter体验的真相            3. Flutter完整开发实战详解(十二、全面深入理解状态管理设计)            4. 深入理解Flutter多线程            5. Flutter 实时视频渲染：Texture与PlatformView">
-<meta name="keywords" content="JSON,PlatformView,多线程,Texture">
+<meta name="keywords" content="PlatformView,多线程,JSON,Texture">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Flutter Weekly Issue 18">
 <meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-18/index.html">
@@ -52,67 +52,67 @@
 
   <script>setLoadingBarProgress(20)</script> 
   <header class="l_header">
-	<div class='wrapper'>
+	<div class="wrapper">
 		<div class="nav-main container container--flex">
-			<img class="logo-icon" src="/images/favicon.ico" alt="Flutter Logo"/>
-			<a class="logo flat-box" href='/' >
+			<img class="logo-icon" src="/images/favicon.ico" alt="Flutter Logo">
+			<a class="logo flat-box" href="/">
 				Flutter Weekly
 			</a>
-			<div class='menu'>
-				<ul class='h-list'>
+			<div class="menu">
+				<ul class="h-list">
 					
 						<li>
-							<a class='flat-box nav-home' href='/'>
+							<a class="flat-box nav-home" href="/">
 								首页
 							</a>
 						</li>
 					
 						<li>
-							<a class='flat-box nav-archives' href='/archives'>
+							<a class="flat-box nav-archives" href="/archives">
 								归档
 							</a>
 						</li>
 					
 						<li>
-							<a class='flat-box nav-subscribe' href='/subscribe'>
+							<a class="flat-box nav-subscribe" href="/subscribe">
 								订阅
 							</a>
 						</li>
 					
 						<li>
-							<a class='flat-box nav-about' href='/about'>
+							<a class="flat-box nav-about" href="/about">
 								关于
 							</a>
 						</li>
 					
 				</ul>
-				<div class='underline'></div>
+				<div class="underline"></div>
 			</div>
 			
 				<div class="m_search">
 					<form name="searchform" class="form u-search-form">
-						<input type="text" class="input u-search-input" placeholder="Search" />
+						<input type="text" class="input u-search-input" placeholder="Search">
 						<span class="icon icon-search"></span>
 					</form>
 				</div>
 			
-			<ul class='switcher h-list'>
+			<ul class="switcher h-list">
 				
-					<li class='s-search'><a href='javascript:void(0)'><span class="icon icon-search flat-box"></span></a></li>
+					<li class="s-search"><a href="javascript:void(0)"><span class="icon icon-search flat-box"></span></a></li>
 				
-				<li class='s-menu'><a href='javascript:void(0)'><span class="icon icon-menu flat-box"></span></a></li>
+				<li class="s-menu"><a href="javascript:void(0)"><span class="icon icon-menu flat-box"></span></a></li>
 			</ul>
 		</div>
 		
-		<div class='nav-sub container container--flex'>
-			<a class="logo" class="flat-box" href='javascript:void(0)'>
+		<div class="nav-sub container container--flex">
+			<a class="logo" href="javascript:void(0)">
 				Word of Forks
 			</a>
 
-			<ul class='switcher h-list'>
-				<li class='s-comment'><a href='javascript:void(0)'><span class="icon icon-chat_bubble_outline flat-box"></span></a></li>
-				<li class='s-top'><a href='javascript:void(0)'><span class="icon icon-arrow_upward flat-box"></span></a></li>
-				<li class='s-toc'><a href='javascript:void(0)'><span class="icon icon-format_list_numbered flat-box"></span></a></li>
+			<ul class="switcher h-list">
+				<li class="s-comment"><a href="javascript:void(0)"><span class="icon icon-chat_bubble_outline flat-box"></span></a></li>
+				<li class="s-top"><a href="javascript:void(0)"><span class="icon icon-arrow_upward flat-box"></span></a></li>
+				<li class="s-toc"><a href="javascript:void(0)"><span class="icon icon-format_list_numbered flat-box"></span></a></li>
 			</ul>
 		</div>
 	</div>
@@ -144,10 +144,8 @@
   <div class="l_body">
     <div class='container clearfix'>
       <div class='l_main'>
-        <article id="post-flutter-weekly-issue-18"
-  class="post white-box article-type-post"
-  itemscope itemprop="blogPost">
-	<section class='meta'>
+        <article id="post-flutter-weekly-issue-18" class="post white-box article-type-post" itemscope itemprop="blogPost">
+	<section class="meta">
 	<h2 class="title">
   	<a href="/flutter-weekly-issue-18/">
     	Flutter Weekly Issue 18
@@ -158,7 +156,7 @@
 	</time>
 	
     
-    <div class='cats'>
+    <div class="cats">
         <a href="/categories/Weekly/">Weekly</a>
     </div>
 
@@ -232,11 +230,11 @@
 	  
 	  <div class="article-tags tags">
       
-        <a href="/tags/JSON/">JSON</a>
-      
         <a href="/tags/PlatformView/">PlatformView</a>
       
         <a href="/tags/多线程/">多线程</a>
+      
+        <a href="/tags/JSON/">JSON</a>
       
         <a href="/tags/Texture/">Texture</a>
       
@@ -246,12 +244,12 @@
 	
 		<div class="art-item-footer">
 				
-					<span class="art-item-left"><i class="icon icon-chevron-thin-left"></i>prev：<a href="/flutter-weekly-issue-19/" rel="prev"  title="Flutter Weekly Issue 19">
+					<span class="art-item-left"><i class="icon icon-chevron-thin-left"></i>prev：<a href="/flutter-weekly-issue-19/" rel="prev" title="Flutter Weekly Issue 19">
 						Flutter Weekly Issue 19 
 					</a></span>
 				
 				
-					<span class="art-item-right">next：<a href="/flutter-weekly-issue-17/" rel="next"  title="Flutter Weekly Issue 17">
+					<span class="art-item-right">next：<a href="/flutter-weekly-issue-17/" rel="next" title="Flutter Weekly Issue 17">
 						Flutter Weekly Issue 17
 					</a><i class="icon icon-chevron-thin-right"></i></span>
 				
@@ -273,28 +271,24 @@
     </div>
   </div>
   <footer id="footer" class="clearfix" style="background: url(/images/flutter-bottom.svg) no-repeat;background-position-x: center;background-position-y: bottom;
-background-size: 180%;" >
+background-size: 180%;">
   <br><br><br><br>
 	<div class="social-wrapper">
   	
       
-        <a href="https://github.com/cfug" class="social github"
-          target="_blank" rel="external">
+        <a href="https://github.com/cfug" class="social github" target="_blank" rel="external">
           <span class="icon icon-github"></span>
         </a>
       
-        <a href="https://twitter.com/FlutterChina" class="social twitter"
-          target="_blank" rel="external">
+        <a href="https://twitter.com/FlutterChina" class="social twitter" target="_blank" rel="external">
           <span class="icon icon-twitter"></span>
         </a>
       
-        <a href="https://weibo.com/flutterio" class="social sina-weibo"
-          target="_blank" rel="external">
+        <a href="https://weibo.com/flutterio" class="social sina-weibo" target="_blank" rel="external">
           <span class="icon icon-sina-weibo"></span>
         </a>
       
-        <a href="/atom.xml" class="social rss"
-          target="_blank" rel="external">
+        <a href="/atom.xml" class="social rss" target="_blank" rel="external">
           <span class="icon icon-rss"></span>
         </a>
       
@@ -347,12 +341,12 @@ background-size: 180%;" >
   </div>
   <div class="beian-wrapper">
   
-      <a href="http://www.miitbeian.gov.cn/ target="_blank" rel="external">
+      <a href="http://www.miitbeian.gov.cn/ target=" _blank" rel="external">
         豫ICP备18021312号-1
       </a>
       &nbsp;&nbsp;
   
-      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010702002474 target="_blank" rel="external">
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010702002474 target=" _blank" rel="external">
         豫公网安备41010702002474号
       </a>
       &nbsp;&nbsp;
@@ -363,7 +357,7 @@ background-size: 180%;" >
   
 
 <script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src='//cdn.bootcss.com/node-waves/0.7.5/waves.min.js'></script>
+<script src="//cdn.bootcss.com/node-waves/0.7.5/waves.min.js"></script>
 <script src="//cdn.bootcss.com/scrollReveal.js/3.3.2/scrollreveal.min.js"></script>
 <script src="/js/jquery.fitvids.js"></script>
 <script>
