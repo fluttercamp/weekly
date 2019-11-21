@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 32</title>
+      <link href="/flutter-weekly-issue-32/"/>
+      <url>/flutter-weekly-issue-32/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/g7LL4Fc9JCAGvJ8u4aGh0Q" target="_blank" rel="noopener">Flutter 进阶：处理 iOS 手势冲突</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/mchome/flutter_colorpicker" target="_blank" rel="noopener">flutter_colorpicker</a></p><p> A HSV(HSB)/HSL color picker inspired by chrome devtools and a material color picker for your flutter app.</p><p><img src="https://user-images.githubusercontent.com/7392658/36585408-bb4e96a4-18b8-11e8-8c20-d4dc200e1a7c.gif" alt></p></li><li><p><a href="https://github.com/OpenFlutter/tobias" target="_blank" rel="noopener">tobias</a></p><p> AliPay For Flutter.支付宝 Flutter插件</p></li><li><p><a href="https://github.com/OpenFlutter/fluwx" target="_blank" rel="noopener">fluwx</a></p><p> Flutter 版微信SDK</p></li><li><p><a href="https://github.com/fluidsonic/fluid-time" target="_blank" rel="noopener">fluid-time</a></p><p> Kotlin multiplatform date &amp; time library</p></li><li><p><a href="https://github.com/letsar/kiwi" target="_blank" rel="noopener">kiwi</a></p><p> A simple compile-time dependency injection library for Dart and Flutter</p></li><li><p><a href="https://github.com/aroblast/flotter" target="_blank" rel="noopener">flotter</a></p><p> 一个用于在 iOS上使用 Lottie 动画的 Flutter 插件。</p></li><li><p><a href="https://github.com/henriquearthur/flutter_native_splash" target="_blank" rel="noopener">flutter_native_splash</a></p><p> Automatically generates native code for adding splash screens in Android and iOS. Customize with specific platform, background color and splash image.</p><p><img src="https://i.loli.net/2019/08/31/DJ2ScIadQL6ry3n.gif" alt></p></li><li><p><a href="https://github.com/ketanchoyal/extended_navbar_scaffold" target="_blank" rel="noopener">extended_navbar_scaffold</a></p><p> A Custom Extended Scaffold with Expandable and Floating Navigation Bar</p><p><img src="https://i.loli.net/2019/08/31/tKFCco6QGJHAXib.gif" alt></p></li><li><p><a href="https://github.com/simformsolutions/flutter_showcaseview" target="_blank" rel="noopener">ShowCaseView</a></p><p> A Flutter package allows you to Showcase/Highlight your widgets step by step.</p><p><img src="https://i.loli.net/2019/08/31/yDYkSLXB7v2hWtJ.gif" alt></p></li><li><p><a href="https://github.com/BaderEddineOuaich/flutter_syntax_view" target="_blank" rel="noopener">flutter_syntax_view</a></p><p> A SyntaxView Widget which highlights code text according to the programming language syntax.</p><p><img src="https://i.loli.net/2019/09/12/nal5duRQoAv2FO4.png" alt></p></li><li><p><a href="https://github.com/pauldemarco/flutter_blue" target="_blank" rel="noopener">flutter_blue</a></p><p> a bluetooth plugin for Flutter, a new mobile SDK to help developers build modern apps for iOS and Android.</p></li><li><p><a href="https://github.com/mobiten/flutter_staggered_animations" target="_blank" rel="noopener">flutter_staggered_animations</a></p><p> Easily add staggered animations to your ListView, GridView, Column and Row children.</p><p><img src="https://github.com/mobiten/flutter_staggered_animations/raw/master/assets/card_list.gif?raw=true" alt></p></li><li><p><a href="https://github.com/roughike/page-transformer" target="_blank" rel="noopener">page-transformer</a></p><p> A sample for having PageView transformation effects in Flutter.</p><p><img src="https://github.com/FlutterRocks/page-transformer/raw/master/page_transform_sample.gif" alt></p></li><li><p><a href="https://github.com/fluttercommunity/flutter_sticky_headers" target="_blank" rel="noopener">flutter_sticky_headers</a></p><p> Flutter Sticky Headers - Lets you place “”sticky headers”” into any scrollable content in your Flutter app. No special wrappers or magic required. </p><p><img src="https://github.com/slightfoot/flutter_sticky_headers/raw/gh-pages/demo1.gif" alt></p></li><li><p><a href="https://github.com/google/charts" target="_blank" rel="noopener">Charts</a></p><p> a general charting library, currently enabled for the Flutter mobile UI framework.</p><p><img src="https://i.loli.net/2019/09/12/jtwqoyhSuEFx3sL.png" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_page_indicator" target="_blank" rel="noopener">flutter_page_indicator</a></p><p> Page indicator for flutter, with multiple build-in layouts.</p><p><img src="https://github.com/jzoom/images/raw/master/page_indicator.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/kbz066/flutter_shiguangxu" target="_blank" rel="noopener">flutter_shiguangxu</a></p><p> 仿照 Android 版本开发的 Flutter 版时光序</p><p><img src="https://i.loli.net/2019/08/31/3gQpIeWSVOzGUwD.png" alt></p></li><li><p><a href="https://github.com/putraxor/flutter-book-app" target="_blank" rel="noopener">Book App Flutter</a></p><p> 一个书籍 的 App UI 原型的 Flutter 实现</p><p><img src="https://i.loli.net/2019/08/31/oX2sDPqmel6wiS9.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/BerndWessels/flutter_aws_app" target="_blank" rel="noopener">flutter_aws_app</a></p><p> 使用AWS Cognito和AppSync GraphQL API 示例项目</p></li></ol><h3 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h3><ol><li><p><a href="https://github.com/gdky005/FlutterNodeTips" target="_blank" rel="noopener">FlutterNodeTips</a></p><p> Flutter 学习笔记思维导图，包含常用组件的基础属性，可在源文件中直接搜索，也可作为一个常用必备的手册。</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/zakiso/flutter-version-wrapper" target="_blank" rel="noopener">flutter-version-wrapper</a></p><p> 解决多人同时开发flutter项目的时候，版本不一致的小工具。灵感来源于gradlew。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 手势冲突 </tag>
+            
+            <tag> Lottie 动画 </tag>
+            
+            <tag> 支付宝 SDK </tag>
+            
+            <tag> 微信 SDK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 31</title>
       <link href="/flutter-weekly-issue-31/"/>
       <url>/flutter-weekly-issue-31/</url>
@@ -113,9 +144,9 @@
       
         <tags>
             
-            <tag> BloC </tag>
-            
             <tag> MVC </tag>
+            
+            <tag> BloC </tag>
             
             <tag> 架构 </tag>
             
@@ -433,11 +464,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -466,11 +497,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
