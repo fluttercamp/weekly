@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-11-21T04:30:34.143Z</updated>
+  <updated>2019-11-27T04:57:20.097Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 33</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-33/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-33/</id>
+    <published>2019-11-27T04:55:19.000Z</published>
+    <updated>2019-11-27T04:57:20.097Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 搭建Flutter Engine 源码编译环境
+
+插件
+ 1. qr.flutter
+    
+     QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
+    
+    
+ 2. photo_view
+    
+     📸 Easy to use yet very customizable zoomable image widget for Flutter
+    
+    
+    
+    
+
+ 1. Bugly-F
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="源码编译" scheme="https://flutterweekly.dev/tags/%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91/"/>
+    
+      <category term="Bugly" scheme="https://flutterweekly.dev/tags/Bugly/"/>
+    
+      <category term="WebRTC" scheme="https://flutterweekly.dev/tags/WebRTC/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 32</title>
@@ -251,9 +292,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
-    
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
+    
+      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
     
       <category term="架构" scheme="https://flutterweekly.dev/tags/%E6%9E%B6%E6%9E%84/"/>
     
@@ -570,9 +611,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -773,11 +814,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
+    
       <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
     
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     
@@ -820,11 +861,11 @@
     
       <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
     
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
-    
       <category term="Streams" scheme="https://flutterweekly.dev/tags/Streams/"/>
     
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
+    
+      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
   </entry>
   
@@ -981,51 +1022,6 @@
       <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
     
       <category term="快捷键" scheme="https://flutterweekly.dev/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 13</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-13/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-13/</id>
-    <published>2019-03-25T03:32:19.000Z</published>
-    <updated>2019-04-28T05:30:40.970Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1.  跟我一步一步实现 Flutter 视频播放插件 (一)
-     
-     
- 2.  Flutter学习之事件循环机制、数据库、网络请求
-     
-     
- 3.  纷争再起：Flutter-UI绘制解析
-     
-     
- 4.  Flutter Engine与SDK的定制化与编译
-     
-     
- 5.  [译] Flutter 异步编程：Future、Isolate 和事件循环
-     
-     
- 6.  设计、开发一个 Flutter Plugin 的实践心得
-     
-     
- 7.  Flutter进阶：路由、路由栈详解及案例分析
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="事件循环机制" scheme="https://flutterweekly.dev/tags/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E6%9C%BA%E5%88%B6/"/>
-    
-      <category term="异步" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5/"/>
-    
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
-      <category term="路由" scheme="https://flutterweekly.dev/tags/%E8%B7%AF%E7%94%B1/"/>
     
   </entry>
   

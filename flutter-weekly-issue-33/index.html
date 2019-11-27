@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="referrer" content="no-referrer">
   
-  <title>Tag: 路由 | Flutter Weekly</title>
+  <title>Flutter Weekly Issue 33 | Flutter Weekly</title>
   <meta name="description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
   <meta name="keywords" content="Flutter,Flutter 开发,Flutter 教程,Flutter 插件,Flutter 项目,Flutter 社区">
   <meta name="HandheldFriendly" content="True">
@@ -13,17 +13,22 @@
   <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="alternate" href="/atom.xml" title="Flutter Weekly">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
-<meta name="keywords" content="Flutter,Flutter 开发,Flutter 教程,Flutter 插件,Flutter 项目,Flutter 社区">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Flutter Weekly">
-<meta property="og:url" content="https://flutterweekly.dev/tags/路由/index.html">
+  <meta name="description" content="教程  1. 搭建Flutter Engine 源码编译环境  插件  1. qr.flutter           QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.            2. photo_view           📸">
+<meta name="keywords" content="源码编译,Bugly,WebRTC">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Flutter Weekly Issue 33">
+<meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-33/index.html">
 <meta property="og:site_name" content="Flutter Weekly">
-<meta property="og:description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
+<meta property="og:description" content="教程  1. 搭建Flutter Engine 源码编译环境  插件  1. qr.flutter           QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.            2. photo_view           📸">
 <meta property="og:locale" content="zh-CN">
+<meta property="og:image" content="https://user-images.githubusercontent.com/6718144/56463745-45ec0380-63b0-11e9-8e56-0dba5deabb1a.gif">
+<meta property="og:image" content="https://raw.githubusercontent.com/fluttercommunity/page_turn/screenshots/screenshots/demo.gif">
+<meta property="og:image" content="https://i.loli.net/2019/09/14/HsrK7iMgtmqXLuY.png">
+<meta property="og:updated_time" content="2019-11-27T04:57:20.097Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Flutter Weekly">
-<meta name="twitter:description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
+<meta name="twitter:title" content="Flutter Weekly Issue 33">
+<meta name="twitter:description" content="教程  1. 搭建Flutter Engine 源码编译环境  插件  1. qr.flutter           QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.            2. photo_view           📸">
+<meta name="twitter:image" content="https://user-images.githubusercontent.com/6718144/56463745-45ec0380-63b0-11e9-8e56-0dba5deabb1a.gif">
     
   <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
@@ -136,148 +141,122 @@
   <div class="l_body">
     <div class='container clearfix'>
       <div class='l_main'>
-        
-  <script>
-    window.subData= { title:'Tag : 路由'}
-  </script>
-
-<section class="post-list">
+        <article id="post-flutter-weekly-issue-33" class="post white-box article-type-post" itemscope itemprop="blogPost">
+	<section class="meta">
+	<h2 class="title">
+  	<a href="/flutter-weekly-issue-33/">
+    	Flutter Weekly Issue 33
+    </a>
+  </h2>
+	<time>
+	  11月 27, 2019
+	</time>
 	
-    <div class="post-wrapper">
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/flutter-weekly-issue-13/">
-        Flutter Weekly Issue 13
-      </a>
-    </h2>
-    
-    <time>
-      3月 25, 2019
-    </time>
-		
     
     <div class="cats">
         <a href="/categories/Weekly/">Weekly</a>
     </div>
 
-  </section>
-  <section class="article typo">
-	  教程
- 1.  跟我一步一步实现 Flutter 视频播放插件 (一)
-     
-     
- 2.  Flutter学习之事件循环机制、数据库、网络请求
-     
-     
- 3.  纷争再起：Flutter-UI绘制解析
-     
-     
- 4.  Flutter Engine与SDK的定制化与编译
-     
-     
- 5.  [译] Flutter 异步编程：Future、Isolate 和事件循环
-     
-     
- 6.  设计、开发一个 Flutter Plugin 的实践心得
-     
-     
- 7.  Flutter进阶：路由、路由栈详解及案例分析
+	</section>
+	
+		<section class="toc-wrapper"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#教程"><span class="toc-number">1.</span> <span class="toc-text">教程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#插件"><span class="toc-number">2.</span> <span class="toc-text">插件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#App"><span class="toc-number">3.</span> <span class="toc-text">App</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#示例"><span class="toc-number">4.</span> <span class="toc-text">示例</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#工具"><span class="toc-number">5.</span> <span class="toc-text">工具</span></a></li></ol></section>
+	
+	<section class="article typo">
+  	<div class="article-entry" itemprop="articleBody">
+    	<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol>
+<li><a href="http://gityuan.com/2019/09/07/flutter_engine_setup/" target="_blank" rel="noopener">搭建Flutter Engine 源码编译环境</a></li>
+</ol>
+<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol>
+<li><p><a href="https://github.com/lukef/qr.flutter" target="_blank" rel="noopener">qr.flutter</a></p>
+<p> QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.</p>
+</li>
+<li><p><a href="https://github.com/renancaraujo/photo_view" target="_blank" rel="noopener">photo_view</a></p>
+<p> 📸 Easy to use yet very customizable zoomable image widget for Flutter</p>
+<p><img src="https://user-images.githubusercontent.com/6718144/56463745-45ec0380-63b0-11e9-8e56-0dba5deabb1a.gif" alt></p>
+</li>
+</ol>
+<ol>
+<li><p><a href="https://github.com/BuglyDevTeam/Bugly-Flutter-Plugin" target="_blank" rel="noopener">Bugly-Flutter-Plugin</a></p>
+<p> Flutter 工程可以通过集成此插件实现 bugly crash 捕获、上报的功能</p>
+</li>
+<li><p><a href="https://github.com/fluttercommunity/page_turn" target="_blank" rel="noopener">page_turn</a></p>
+<p> page_turn - Page Turn Widget :: Add a page turn effect to widgets in your app.</p>
+<p><img src="https://raw.githubusercontent.com/fluttercommunity/page_turn/screenshots/screenshots/demo.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/Instabug/Instabug-Flutter" target="_blank" rel="noopener">Instabug-Flutter</a></p>
+<p> In-app feedback and bug reporting for Flutter apps. </p>
+</li>
+<li><p><a href="https://github.com/areslabs/flutter_mp" target="_blank" rel="noopener">flutter_mp</a></p>
+<p> Bring your Flutter code to mini program</p>
+</li>
+<li><p><a href="https://github.com/cloudwebrtc/flutter-webrtc" target="_blank" rel="noopener">Flutter-WebRTC</a></p>
+<p> Flutter WebRTC plugin for Mobile/Desktop</p>
+</li>
+<li><p><a href="https://github.com/simolus3/fluttie" target="_blank" rel="noopener">fluttie</a></p>
+<p> Easily display stunning Lottie animations in flutter apps with this plugin.</p>
+</li>
+<li><p><a href="https://github.com/Instabug/Instabug-Dio-Interceptor" target="_blank" rel="noopener">Instabug-Dio-Interceptor</a></p>
+<p> A Dio interceptor for use with Instabug’s Flutter SDK.</p>
+</li>
+<li><p><a href="https://github.com/dooboolab/flutter_inapp_purchase" target="_blank" rel="noopener">flutter_inapp_purchase</a></p>
+<p> Flutter plugin for In App Purchase.</p>
+</li>
+</ol>
+<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol>
+<li><p><a href="https://github.com/gurleensethi/sailor" target="_blank" rel="noopener">sailor</a></p>
+<p> Easy page navigation and management in Flutter apps. </p>
+</li>
+<li><p><a href="https://github.com/conghaonet/GitHao" target="_blank" rel="noopener">GitHao</a></p>
+<p> An open-source GitHub Flutter client app</p>
+<p><img src="https://i.loli.net/2019/09/14/HsrK7iMgtmqXLuY.png" alt></p>
+</li>
+</ol>
+<h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol>
+<li><p><a href="https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI" target="_blank" rel="noopener">FlutterGrocery-ShoppingAppUI</a></p>
+<p> A Flutter UI template of a Grocery Shopping App I found on Uplabs.</p>
+</li>
+<li><p><a href="https://github.com/Rondalal/flutter_extractor" target="_blank" rel="noopener">flutter_extractor</a></p>
+<p> Extracting strings and function names from Flutter apks</p>
+</li>
+</ol>
+<h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol>
+<li><p><a href="https://github.com/aloisdeniel/figma-to-flutter" target="_blank" rel="noopener">figma-to-flutter</a></p>
+<p> A Dart code generator that converts Figma components to Flutter widgets.</p>
+</li>
+</ol>
 
-    
-	  <div class="readmore">
-      <a href="/flutter-weekly-issue-13/">阅读全文</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
+  	</div>
+	  
+	  <div class="article-tags tags">
       
-        <a href="/tags/混合开发/">混合开发</a>
+        <a href="/tags/源码编译/">源码编译</a>
       
-        <a href="/tags/事件循环机制/">事件循环机制</a>
+        <a href="/tags/Bugly/">Bugly</a>
       
-        <a href="/tags/异步/">异步</a>
-      
-        <a href="/tags/路由/">路由</a>
+        <a href="/tags/WebRTC/">WebRTC</a>
       
 	  </div>
     
-  </section>
-</article>
-    </div>
-  
-    <div class="post-wrapper">
-      <article class="post reveal">
-  <section class="meta">
-    
-    <h2 class="title">
-      <a href="/flutter-weekly-issue-4/">
-        Flutter Weekly Issue 4
-      </a>
-    </h2>
-    
-    <time>
-      1月 21, 2019
-    </time>
 		
-    
-    <div class="cats">
-        <a href="/categories/Weekly/">Weekly</a>
-    </div>
-
-  </section>
-  <section class="article typo">
-	  教程
- 1. 深入理解flutter的编译原理与优化
-    
-    
- 2. Android Flutter实践内存初探
-    
-    
- 3. 深入了解Flutter界面开发
-    
-    
- 4. Flutter — PageView with BottomNavigationBar
-    
-    
- 5. 深入了解Flutter界面开发
-    
-    
- 6. 如何通过 Bloc 实现登录
-    
-    
- 7. Flutter 与 Material Design 双剑合璧，助您构建精美应用
-    
-    
- 8. Flutter 的高级路由和导航
-    
-
-
-    
-	  <div class="readmore">
-      <a href="/flutter-weekly-issue-4/">阅读全文</a>
-    </div>
-    
-    
-    
-	  <div class="full-width auto-padding tags">
-      
-        <a href="/tags/路由/">路由</a>
-      
-        <a href="/tags/编译/">编译</a>
-      
-        <a href="/tags/优化/">优化</a>
-      
-	  </div>
-    
-  </section>
+	
+		<div class="art-item-footer">
+				
+				
+					<span class="art-item-right">next：<a href="/flutter-weekly-issue-32/" rel="next" title="Flutter Weekly Issue 32">
+						Flutter Weekly Issue 32
+					</a><i class="icon icon-chevron-thin-right"></i></span>
+				
+		</div>
+	
+	</section>
+	
 </article>
-    </div>
-  
-</section>
-
+<script>
+	window.subData = {
+		title: 'Flutter Weekly Issue 33',
+		tools: true
+	}
+</script>
 
       </div>
       
