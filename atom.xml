@@ -59,18 +59,44 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>Flutter Weekly Issue 33</title>
     <link href="https://flutterweekly.dev/flutter-weekly-issue-33/"/>
     <id>https://flutterweekly.dev/flutter-weekly-issue-33/</id>
-    <published>2019-11-27T04:54:57.651Z</published>
-    <updated>2019-11-27T06:44:24.462Z</updated>
+    <published>2019-11-27T04:55:19.000Z</published>
+    <updated>2019-12-04T05:31:48.940Z</updated>
     
     <summary type="html">
     
-      open
+      教程
+ 1. 搭建Flutter Engine源码编译环境
+
+插件
+ 1.  qr.flutter
+     
+      QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
+     
+     
+ 2.  photo_view
+     
+      📸 Easy to use yet very customizable zoomable image widget for Flutter
+     
+     
+     
+     
+ 
     
     </summary>
     
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="源码编译" scheme="https://flutterweekly.dev/tags/%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91/"/>
+    
+      <category term="Bugly" scheme="https://flutterweekly.dev/tags/Bugly/"/>
+    
+      <category term="WebRTC" scheme="https://flutterweekly.dev/tags/WebRTC/"/>
+    
+      <category term="Figma" scheme="https://flutterweekly.dev/tags/Figma/"/>
     
   </entry>
   
@@ -152,9 +178,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
-    
       <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
     
       <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
@@ -628,9 +654,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -833,9 +859,9 @@
     
       <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
-      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    
       <category term="PlatformView" scheme="https://flutterweekly.dev/tags/PlatformView/"/>
+    
+      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
     

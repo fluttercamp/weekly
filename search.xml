@@ -35,13 +35,31 @@
     
     
     <entry>
-      <title></title>
+      <title>Flutter Weekly Issue 33</title>
       <link href="/flutter-weekly-issue-33/"/>
       <url>/flutter-weekly-issue-33/</url>
       
-        <content type="html"><![CDATA[<p>open</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="http://gityuan.com/2019/09/07/flutter_engine_setup/" target="_blank" rel="noopener">搭建Flutter Engine源码编译环境</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/lukef/qr.flutter" target="_blank" rel="noopener">qr.flutter</a></p><p> QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.</p></li><li><p><a href="https://github.com/renancaraujo/photo_view" target="_blank" rel="noopener">photo_view</a></p><p> 📸 Easy to use yet very customizable zoomable image widget for Flutter</p><p><img src="https://user-images.githubusercontent.com/6718144/56463745-45ec0380-63b0-11e9-8e56-0dba5deabb1a.gif" alt></p></li><li><p><a href="https://github.com/BuglyDevTeam/Bugly-Flutter-Plugin" target="_blank" rel="noopener">Bugly-Flutter-Plugin</a></p><p> Flutter工程可以通过集成此插件实现bugly crash捕获、上报的功能</p></li><li><p><a href="https://github.com/fluttercommunity/page_turn" target="_blank" rel="noopener">page_turn</a></p><p> page_turn - Page Turn Widget :: Add a page turn effect to widgets in your app.</p><p><img src="https://raw.githubusercontent.com/fluttercommunity/page_turn/screenshots/screenshots/demo.gif" alt></p></li><li><p><a href="https://github.com/Instabug/Instabug-Flutter" target="_blank" rel="noopener">Instabug-Flutter</a></p><p> In-app feedback and bug reporting for Flutter apps. </p></li><li><p><a href="https://github.com/areslabs/flutter_mp" target="_blank" rel="noopener">flutter_mp</a></p><p> Bring your Flutter code to mini program</p></li><li><p><a href="https://github.com/cloudwebrtc/flutter-webrtc" target="_blank" rel="noopener">Flutter-WebRTC</a></p><p> Flutter WebRTC plugin for Mobile/Desktop</p></li><li><p><a href="https://github.com/simolus3/fluttie" target="_blank" rel="noopener">fluttie</a></p><p> Easily display stunning Lottie animations in flutter apps with this plugin.</p></li><li><p><a href="https://github.com/Instabug/Instabug-Dio-Interceptor" target="_blank" rel="noopener">Instabug-Dio-Interceptor</a></p><p> A Dio interceptor for use with Instabug’s Flutter SDK.</p></li><li><p><a href="https://github.com/dooboolab/flutter_inapp_purchase" target="_blank" rel="noopener">flutter_inapp_purchase</a></p><p> Flutter plugin for In App Purchase.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/gurleensethi/sailor" target="_blank" rel="noopener">sailor</a></p><p> Easy page navigation and management in Flutter apps. </p></li><li><p><a href="https://github.com/conghaonet/GitHao" target="_blank" rel="noopener">GitHao</a></p><p> An open-source GitHub Flutter client app</p><p><img src="https://i.loli.net/2019/09/14/HsrK7iMgtmqXLuY.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/ahkohd/FlutterGrocery-ShoppingAppUI" target="_blank" rel="noopener">FlutterGrocery-ShoppingAppUI</a></p><p> A Flutter UI template of a Grocery Shopping App I found on Uplabs.</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Rondalal/flutter_extractor" target="_blank" rel="noopener">flutter_extractor</a></p><p> Extracting strings and function names from Flutter apks</p></li><li><p><a href="https://github.com/aloisdeniel/figma-to-flutter" target="_blank" rel="noopener">figma-to-flutter</a></p><p> A Dart code generator that converts Figma components to Flutter widgets.</p></li></ol>]]></content>
       
       
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 源码编译 </tag>
+            
+            <tag> Bugly </tag>
+            
+            <tag> WebRTC </tag>
+            
+            <tag> Figma </tag>
+            
+        </tags>
       
     </entry>
     
@@ -95,9 +113,9 @@
       
         <tags>
             
-            <tag> 状态管理 </tag>
-            
             <tag> 插件开发 </tag>
+            
+            <tag> 状态管理 </tag>
             
             <tag> 点播 </tag>
             
@@ -384,9 +402,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -510,9 +528,9 @@
             
             <tag> JSON </tag>
             
-            <tag> 多线程 </tag>
-            
             <tag> PlatformView </tag>
+            
+            <tag> 多线程 </tag>
             
             <tag> Texture </tag>
             
