@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-12-04T02:23:09.917Z</updated>
+  <updated>2019-12-10T13:07:05.458Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 35</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-35/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-35/</id>
+    <published>2019-12-11T04:55:19.000Z</published>
+    <updated>2019-12-10T13:07:05.458Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 腾讯专家实战解读 Flutter for Web
+    
+    
+ 2. 跨平台技术趋势及字节跳动 Flutter 架构实践
+    
+    
+ 3. 彻底掌握 Timeline 原理(一)
+    
+    
+ 4. 说说 Flutte r中的 RepaintBoundary
+    
+    
+
+插件
+ 1. FlutterBleLib
+    
+     Flutter BLE Library
+    
+    
+ 2. flutter_splash_screen
+    
+     A splash screen for flutter, hide when app
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
+      <category term="架构实践" scheme="https://flutterweekly.dev/tags/%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/"/>
+    
+      <category term="Timeline" scheme="https://flutterweekly.dev/tags/Timeline/"/>
+    
+      <category term="RepaintBoundary" scheme="https://flutterweekly.dev/tags/RepaintBoundary/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 34</title>
@@ -550,11 +598,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
+    
       <category term="图表" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E8%A1%A8/"/>
     
       <category term="MobX" scheme="https://flutterweekly.dev/tags/MobX/"/>
-    
-      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
     
       <category term="Android" scheme="https://flutterweekly.dev/tags/Android/"/>
     
@@ -654,9 +702,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -707,11 +755,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
-    
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -961,59 +1009,6 @@
       <category term="启动过程" scheme="https://flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/"/>
     
       <category term="文档注释" scheme="https://flutterweekly.dev/tags/%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 15</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-15/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-15/</id>
-    <published>2019-04-08T03:32:19.000Z</published>
-    <updated>2019-04-28T05:36:53.082Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. Flutter 瘦内存瘦包之图片组件
-    
-    
- 2. Flutter 完整开发实战详解(九、 深入绘制原理)
-    
-    
- 3. Flutter | 深入浅出 Key
-    
-    
- 4. Flutter 完整开发实战详解(八、 实用技巧与填坑)
-    
-    
- 5. Flutter 启动流程源码分析
-    
-    
-
-插件&amp;App
- 1. PullToRefresh_Flutter
-    
-     Flutter上拉加载，下拉刷新控件
-    
-     
-    
-    
- 2. cool_ui
-    
-     用flutter实
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="启动流程" scheme="https://flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B/"/>
-    
-      <category term="绘制原理" scheme="https://flutterweekly.dev/tags/%E7%BB%98%E5%88%B6%E5%8E%9F%E7%90%86/"/>
-    
-      <category term="图片组件" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E7%BB%84%E4%BB%B6/"/>
-    
-      <category term="Key" scheme="https://flutterweekly.dev/tags/Key/"/>
     
   </entry>
   

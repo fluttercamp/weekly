@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 35</title>
+      <link href="/flutter-weekly-issue-35/"/>
+      <url>/flutter-weekly-issue-35/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/-aOKZmm27MXUO67f4EVc_A" target="_blank" rel="noopener">腾讯专家实战解读 Flutter for Web</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/IZ6rUfg3_-zvopc7jZZobg" target="_blank" rel="noopener">跨平台技术趋势及字节跳动 Flutter 架构实践</a></p></li><li><p><a href="http://gityuan.com/2019/10/19/timeline/" target="_blank" rel="noopener">彻底掌握 Timeline 原理(一)</a></p></li><li><p><a href="https://weilu.blog.csdn.net/article/details/103452637" target="_blank" rel="noopener">说说 Flutte r中的 RepaintBoundary</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Polidea/FlutterBleLib" target="_blank" rel="noopener">FlutterBleLib</a></p><p> Flutter BLE Library</p></li><li><p><a href="https://github.com/crazycodeboy/flutter_splash_screen" target="_blank" rel="noopener">flutter_splash_screen</a></p><p> A splash screen for flutter, hide when application loaded ,it works on iOS and Android.</p></li></ol><p><img src="https://raw.githubusercontent.com/crazycodeboy/react-native-splash-screen/v3.0.0/examples/Screenshots/react-native-splash-screen-Android.gif" alt></p><ol><li><p><a href="https://github.com/zhaomenghuan/flutter-mini-program" target="_blank" rel="noopener">Flutter MiniProgram</a></p><p> A Flutter’s mini-program development framework by parsing HTML、CSS and JS / Dart.</p></li><li><p><a href="https://github.com/nekocode/h5pay-flutter" target="_blank" rel="noopener">h5pay-flutter</a></p><p> An H5/HTML5 payment (such as Alipay, WeChat Pay) plugin for flutter.</p><p><img src="https://github.com/nekocode/h5pay-flutter/raw/master/image/screenshot.gif?raw=true" alt></p></li><li><p><a href="https://github.com/hathibelagal-dev/css_text_for_flutter" target="_blank" rel="noopener">CSS Text</a></p><p> This Flutter library allows you to use CSS to style your text</p><p><img src="https://github.com/hathibelagal-dev/css_text_for_flutter/raw/master/sample.png" alt></p></li><li><p><a href="https://github.com/matthewfx/sleek_circular_slider" target="_blank" rel="noopener">Sleek circular slider</a></p><p> 圆环进度条控件</p><p><img src="https://github.com/matthewfx/sleek_circular_slider/raw/master/doc/slider00.gif" alt></p></li><li><p><a href="https://github.com/fluttercandies/flutter_hsvcolor_picker" target="_blank" rel="noopener">flutter_hsvcolor_picker</a></p><p> A HSV color picker for your flutter app. RGB HSV Wheel Hue Saturation Values.</p><p><img src="https://github.com/fluttercandies/flutter_hsvcolor_picker/raw/master/screenshot/phone.png" alt></p></li><li><p><a href="https://github.com/fluttercandies/extended_text" target="_blank" rel="noopener">extended_text</a></p><p> 官方Text扩展组件，支持特殊文本效果（比如图片，@人）,自定义背景，自定义文本溢出效果,文本选择以及自定义选择菜单和选择器</p><p><img src="https://github.com/fluttercandies/Flutter_Candies/raw/master/gif/extended_text/special_text.jpg" alt></p></li><li><p><a href="https://github.com/saharh/flutter_autofill" target="_blank" rel="noopener">flutter_autofill</a></p><p> Flutter plugin providing Android Autofill support for text fields.</p></li><li><p><a href="https://github.com/edufolly/flutter_bluetooth_serial" target="_blank" rel="noopener">flutter_bluetooth_serial</a></p><p> Flutter basic implementation for Classical Bluetooth (only RFCOMM for now).</p><p><img src="https://camo.githubusercontent.com/59b26f8ea1954309244a8b920d179ac122f40d49/68747470733a2f2f692e696d6775722e636f6d2f7165654d7356652e706e67" alt></p></li><li><p><a href="https://github.com/Yeikel200/account_manager_plugin" target="_blank" rel="noopener">account_manager_plugin</a></p><p> This plugin allows Flutter apps to obtain all accounts registered in the user’s device.</p><p><img src="https://github.com/Yeikel200/account_manager_plugin/raw/master/example/flutter_01.png" alt></p></li><li><p><a href="https://github.com/Norbert515/pimp_my_button" target="_blank" rel="noopener">pimp_my_button</a></p><p> Add particle effects to anything.</p><p><img src="https://github.com/Norbert515/pimp_my_button/raw/master/media/pimp_my_gif.gif" alt></p></li><li><p><a href="https://github.com/jama5262/jiffy" target="_blank" rel="noopener">jiffy</a></p><p>  a Flutter and dart web date time package inspired by momentjs for parsing, manipulating and formatting dates</p></li><li><p><a href="https://github.com/codemonarch/flutter_ktport" target="_blank" rel="noopener">flutter_ktport</a></p><p> A flutter library for lazier programmers.</p></li><li><p><a href="https://github.com/fluttercommunity/flutter_after_layout" target="_blank" rel="noopener">Flutter After Layout</a></p><p> Brings functionality to execute code after the first layout of a widget has been performed, i.e. after the first frame has been displayed. </p></li><li><p><a href="https://github.com/FirebaseExtended/flutterfire" target="_blank" rel="noopener">flutterfire</a></p><p> Firebase plugins for Flutter iOS and Android apps</p></li><li><p><a href="https://github.com/jlouage/flutter-carousel-pro" target="_blank" rel="noopener">flutter-carousel-pro</a></p><p> 一个轮播图控件</p><p><img src="https://github.com/jlouage/flutter-carousel-pro/raw/master/screenshots/screenshot01.png?raw=true" alt></p></li></ol><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/5hsbxBAY0JFGpMzmZFkCjg" target="_blank" rel="noopener">Custom Widgets in Flutter</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/Ls3cDcqjlyOX80PXUO0wRw" target="_blank" rel="noopener"> 如何缩减接近 50% 的 Flutter 包体积</a></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/TakeoffAndroid/flutter-clean-architecture" target="_blank" rel="noopener">flutter-clean-architecture</a></p><p> This project is a starting point for a Flutter application.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/phoenixsky/fun_android_flutter" target="_blank" rel="noopener">fun_android_flutter</a></p><p> 产品级Flutter开源项目FunAndroid(WanAndroid客户端)，Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画</p><p><img src="https://camo.githubusercontent.com/28d5e75a6efa6393260a31e61cf9392fad9ac7a1/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031392f392f31382f313664343363656261383166356439373f773d33373526683d38313026663d67696626733d31353130313739" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Web </tag>
+            
+            <tag> 架构实践 </tag>
+            
+            <tag> Timeline </tag>
+            
+            <tag> RepaintBoundary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 34</title>
       <link href="/flutter-weekly-issue-34/"/>
       <url>/flutter-weekly-issue-34/</url>
@@ -340,11 +371,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -402,9 +433,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
@@ -431,11 +462,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
