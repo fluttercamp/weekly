@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-12-10T13:07:05.458Z</updated>
+  <updated>2019-12-18T00:15:51.105Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 36</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-36/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-36/</id>
+    <published>2019-12-18T00:09:19.000Z</published>
+    <updated>2019-12-18T00:15:51.105Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 做一个高一致性、高性能的 Flutter 动态渲染，真的很难么？
+    
+    
+ 2. Flutter 在京东 7FRESH 的业务实践
+    
+    
+
+插件
+ 1.  flutter_nim
+     
+      用于 Flutter 的网易云信SDK
+     
+     
+ 2.  flutter_dropdown_banner
+     
+      A dropdown banner for flutter than enables you to notify your user of an event or prompt action
+     
+   
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="动态渲染" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93/"/>
+    
+      <category term="Audio" scheme="https://flutterweekly.dev/tags/Audio/"/>
+    
+      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
+    
+      <category term="Navigator" scheme="https://flutterweekly.dev/tags/Navigator/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 35</title>
@@ -598,11 +642,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
-    
       <category term="图表" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E8%A1%A8/"/>
     
       <category term="MobX" scheme="https://flutterweekly.dev/tags/MobX/"/>
+    
+      <category term="Provider" scheme="https://flutterweekly.dev/tags/Provider/"/>
     
       <category term="Android" scheme="https://flutterweekly.dev/tags/Android/"/>
     
@@ -702,9 +746,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
@@ -755,11 +799,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
+    
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
   </entry>
   
@@ -957,58 +1001,6 @@
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
     
       <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 16</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-16/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-16/</id>
-    <published>2019-04-15T03:40:19.000Z</published>
-    <updated>2019-04-28T05:30:40.954Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. 安卓平台 Flutter 启动过程全解析
-    
-    
- 2. Flutter 事件机制 - Future 和 MicroTask 全解析
-    
-    
- 3. Effective Dart 文档注释在 Flutter 项目中的实践
-    
-    
- 4. Dart编译技术在服务端的探索和应用
-    
-    
- 5. Flutter完整开发实战详解(十、 深入图片加载流程)
-    
-    
-
-插件&amp;App
- 1.  Money Monitor
-     
-      一个 Flutter 开发的漂亮的记账 App
-     
-      
-     
-  
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="图片加载" scheme="https://flutterweekly.dev/tags/%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD/"/>
-    
-      <category term="Future" scheme="https://flutterweekly.dev/tags/Future/"/>
-    
-      <category term="MicroTask" scheme="https://flutterweekly.dev/tags/MicroTask/"/>
-    
-      <category term="启动过程" scheme="https://flutterweekly.dev/tags/%E5%90%AF%E5%8A%A8%E8%BF%87%E7%A8%8B/"/>
-    
-      <category term="文档注释" scheme="https://flutterweekly.dev/tags/%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A/"/>
     
   </entry>
   

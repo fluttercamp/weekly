@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 36</title>
+      <link href="/flutter-weekly-issue-36/"/>
+      <url>/flutter-weekly-issue-36/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://www.yuque.com/xytech/flutter/zggn7u" target="_blank" rel="noopener">做一个高一致性、高性能的 Flutter 动态渲染，真的很难么？</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/N2W3u0Od7WgLretuE5T8RA" target="_blank" rel="noopener">Flutter 在京东 7FRESH 的业务实践</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/GuiminChu/flutter_nim" target="_blank" rel="noopener">flutter_nim</a></p><p> 用于 Flutter 的网易云信SDK</p></li><li><p><a href="https://github.com/flyrboy96/flutter_dropdown_banner" target="_blank" rel="noopener">flutter_dropdown_banner</a></p><p> A dropdown banner for flutter than enables you to notify your user of an event or prompt action</p><p><img src="https://github.com/flyrboy96/flutter_dropdown_banner/raw/master/demonstration.gif" alt></p></li><li><p><a href="https://github.com/vlidholt/device_simulator" target="_blank" rel="noopener">DeviceSimulator</a></p><p> DeviceSimulator allows you to easily test your Flutter app for different screen resolutions and platforms.</p><p><img src="https://github.com/vlidholt/device_simulator/raw/master/images/device_simulator.gif" alt></p></li><li><p><a href="https://github.com/jhomlala/alice" target="_blank" rel="noopener">alice</a></p><p> an HTTP Inspector tool for Flutter which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI.</p><p><img src="https://github.com/jhomlala/comptf2/raw/master/media/appsmaller.gif" alt></p></li><li><p><a href="https://github.com/natintosh/intl-phone-number-input" target="_blank" rel="noopener">Intl Phone Number Input</a></p><p> A single and customizable flutter package for international phone number input</p><p><img src="https://raw.githubusercontent.com/natintosh/intl-phone-number-input/master/media/media_1.gif" alt></p></li><li><p><a href="https://github.com/rxlabz/audioplayer" target="_blank" rel="noopener">AudioPlayer</a></p><p> A flutter plugin to play audio files ( ObjC/Java ) </p></li><li><p><a href="https://github.com/Cretezy/linkify" target="_blank" rel="noopener">linkify</a></p><p> Low-level link (text, URLs, emails) parsing library in Dart </p></li><li><p><a href="https://github.com/jaumard/proxy_layout" target="_blank" rel="noopener">proxy_layout</a></p><p> Package to select layout per orientation or device size like mobile vs tablet layouts or portrait vs landscape</p></li><li><p><a href="https://github.com/fayeed/flutter_parsed_text" target="_blank" rel="noopener">Flutter Parsed text</a></p><p> A Flutter package to parse text and make them into linkified text widget </p><p><img src="https://camo.githubusercontent.com/b3e418de590206fad0563b85a42b3af4bc190222/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5865474267474754566b35313461474930442f67697068792e676966" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_wechat_ble" target="_blank" rel="noopener">flutter_wechat_ble</a></p><p> ble 4.0 with wechat style api for flutter. flutter版微信api风格的低功耗蓝牙</p><p><img src="https://github.com/best-flutter/flutter_wechat_ble/raw/master/images/1.jpg" alt></p></li><li><p><a href="https://github.com/OpenFlutter/mmkv_flutter" target="_blank" rel="noopener">mmkv_flutter</a></p><p> get or set persistent storage value based on MMKV framework.</p></li><li><p><a href="https://github.com/trevorwang/retrofit.dart" target="_blank" rel="noopener">Retrofit For Dart</a></p><p> an dio client generator using source_gen and inspired by Chopper and Retrofit.</p></li><li><p><a href="https://github.com/415593725/flutter_k_chart" target="_blank" rel="noopener">flutter_k_chart</a></p><p> a library module containing code that can be shared easily across multiple Flutter or Dart projects.</p><p><img src="https://github.com/415593725/flutter_k_chart/raw/master/example/images/k_chart.2019-09-01%2010_19_56.gif" alt></p></li><li><p><a href="https://github.com/weidian/hybrid_router" target="_blank" rel="noopener">hybrid_router</a></p><p> 一个 Flutter 混合栈插件，无需修改业务中 Navigator 相关代码，可以帮你轻松的将 Flutter 混合栈能力加入到现有的 flutter 工程，你可以像开发原生 flutter app 一样开发混合栈 app</p></li><li><p><a href="https://github.com/OpenFlutter/flutter_screenutil" target="_blank" rel="noopener">flutter_screenutil</a></p><p> flutter 屏幕适配方案，让你的UI在不同尺寸的屏幕上都能显示合理的布局!</p><p><img src="https://github.com/OpenFlutter/flutter_screenutil/raw/master/demo_zh.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/anupcowkur/Bubbles" target="_blank" rel="noopener">Bubbles</a></p><p> 一个简单的粒子发生器示例</p><p><img src="https://github.com/anupcowkur/Bubbles/raw/master/bubbles.gif" alt></p></li><li><p><a href="https://github.com/miquelbeltran/flutter_material_showcase" target="_blank" rel="noopener">flutter_material_showcase</a></p><p> Material Design components showcase for Flutter apps.</p><p><img src="https://raw.githubusercontent.com/miquelbeltran/flutter_material_showcase/master/screenshot.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/mmcc007/fledge" target="_blank" rel="noopener">Fledge</a></p><p> A CI/CD tool for Flutter </p></li><li><p><a href="https://github.com/bytedance/unpub" target="_blank" rel="noopener">Unpub</a></p><p> Self-hosted private Dart Pub server for Enterprise </p><p><img src="https://raw.githubusercontent.com/bytedance/unpub/master/assets/screenshot.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 动态渲染 </tag>
+            
+            <tag> Audio </tag>
+            
+            <tag> BLE </tag>
+            
+            <tag> Navigator </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 35</title>
       <link href="/flutter-weekly-issue-35/"/>
       <url>/flutter-weekly-issue-35/</url>
@@ -371,11 +402,11 @@
       
         <tags>
             
-            <tag> Provider </tag>
-            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
+            
+            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -433,9 +464,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -462,11 +493,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
