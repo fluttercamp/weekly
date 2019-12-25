@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2019-12-18T00:15:51.105Z</updated>
+  <updated>2019-12-25T02:26:38.861Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 37</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-37/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-37/</id>
+    <published>2019-12-25T02:24:19.000Z</published>
+    <updated>2019-12-25T02:26:38.861Z</updated>
+    
+    <summary type="html">
+    
+      教程
+ 1. 怎样的 Flutter Engine 定制流程，才能实现真正“开箱即用”？
+    
+    
+ 2. Flutter Guide
+    
+     A guide aiming to bridge the gap between the absolute Flutter basics and clean, structured Flutter Development
+    
+    
+ 3. Flutter+Serverless 端到端研发架构实践
+    
+    
+ 4. Flutter 如何更加准确地获取 FPS
+    
+    
+
+插件
+ 1.  photo
+  
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="Flutter Engine" scheme="https://flutterweekly.dev/tags/Flutter-Engine/"/>
+    
+      <category term="Serverless" scheme="https://flutterweekly.dev/tags/Serverless/"/>
+    
+      <category term="FPS" scheme="https://flutterweekly.dev/tags/FPS/"/>
+    
+      <category term="Flare" scheme="https://flutterweekly.dev/tags/Flare/"/>
+    
+      <category term="DartX" scheme="https://flutterweekly.dev/tags/DartX/"/>
+    
+      <category term="Wordpress" scheme="https://flutterweekly.dev/tags/Wordpress/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 36</title>
@@ -956,51 +1004,6 @@
       <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
     
       <category term="Texture" scheme="https://flutterweekly.dev/tags/Texture/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 17</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-17/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-17/</id>
-    <published>2019-04-23T06:41:19.000Z</published>
-    <updated>2019-04-28T05:30:40.978Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. (译)Flutter中的响应式编程(Reactive Programming)、流(Streams)、业务逻辑组件(BloC)以及实际使用案例
-    
-    
- 2. Flutter Json 渐进式解析（上）
-    
-    
- 3. Flutter Json 渐进式解析（下）
-    
-    
- 4. Flutter自定义绘制 Widget 初探
-    
-    
-
-插件&amp;App
- 1.  flutter_fluid_cellular_automata
-     
-      用 Flutter + Flame 实现细胞自动机以模拟流体动力学
-     
-     
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="Widget" scheme="https://flutterweekly.dev/tags/Widget/"/>
-    
-      <category term="Streams" scheme="https://flutterweekly.dev/tags/Streams/"/>
-    
-      <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
-    
-      <category term="JSON" scheme="https://flutterweekly.dev/tags/JSON/"/>
     
   </entry>
   
