@@ -4,6 +4,41 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 38</title>
+      <link href="/flutter-weekly-issue-38/"/>
+      <url>/flutter-weekly-issue-38/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://www.yuque.com/xytech/flutter/iq561u" target="_blank" rel="noopener">闲鱼Flutter互动引擎系列——整体设计篇</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/DckZviEm6P1cNC1oZBvXKw" target="_blank" rel="noopener">向现有应用添加 Flutter</a></p></li><li><p><a href="https://yrom.net/blog/2019/12/29/add-flutter-to-bilibili-comic/" target="_blank" rel="noopener">哔哩哔哩漫画 Flutter 混合开发实践</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/JonathanMonga/flutter_trianglify" target="_blank" rel="noopener">Trianglify for Flutter</a></p><p> Flutter library to generate beautiful triangle art views for android and ios.</p><p><img src="https://raw.githubusercontent.com/JonathanMonga/flutter_trianglify/master/screenshots/screenshot.png" alt></p></li><li><p><a href="https://github.com/flutterigniter/flutter_data_stream_builder" target="_blank" rel="noopener">DataStreamBuilder</a></p><p> A pragmatic StreamBuilder with sensible defaults</p></li><li><p><a href="https://github.com/vanlooverenkoen/locale_gen" target="_blank" rel="noopener">flutter locale gen</a></p><p> Dart tool that will convert your default locale json to dart code.</p><p><img src="https://github.com/vanlooverenkoen/locale_gen/raw/master/assets/example.gif?raw=true" alt></p></li><li><p><a href="https://github.com/csnewman/flutter-compositor" target="_blank" rel="noopener">Flutter Compositor</a></p><p> an experimental library for embedding flutter for wayland compositor creation. This library allows you to write a wayland compositor using dart and flutter (and a small amount of Rust glue logic), with all the standard libraries you are used to.</p></li><li><p><a href="https://github.com/CaiJingLong/flutter_resource_generator" target="_blank" rel="noopener">flutter_asset_generator</a></p><p> Generate an R file for mapping all assets. Supports preview of image.</p><p><img src="https://raw.githubusercontent.com/CaiJingLong/some_asset/master/asset_gen_3.0.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/subosito/flutter-action" target="_blank" rel="noopener">flutter-action</a></p><p> Flutter environment for use in actions. It works on Linux, Windows, and macOS.</p></li><li><p><a href="https://github.com/Rannie/flui" target="_blank" rel="noopener">Flui</a></p><p> A widget kit for Google Flutter. <a href="https://www.flui.xin/en/" target="_blank" rel="noopener">https://www.flui.xin/en/</a></p><p><img src="https://i.loli.net/2019/12/26/29USPpNmT57OQlV.png" alt></p></li></ol><ol><li><p><a href="https://github.com/luckybilly/multi_type_list_view" target="_blank" rel="noopener">MultiTypeListView</a></p><p> A light weight flutter customer ListView that displays multiple widget types.</p><p><img src="https://i.loli.net/2019/12/28/3KEOQRzIZWaDcXd.png" alt></p></li></ol><ol><li><p><a href="https://github.com/flutter-studio/rebound" target="_blank" rel="noopener">Flutter Rebound</a></p><p> A Flutter library that models spring dynamics and adds real world physics to your app.</p><p><img src="https://github.com/flutter-studio/rebound/raw/master/SVID_20191205_120702_1.gif" alt></p></li></ol><ol><li><p><a href="https://github.com/crazecoder/open_file" target="_blank" rel="noopener">open_file</a></p><p> A plug-in that can call native APP to open files with string result in flutter,support iOS(UTI) and android(intent)</p></li><li><p><a href="https://github.com/diegoveloper/flutter_keyboard_actions" target="_blank" rel="noopener">flutter_keyboard_actions</a></p><p> Add features to the Android / iOS keyboard in a simple way.</p><p><img src="https://camo.githubusercontent.com/f8d4dfa2d894f12262492134230b6ffa8825f544/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66523448756d346f736f524a614c6e3235562f67697068792e676966" alt></p></li><li><p><a href="https://github.com/aagarwal1012/Animated-Text-Kit" target="_blank" rel="noopener">Animated-Text-Kit</a></p><p> 🔔 A flutter package to create cool and beautiful text animations.</p><p><img src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true" alt></p></li><li><p><a href="https://github.com/aqwert/flutter_platform_widgets" target="_blank" rel="noopener">Flutter Platform Widgets</a></p><p> Target the specific design of Material for Android and Cupertino for iOS widgets through a common set of Platform aware widgets</p><p><img src="https://i.loli.net/2020/01/01/yxvVXKAUcdP4qH6.png" alt></p></li><li><p><a href="https://github.com/vitusortner/floor" target="_blank" rel="noopener">Floor</a></p><p> A supportive SQLite abstraction for your Flutter applications</p></li><li><p><a href="https://github.com/oxequa/flutter_cache_image" target="_blank" rel="noopener">Flutter Cache Image</a></p><p> Flutter plugin to load and cache network or firebase storage images with a retry mechanism if the download fails</p></li><li><p><a href="https://github.com/jarekb123/dart_dataclass" target="_blank" rel="noopener">dataclass</a></p><p> Dart data class (equals, hashCode, toString, copyWith) methods generator</p></li><li><p><a href="https://github.com/jeremydavidfriesen/flutter-video-chat" target="_blank" rel="noopener">Flutter Video Chat</a></p><p> flutter-video-chat is a simple front-end combining text-messaging (using Google Firebase) and video chat (using Agora.io for Flutter).</p><p><img src="https://camo.githubusercontent.com/9e3a4ff2062119b76e4465773e5a010b326568cd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b48436b4276425662754f68664f5167774c2f67697068792e676966" alt></p></li><li><p><a href="https://github.com/bipin000/flutter_custom_bottomsheet" target="_blank" rel="noopener">flutter_custom_bottomsheet</a></p><p> beautiful bottom sheet with and text and image mixer</p></li><li><p><a href="https://github.com/mdg-soc-19/smooth-sort" target="_blank" rel="noopener">smooth-sort</a></p><p> A wonderful and custom sorting animation for Flutter.</p><p><img src="https://raw.githubusercontent.com/mdg-soc-19/smooth-sort/master/smoothSortGifs/smooth_sort_cover.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/bipin000/jagnik" target="_blank" rel="noopener">Jagnik</a></p><p> A Simple, beautiful and elegant photo Text merging app for your daily Image sharing activities on social media</p><p><img src="https://i.loli.net/2020/01/01/6FTStBJV1G7Zj4w.png" alt></p></li><li><p><a href="https://github.com/youxinLu/flutter_mall" target="_blank" rel="noopener">Flutter_Mall</a></p><p> 一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter_Mall基本上包含了litemall中小程序的功能。</p><p><img src="https://i.loli.net/2019/12/26/cksZPUm5waR39W4.png" alt></p></li></ol><h3 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h3><ol><li><p><a href="https://github.com/apgapg/flutter_physics_concepts" target="_blank" rel="noopener">flutter_physics_concepts</a></p><p> Learn Physics Concept in more visual ways. Wave Theory, Ray Optics are difficult to understand in plain theory. Hence learn all of them in more animating visual ways.</p><p><img src="https://raw.githubusercontent.com/apgapg/flutter_physics_concepts/master/src/s2.gif" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/PeterHdd/gettersetter" target="_blank" rel="noopener">gettersetter</a></p><p> Generate getters and setters for dart in vscode</p></li><li><p><a href="https://github.com/Dart-Code/Dart-Code" target="_blank" rel="noopener">Dart-Code</a></p><p> Dart Code extends VS Code with support for the Dart programming language, and provides tools for effectively editing, refactoring, running, and reloading Flutter mobile apps, and AngularDart web apps.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Flutter Engine </tag>
+            
+            <tag> Serverless </tag>
+            
+            <tag> FPS </tag>
+            
+            <tag> Flare </tag>
+            
+            <tag> DartX </tag>
+            
+            <tag> Wordpress </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 37</title>
       <link href="/flutter-weekly-issue-37/"/>
       <url>/flutter-weekly-issue-37/</url>
@@ -499,9 +534,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             

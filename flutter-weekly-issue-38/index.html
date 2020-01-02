@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="referrer" content="no-referrer">
+  
+  <title>Flutter Weekly Issue 38 | Flutter Weekly</title>
+  <meta name="description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
+  <meta name="keywords" content="Flutter,Flutter 开发,Flutter 教程,Flutter 插件,Flutter 项目,Flutter 社区">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="alternate" href="/atom.xml" title="Flutter Weekly">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="教程  1. 闲鱼Flutter互动引擎系列——整体设计篇            2. 向现有应用添加 Flutter            3. 哔哩哔哩漫画 Flutter 混合开发实践            插件  1. Trianglify for Flutter           Flutter library to generate beautiful triangle art vi">
+<meta name="keywords" content="Flutter Engine,Serverless,FPS,Flare,DartX,Wordpress">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Flutter Weekly Issue 38">
+<meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-38/index.html">
+<meta property="og:site_name" content="Flutter Weekly">
+<meta property="og:description" content="教程  1. 闲鱼Flutter互动引擎系列——整体设计篇            2. 向现有应用添加 Flutter            3. 哔哩哔哩漫画 Flutter 混合开发实践            插件  1. Trianglify for Flutter           Flutter library to generate beautiful triangle art vi">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:image" content="https://raw.githubusercontent.com/JonathanMonga/flutter_trianglify/master/screenshots/screenshot.png">
+<meta property="og:image" content="https://github.com/vanlooverenkoen/locale_gen/raw/master/assets/example.gif?raw=true">
+<meta property="og:image" content="https://raw.githubusercontent.com/CaiJingLong/some_asset/master/asset_gen_3.0.gif">
+<meta property="og:image" content="https://i.loli.net/2019/12/26/29USPpNmT57OQlV.png">
+<meta property="og:image" content="https://i.loli.net/2019/12/28/3KEOQRzIZWaDcXd.png">
+<meta property="og:image" content="https://github.com/flutter-studio/rebound/raw/master/SVID_20191205_120702_1.gif">
+<meta property="og:image" content="https://camo.githubusercontent.com/f8d4dfa2d894f12262492134230b6ffa8825f544/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66523448756d346f736f524a614c6e3235562f67697068792e676966">
+<meta property="og:image" content="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true">
+<meta property="og:image" content="https://i.loli.net/2020/01/01/yxvVXKAUcdP4qH6.png">
+<meta property="og:image" content="https://camo.githubusercontent.com/9e3a4ff2062119b76e4465773e5a010b326568cd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b48436b4276425662754f68664f5167774c2f67697068792e676966">
+<meta property="og:image" content="https://raw.githubusercontent.com/mdg-soc-19/smooth-sort/master/smoothSortGifs/smooth_sort_cover.png">
+<meta property="og:image" content="https://i.loli.net/2020/01/01/6FTStBJV1G7Zj4w.png">
+<meta property="og:image" content="https://i.loli.net/2019/12/26/cksZPUm5waR39W4.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/apgapg/flutter_physics_concepts/master/src/s2.gif">
+<meta property="og:updated_time" content="2020-01-02T02:32:33.303Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Flutter Weekly Issue 38">
+<meta name="twitter:description" content="教程  1. 闲鱼Flutter互动引擎系列——整体设计篇            2. 向现有应用添加 Flutter            3. 哔哩哔哩漫画 Flutter 混合开发实践            插件  1. Trianglify for Flutter           Flutter library to generate beautiful triangle art vi">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/JonathanMonga/flutter_trianglify/master/screenshots/screenshot.png">
+    
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link href="//cdn.bootcss.com/node-waves/0.7.5/waves.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <script>
+    function setLoadingBarProgress(num) {
+      document.getElementById('loading-bar').style.width=num+"%";
+    }
+  </script>
+</head>
+</html>
+<body>
+  <div id="loading-bar-wrapper">
+  <div id="loading-bar"></div>
+</div>
+
+
+  <script>setLoadingBarProgress(20)</script> 
+  <header class="l_header">
+	<div class="wrapper">
+		<div class="nav-main container container--flex">
+			<img class="logo-icon" src="/images/favicon.ico" alt="Flutter Logo">
+			<a class="logo flat-box" href="/">
+				Flutter Weekly
+			</a>
+			<div class="menu">
+				<ul class="h-list">
+					
+						<li>
+							<a class="flat-box nav-home" href="/">
+								首页
+							</a>
+						</li>
+					
+						<li>
+							<a class="flat-box nav-archives" href="/archives">
+								归档
+							</a>
+						</li>
+					
+						<li>
+							<a class="flat-box nav-subscribe" href="/subscribe">
+								订阅
+							</a>
+						</li>
+					
+						<li>
+							<a class="flat-box nav-about" href="/about">
+								关于
+							</a>
+						</li>
+					
+				</ul>
+				<div class="underline"></div>
+			</div>
+			
+				<div class="m_search">
+					<form name="searchform" class="form u-search-form">
+						<input type="text" class="input u-search-input" placeholder="Search">
+						<span class="icon icon-search"></span>
+					</form>
+				</div>
+			
+			<ul class="switcher h-list">
+				
+					<li class="s-search"><a href="javascript:void(0)"><span class="icon icon-search flat-box"></span></a></li>
+				
+				<li class="s-menu"><a href="javascript:void(0)"><span class="icon icon-menu flat-box"></span></a></li>
+			</ul>
+		</div>
+		
+		<div class="nav-sub container container--flex">
+			<a class="logo" href="javascript:void(0)">
+				Word of Forks
+			</a>
+
+			<ul class="switcher h-list">
+				<li class="s-comment"><a href="javascript:void(0)"><span class="icon icon-chat_bubble_outline flat-box"></span></a></li>
+				<li class="s-top"><a href="javascript:void(0)"><span class="icon icon-arrow_upward flat-box"></span></a></li>
+				<li class="s-toc"><a href="javascript:void(0)"><span class="icon icon-format_list_numbered flat-box"></span></a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+<aside class="menu-phone">
+	<nav>
+		
+			<a href="/" class="nav-home nav">
+				首页
+			</a>
+		
+			<a href="/archives" class="nav-archives nav">
+				归档
+			</a>
+		
+			<a href="/subscribe" class="nav-subscribe nav">
+				订阅
+			</a>
+		
+			<a href="/about" class="nav-about nav">
+				关于
+			</a>
+		
+	</nav>
+</aside>
+
+  <script>setLoadingBarProgress(40);</script>
+  
+  <div class="l_body">
+    <div class='container clearfix'>
+      <div class='l_main'>
+        <article id="post-flutter-weekly-issue-38" class="post white-box article-type-post" itemscope itemprop="blogPost">
+	<section class="meta">
+	<h2 class="title">
+  	<a href="/flutter-weekly-issue-38/">
+    	Flutter Weekly Issue 38
+    </a>
+  </h2>
+	<time>
+	  1月 2, 2020
+	</time>
+	
+    
+    <div class="cats">
+        <a href="/categories/Weekly/">Weekly</a>
+    </div>
+
+	</section>
+	
+		<section class="toc-wrapper"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#教程"><span class="toc-number">1.</span> <span class="toc-text">教程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#插件"><span class="toc-number">2.</span> <span class="toc-text">插件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#App"><span class="toc-number">3.</span> <span class="toc-text">App</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Web"><span class="toc-number">4.</span> <span class="toc-text">Web</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#工具"><span class="toc-number">5.</span> <span class="toc-text">工具</span></a></li></ol></section>
+	
+	<section class="article typo">
+  	<div class="article-entry" itemprop="articleBody">
+    	<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol>
+<li><p><a href="https://www.yuque.com/xytech/flutter/iq561u" target="_blank" rel="noopener">闲鱼Flutter互动引擎系列——整体设计篇</a></p>
+</li>
+<li><p><a href="https://mp.weixin.qq.com/s/DckZviEm6P1cNC1oZBvXKw" target="_blank" rel="noopener">向现有应用添加 Flutter</a></p>
+</li>
+<li><p><a href="https://yrom.net/blog/2019/12/29/add-flutter-to-bilibili-comic/" target="_blank" rel="noopener">哔哩哔哩漫画 Flutter 混合开发实践</a></p>
+</li>
+</ol>
+<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol>
+<li><p><a href="https://github.com/JonathanMonga/flutter_trianglify" target="_blank" rel="noopener">Trianglify for Flutter</a></p>
+<p> Flutter library to generate beautiful triangle art views for android and ios.</p>
+<p><img src="https://raw.githubusercontent.com/JonathanMonga/flutter_trianglify/master/screenshots/screenshot.png" alt></p>
+</li>
+<li><p><a href="https://github.com/flutterigniter/flutter_data_stream_builder" target="_blank" rel="noopener">DataStreamBuilder</a></p>
+<p> A pragmatic StreamBuilder with sensible defaults</p>
+</li>
+<li><p><a href="https://github.com/vanlooverenkoen/locale_gen" target="_blank" rel="noopener">flutter locale gen</a></p>
+<p> Dart tool that will convert your default locale json to dart code.</p>
+<p><img src="https://github.com/vanlooverenkoen/locale_gen/raw/master/assets/example.gif?raw=true" alt></p>
+</li>
+<li><p><a href="https://github.com/csnewman/flutter-compositor" target="_blank" rel="noopener">Flutter Compositor</a></p>
+<p> an experimental library for embedding flutter for wayland compositor creation. This library allows you to write a wayland compositor using dart and flutter (and a small amount of Rust glue logic), with all the standard libraries you are used to.</p>
+</li>
+<li><p><a href="https://github.com/CaiJingLong/flutter_resource_generator" target="_blank" rel="noopener">flutter_asset_generator</a></p>
+<p> Generate an R file for mapping all assets. Supports preview of image.</p>
+<p><img src="https://raw.githubusercontent.com/CaiJingLong/some_asset/master/asset_gen_3.0.gif" alt></p>
+</li>
+</ol>
+<ol>
+<li><p><a href="https://github.com/subosito/flutter-action" target="_blank" rel="noopener">flutter-action</a></p>
+<p> Flutter environment for use in actions. It works on Linux, Windows, and macOS.</p>
+</li>
+<li><p><a href="https://github.com/Rannie/flui" target="_blank" rel="noopener">Flui</a></p>
+<p> A widget kit for Google Flutter. <a href="https://www.flui.xin/en/" target="_blank" rel="noopener">https://www.flui.xin/en/</a></p>
+<p><img src="https://i.loli.net/2019/12/26/29USPpNmT57OQlV.png" alt></p>
+</li>
+</ol>
+<ol>
+<li><p><a href="https://github.com/luckybilly/multi_type_list_view" target="_blank" rel="noopener">MultiTypeListView</a></p>
+<p> A light weight flutter customer ListView that displays multiple widget types.</p>
+<p><img src="https://i.loli.net/2019/12/28/3KEOQRzIZWaDcXd.png" alt></p>
+</li>
+</ol>
+<ol>
+<li><p><a href="https://github.com/flutter-studio/rebound" target="_blank" rel="noopener">Flutter Rebound</a></p>
+<p> A Flutter library that models spring dynamics and adds real world physics to your app.</p>
+<p><img src="https://github.com/flutter-studio/rebound/raw/master/SVID_20191205_120702_1.gif" alt></p>
+</li>
+</ol>
+<ol>
+<li><p><a href="https://github.com/crazecoder/open_file" target="_blank" rel="noopener">open_file</a></p>
+<p> A plug-in that can call native APP to open files with string result in flutter,support iOS(UTI) and android(intent)</p>
+</li>
+<li><p><a href="https://github.com/diegoveloper/flutter_keyboard_actions" target="_blank" rel="noopener">flutter_keyboard_actions</a></p>
+<p> Add features to the Android / iOS keyboard in a simple way.</p>
+<p><img src="https://camo.githubusercontent.com/f8d4dfa2d894f12262492134230b6ffa8825f544/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66523448756d346f736f524a614c6e3235562f67697068792e676966" alt></p>
+</li>
+<li><p><a href="https://github.com/aagarwal1012/Animated-Text-Kit" target="_blank" rel="noopener">Animated-Text-Kit</a></p>
+<p> 🔔 A flutter package to create cool and beautiful text animations.</p>
+<p><img src="https://github.com/aagarwal1012/Animated-Text-Kit/raw/master/display/cover.gif?raw=true" alt></p>
+</li>
+<li><p><a href="https://github.com/aqwert/flutter_platform_widgets" target="_blank" rel="noopener">Flutter Platform Widgets</a></p>
+<p> Target the specific design of Material for Android and Cupertino for iOS widgets through a common set of Platform aware widgets</p>
+<p><img src="https://i.loli.net/2020/01/01/yxvVXKAUcdP4qH6.png" alt></p>
+</li>
+<li><p><a href="https://github.com/vitusortner/floor" target="_blank" rel="noopener">Floor</a></p>
+<p> A supportive SQLite abstraction for your Flutter applications</p>
+</li>
+<li><p><a href="https://github.com/oxequa/flutter_cache_image" target="_blank" rel="noopener">Flutter Cache Image</a></p>
+<p> Flutter plugin to load and cache network or firebase storage images with a retry mechanism if the download fails</p>
+</li>
+<li><p><a href="https://github.com/jarekb123/dart_dataclass" target="_blank" rel="noopener">dataclass</a></p>
+<p> Dart data class (equals, hashCode, toString, copyWith) methods generator</p>
+</li>
+<li><p><a href="https://github.com/jeremydavidfriesen/flutter-video-chat" target="_blank" rel="noopener">Flutter Video Chat</a></p>
+<p> flutter-video-chat is a simple front-end combining text-messaging (using Google Firebase) and video chat (using Agora.io for Flutter).</p>
+<p><img src="https://camo.githubusercontent.com/9e3a4ff2062119b76e4465773e5a010b326568cd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6b48436b4276425662754f68664f5167774c2f67697068792e676966" alt></p>
+</li>
+<li><p><a href="https://github.com/bipin000/flutter_custom_bottomsheet" target="_blank" rel="noopener">flutter_custom_bottomsheet</a></p>
+<p> beautiful bottom sheet with and text and image mixer</p>
+</li>
+<li><p><a href="https://github.com/mdg-soc-19/smooth-sort" target="_blank" rel="noopener">smooth-sort</a></p>
+<p> A wonderful and custom sorting animation for Flutter.</p>
+<p><img src="https://raw.githubusercontent.com/mdg-soc-19/smooth-sort/master/smoothSortGifs/smooth_sort_cover.png" alt></p>
+</li>
+</ol>
+<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol>
+<li><p><a href="https://github.com/bipin000/jagnik" target="_blank" rel="noopener">Jagnik</a></p>
+<p> A Simple, beautiful and elegant photo Text merging app for your daily Image sharing activities on social media</p>
+<p><img src="https://i.loli.net/2020/01/01/6FTStBJV1G7Zj4w.png" alt></p>
+</li>
+<li><p><a href="https://github.com/youxinLu/flutter_mall" target="_blank" rel="noopener">Flutter_Mall</a></p>
+<p> 一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter_Mall基本上包含了litemall中小程序的功能。</p>
+<p><img src="https://i.loli.net/2019/12/26/cksZPUm5waR39W4.png" alt></p>
+</li>
+</ol>
+<h3 id="Web"><a href="#Web" class="headerlink" title="Web"></a>Web</h3><ol>
+<li><p><a href="https://github.com/apgapg/flutter_physics_concepts" target="_blank" rel="noopener">flutter_physics_concepts</a></p>
+<p> Learn Physics Concept in more visual ways. Wave Theory, Ray Optics are difficult to understand in plain theory. Hence learn all of them in more animating visual ways.</p>
+<p><img src="https://raw.githubusercontent.com/apgapg/flutter_physics_concepts/master/src/s2.gif" alt></p>
+</li>
+</ol>
+<h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol>
+<li><p><a href="https://github.com/PeterHdd/gettersetter" target="_blank" rel="noopener">gettersetter</a></p>
+<p> Generate getters and setters for dart in vscode</p>
+</li>
+<li><p><a href="https://github.com/Dart-Code/Dart-Code" target="_blank" rel="noopener">Dart-Code</a></p>
+<p> Dart Code extends VS Code with support for the Dart programming language, and provides tools for effectively editing, refactoring, running, and reloading Flutter mobile apps, and AngularDart web apps.</p>
+</li>
+</ol>
+
+  	</div>
+	  
+	  <div class="article-tags tags">
+      
+        <a href="/tags/Flutter-Engine/">Flutter Engine</a>
+      
+        <a href="/tags/Serverless/">Serverless</a>
+      
+        <a href="/tags/FPS/">FPS</a>
+      
+        <a href="/tags/Flare/">Flare</a>
+      
+        <a href="/tags/DartX/">DartX</a>
+      
+        <a href="/tags/Wordpress/">Wordpress</a>
+      
+	  </div>
+    
+		
+	
+		<div class="art-item-footer">
+				
+				
+					<span class="art-item-right">next：<a href="/flutter-weekly-issue-37/" rel="next" title="Flutter Weekly Issue 37">
+						Flutter Weekly Issue 37
+					</a><i class="icon icon-chevron-thin-right"></i></span>
+				
+		</div>
+	
+	</section>
+	
+</article>
+<script>
+	window.subData = {
+		title: 'Flutter Weekly Issue 38',
+		tools: true
+	}
+</script>
+
+      </div>
+      
+      <script>setLoadingBarProgress(60);</script>
+    </div>
+  </div>
+  <footer id="footer" class="clearfix" style="background: url(/images/flutter-bottom.svg) no-repeat;background-position-x: center;background-position-y: bottom;
+background-size: 180%;">
+  <br><br><br><br>
+	<div class="social-wrapper">
+  	
+      
+        <a href="https://github.com/cfug" class="social github" target="_blank" rel="external">
+          <span class="icon icon-github"></span>
+        </a>
+      
+        <a href="https://twitter.com/FlutterChina" class="social twitter" target="_blank" rel="external">
+          <span class="icon icon-twitter"></span>
+        </a>
+      
+        <a href="https://weibo.com/flutterio" class="social sina-weibo" target="_blank" rel="external">
+          <span class="icon icon-sina-weibo"></span>
+        </a>
+      
+        <a href="/atom.xml" class="social rss" target="_blank" rel="external">
+          <span class="icon icon-rss"></span>
+        </a>
+      
+    
+  </div>
+  <br>
+  <div>
+    <section class="friends-links">
+      <div class="content-links">
+      
+        <span class="link">
+          <a href="https://flutter-io.cn/" target="_blank" rel="external">
+            Flutter 社区中文资源
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://www.coolapk.com/apk/io.flutter.demo.gallery" target="_blank" rel="external">
+            Flutter Gallery
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://codelabs.flutter-io.cn/" target="_blank" rel="external">
+            Flutter Codelabs
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://flutter.dev/" target="_blank" rel="external">
+            Flutter 官方网站
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://dartpad.cn/" target="_blank" rel="external">
+            DartPad
+          </a>
+        </span>
+      
+      </div>
+    </section>
+    <br>
+    <section class="flutter-intro">
+      <span>Made with&nbsp;&nbsp;</span>
+      <a title="China Flutter User Group" href="https://github.com/cfug" target="_blank">CFUG</a>
+      <span>&nbsp;&nbsp;team</span><br>
+      <span>感谢郑州玩码科技帮助维护基础设施资源</span>
+    </section>
+  </div>
+  <div class="beian-wrapper">
+  
+      <a href="http://www.miitbeian.gov.cn/ target=" _blank" rel="external">
+        豫ICP备18021312号-1
+      </a>
+      &nbsp;&nbsp;
+  
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010702002474 target=" _blank" rel="external">
+        豫公网安备41010702002474号
+      </a>
+      &nbsp;&nbsp;
+  
+  </div>
+</footer>
+  <script>setLoadingBarProgress(80);</script>
+  
+
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/node-waves/0.7.5/waves.min.js"></script>
+<script src="//cdn.bootcss.com/scrollReveal.js/3.3.2/scrollreveal.min.js"></script>
+<script src="/js/jquery.fitvids.js"></script>
+<script>
+	var GOOGLE_CUSTOM_SEARCH_API_KEY = "";
+	var GOOGLE_CUSTOM_SEARCH_ENGINE_ID = "";
+	var ALGOLIA_API_KEY = "";
+	var ALGOLIA_APP_ID = "";
+	var ALGOLIA_INDEX_NAME = "";
+  var AZURE_SERVICE_NAME = "";
+  var AZURE_INDEX_NAME = "";
+  var AZURE_QUERY_KEY = "";
+  var BAIDU_API_ID = "";
+  var SEARCH_SERVICE = "hexo";
+  var ROOT = "/"||"/";
+  if(!ROOT.endsWith('/'))ROOT += '/';
+</script>
+<script src="/js/search.js"></script>
+<script src="/js/app.js"></script>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript">
+  window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { 
+    L.start({"baseUrl":"mc.us20.list-manage.com","uuid":"c1a90018e0ba282c43243da5b","lid":"1f8332e947","uniqueMethods":true}) 
+  })
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135552747-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135552747-1');
+</script>
+
+
+  <script>setLoadingBarProgress(100);</script>
+</body>
+</html>
