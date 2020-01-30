@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 40</title>
+      <link href="/flutter-weekly-issue-40/"/>
+      <url>/flutter-weekly-issue-40/</url>
+      
+        <content type="html"><![CDATA[<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Cleveroad/flutter_sliding_tutorial" target="_blank" rel="noopener">flutter_sliding_tutorial</a></p><p> User onboarding library with smooth animation of objects and background colors</p><p><img src="https://github.com/Cleveroad/flutter_sliding_tutorial/raw/develop/images/gif1.gif" alt></p></li><li><p><a href="https://github.com/ZJQian/flutter_nimsdk" target="_blank" rel="noopener">flutter_nimsdk</a></p><p> 用于Flutter的网易云信SDK 暂时只有iOS版本</p></li><li><p><a href="https://github.com/kmcgill88/admob_flutter" target="_blank" rel="noopener">admob_flutter</a></p><p> Admob Flutter plugin that shows banner ads using native platform views.</p><p><img src="https://camo.githubusercontent.com/ef115a2104ec99188bfe2bbd76fafca25f527a45/68747470733a2f2f692e696d6775722e636f6d2f7a4a43343165732e676966" alt></p></li><li><p><a href="https://github.com/xuelongqy/flutter_easyrefresh" target="_blank" rel="noopener">flutter_easyrefresh</a></p><p> A widget provided to the flutter scroll component pull-refresh and push-load.</p></li><li><p><a href="https://github.com/google/inject.dart" target="_blank" rel="noopener">inject.dart</a></p><p> Compile-time dependency injection for Dart and Flutter</p></li><li><p><a href="https://github.com/huextrat/steps_indicator" target="_blank" rel="noopener">steps_indicator</a></p><p> A simple steps indicator widget</p><p><img src="https://raw.githubusercontent.com/huextrat/steps_indicator/master/example/screenshot.png" alt></p></li><li><p><a href="https://github.com/huextrat/menu_button" target="_blank" rel="noopener">menu_button</a></p><p> A popup menu button widget with handsome design and easy to use.</p><p><img src="https://raw.githubusercontent.com/huextrat/menu_button/master/example/example.gif" alt></p></li><li><p><a href="https://github.com/rgodlontonshaw/flutter_image_gallery" target="_blank" rel="noopener">flutter_image_gallery</a></p><p> A Flutter plugin to assist with easy access and display to the native iOS and Android image gallery</p></li><li><p><a href="https://github.com/JankoLancer/kd-tree-dart" target="_blank" rel="noopener">k-d Tree Dart Library</a></p><p> A basic super fast Dart implementation of the k-dimensional (k-d) tree data structure</p></li><li><p><a href="https://github.com/JankoLancer/geocoder_offline" target="_blank" rel="noopener">Offline Geocoder</a></p><p> Dart/Flutter plugin for offline super fast reverse geocoding</p></li><li><p><a href="https://github.com/Polidea/blemulator_flutter" target="_blank" rel="noopener">blemulator_flutter</a></p><p> BLEmulator Flutter: the Flutter BLE peripheral simulator</p></li><li><p><a href="https://github.com/fluttercommunity/flutter_downloader" target="_blank" rel="noopener">flutter_downloader</a></p><p> A plugin for creating and managing download tasks. Supports iOS and Android.</p></li><li><p><a href="https://github.com/hnvn/flutter_flip_panel" target="_blank" rel="noopener">Flip Panel</a></p><p> A package for flip panel with built-in animation</p></li></ol><p><img src="https://github.com/hnvn/flutter_flip_panel/raw/master/screenshots/flip_image.gif?raw=true" alt></p><ol><li><p><a href="https://github.com/akshathjain/grouped_buttons" target="_blank" rel="noopener">grouped_buttons</a></p><p> A set of Flutter widgets that makes grouping Checkboxes and Radio Buttons much easier!</p><p><img src="https://raw.githubusercontent.com/akshathjain/grouped_buttons/master/screenshots/basicusagescreenshot.png" alt></p></li><li><p><a href="https://github.com/Flutterando/modular" target="_blank" rel="noopener">Flutter Modular</a></p><p> A smart project structure</p></li><li><p><a href="https://github.com/mcaubrey/clay_containers" target="_blank" rel="noopener">Clay Containers</a></p><p> Easily create custom neumorphic container widgets for your own unique design.</p><p><img src="https://camo.githubusercontent.com/2e109019cf632adc00b7f22725cf3ea61de9a6e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d636136323531312f696d6167652f75706c6f61642f76313537393834373636382f62616e6e65725f7a78367072642e706e67" alt></p></li><li><p><a href="https://github.com/miguelpruivo/flutter_file_picker" target="_blank" rel="noopener">File Picker</a></p><p> A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extensions filtering support.</p><p><img src="https://github.com/miguelpruivo/plugins_flutter_file_picker/raw/master/example/example.gif" alt></p></li><li><p><a href="https://github.com/zhouteng0217/ShareExtend" target="_blank" rel="noopener">ShareExtend</a></p><p> 调用系统分享的Flutter组件，支持分享文本，图片，视频和文件</p></li><li><p><a href="https://github.com/Cretezy/flutter_linkify" target="_blank" rel="noopener">flutter_linkify</a></p><p> Turns text URLs and emails into clickable inline links in text for Flutter </p><p><img src="https://github.com/Cretezy/flutter_linkify/raw/master/example/screenshot.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/Cretezy/imgix_flutter.dart" target="_blank" rel="noopener">Imgix Flutter</a></p><p> An Imgix Flutter wrapper to embed Imgix URLs with options easily.</p></li><li><p><a href="https://github.com/MasonLiuChn/ThinkFlutter" target="_blank" rel="noopener">ThinkFlutter</a></p><p> 一个Flutter的工程模板，使用了flutterw、flutter web、dartserver、dio、serializable、retrofit、toast、cached_network_image、provider、eventbus、isolate、本地图片、iconfonts 并演示了package、plugin开发方式</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/JideGuru/FlutterEbookApp" target="_blank" rel="noopener">FlutterEbookApp</a></p><p> A simple Flutter app to Read and Download eBooks.</p><p><img src="https://github.com/JideGuru/FlutterEbookApp/raw/master/ss/mockup.png" alt></p></li><li><p><a href="https://github.com/fayeed/Onehour-app" target="_blank" rel="noopener">Onehour</a></p><p> A time tracking app build using Flutter</p><p><img src="https://camo.githubusercontent.com/e2bd57916e66fd685fdbb2ad66a3c2c5091e305c/68747470733a2f2f692e696d6775722e636f6d2f616a6f767974752e706e67" alt></p></li><li><p><a href="https://github.com/atornel/RestaurantAppUIKit" target="_blank" rel="noopener">RestaurantAppUIKit</a></p><p> Flutter representation of a full Restaurant app UI KIT.</p><p><img src="https://github.com/atornel/RestaurantAppUIKit/raw/master/ss/res.png" alt></p></li><li><p><a href="https://github.com/ketanchoyal/Academic-Connect" target="_blank" rel="noopener">Our E School</a></p><p> A mobile app created using Flutter Framework for School management.</p><p><img src="https://raw.githubusercontent.com/ketanchoyal/Academic-Connect/new-dashboards/screenshots/Screenshot_1.png" alt></p></li></ol><h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><ol><li><p><a href="https://github.com/FilledStacks/flutter-tutorials" target="_blank" rel="noopener">Flutter tutorials</a></p><p> The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/MasonLiuChn/DartServer" target="_blank" rel="noopener">DartServer</a></p><p> this start a http server for flutter web, it can also proxy api requests for Cross-Origin Request.为flutter web启动一个http服务器，并且可以代理api请求，解决跨域请求问题。</p></li><li><p><a href="https://github.com/zhangruiyu/FlutterJsonBeanFactory" target="_blank" rel="noopener">FlutterJsonBeanFactory</a></p><p> generate dart beans based on json, as well as generics parameters and json build instances</p><p><img src="https://github.com/zhangruiyu/FlutterJsonBeanFactory/raw/master/beantojson_factory.gif" alt></p></li><li><p><a href="https://plugins.jetbrains.com/plugin/13666-flutter-intl" target="_blank" rel="noopener">Flutter Intl</a></p><p> This i18n plugin creates a binding between your translations from .arb files and your Flutter app. It generates boilerplate code for official Dart Intl library and adds auto-complete for keys in Dart code.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 网易云信 </tag>
+            
+            <tag> Admob </tag>
+            
+            <tag> Menu </tag>
+            
+            <tag> BLE </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 39</title>
       <link href="/flutter-weekly-issue-39/"/>
       <url>/flutter-weekly-issue-39/</url>
@@ -121,11 +152,11 @@
       
         <tags>
             
+            <tag> BLE </tag>
+            
             <tag> 动态渲染 </tag>
             
             <tag> Audio </tag>
-            
-            <tag> BLE </tag>
             
             <tag> Navigator </tag>
             
@@ -280,9 +311,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -309,11 +340,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -594,11 +625,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -689,11 +720,11 @@
       
         <tags>
             
+            <tag> JSON </tag>
+            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
-            
-            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -722,11 +753,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
@@ -1090,9 +1121,9 @@
       
         <tags>
             
-            <tag> ListView </tag>
-            
             <tag> Animation </tag>
+            
+            <tag> ListView </tag>
             
             <tag> StatefulWidget </tag>
             

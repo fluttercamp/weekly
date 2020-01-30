@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2020-01-16T02:34:16.305Z</updated>
+  <updated>2020-01-28T10:25:43.797Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 40</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-40/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-40/</id>
+    <published>2020-01-28T10:23:19.000Z</published>
+    <updated>2020-01-28T10:25:43.797Z</updated>
+    
+    <summary type="html">
+    
+      插件
+ 1.  flutter_sliding_tutorial
+     
+      User onboarding library with smooth animation of objects and background colors
+     
+     
+     
+     
+ 2.  flutter_nimsdk
+     
+      用于Flutter的网易云信SDK 暂时只有iOS版本
+     
+     
+ 3.  admob_flutter
+     
+      Admob Flutter plugin that shows banner ads using 
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="网易云信" scheme="https://flutterweekly.dev/tags/%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1/"/>
+    
+      <category term="Admob" scheme="https://flutterweekly.dev/tags/Admob/"/>
+    
+      <category term="Menu" scheme="https://flutterweekly.dev/tags/Menu/"/>
+    
+      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 39</title>
@@ -193,11 +234,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
+    
       <category term="动态渲染" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93/"/>
     
       <category term="Audio" scheme="https://flutterweekly.dev/tags/Audio/"/>
-    
-      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
     
       <category term="Navigator" scheme="https://flutterweekly.dev/tags/Navigator/"/>
     
@@ -417,9 +458,9 @@
     
       <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
     
-      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
-    
       <category term="异步消息" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF/"/>
+    
+      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
   </entry>
   
@@ -470,11 +511,11 @@
     
       <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
     
+      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
+    
       <category term="画中画" scheme="https://flutterweekly.dev/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/"/>
     
       <category term="自动化测试" scheme="https://flutterweekly.dev/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
-    
-      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
   </entry>
   
@@ -942,63 +983,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
+      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
+    
       <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
     
       <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
-    
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 20</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-20/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-20/</id>
-    <published>2019-05-13T03:41:19.000Z</published>
-    <updated>2019-05-13T03:48:38.359Z</updated>
-    
-    <summary type="html">
-    
-      新闻
- 1. Flutter: 适用于移动、Web、嵌入式和桌面平台的便携式界面框架
-
-教程
- 1. 深入理解Flutter多线程
-    
-    
- 2. Flutter完整开发实战详解(十三、全面深入触摸和滑动原理)
-    
-    
-
-插件&amp;App
- 1. eva_icons_flutter
-    
-    
- 2. mobile_sidebar
-    
-     一个Flutter插件，用于在平板电脑和桌面上显示侧边栏，然后在移动设备上显示列表或网格视图。
-    
-     
-    
-    
- 3. streaming_shared_preferences
-    
-  
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
-    
-      <category term="多线程" scheme="https://flutterweekly.dev/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/"/>
-    
-      <category term="触摸" scheme="https://flutterweekly.dev/tags/%E8%A7%A6%E6%91%B8/"/>
-    
-      <category term="滑动原理" scheme="https://flutterweekly.dev/tags/%E6%BB%91%E5%8A%A8%E5%8E%9F%E7%90%86/"/>
-    
-      <category term="嵌入式" scheme="https://flutterweekly.dev/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
-    
-      <category term="Flutter Web" scheme="https://flutterweekly.dev/tags/Flutter-Web/"/>
     
   </entry>
   
