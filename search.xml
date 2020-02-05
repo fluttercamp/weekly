@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 41</title>
+      <link href="/flutter-weekly-issue-41/"/>
+      <url>/flutter-weekly-issue-41/</url>
+      
+        <content type="html"><![CDATA[<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/yako-dev/flutter-full-screen-menu" target="_blank" rel="noopener">Full Screen Menu for Flutter</a></p><p> Full screen menu for Flutter apps to give a user a broad variety of variants in beautiful way </p><p><img src="https://raw.githubusercontent.com/yako-dev/flutter-full-screen-menu/master/assets/full_screen_menu_logo.png" alt></p></li><li><p><a href="https://github.com/madewithfelt/flutter_layout_grid" target="_blank" rel="noopener">Flutter Layout Grid</a></p><p> A grid-based layout system for Flutter, inspired by CSS Grid Layout</p><p><img src="https://raw.githubusercontent.com/shyndman/flutter_layout_grid/master/doc/images/piet.png" alt></p></li><li><p><a href="https://github.com/Skyost/FlutterWeekView" target="_blank" rel="noopener">FlutterWeekView</a></p><p> Displays a highly customizable week view (or day view) which is able to display events, to be scrolled, to be zoomed-in &amp; out and a lot more !</p><p><img src="https://github.com/Skyost/FlutterWeekView/raw/master/screenshots/day_view.png" alt></p></li><li><p><a href="https://github.com/jignesh1997/flutter_dtx" target="_blank" rel="noopener">flutter_dtx</a></p><p> Dart utils Extension functions Flutter package for Basic dart extension functions.</p></li><li><p><a href="https://github.com/brianegan/rxdart_codemod" target="_blank" rel="noopener">rxdart_codemod</a></p><p> A collection of codemods to upgrade your RxDart code from one version to the next</p></li><li><p><a href="https://github.com/entronad/flutter_echarts" target="_blank" rel="noopener">flutter_echarts</a></p><p> A Flutter widget to use Echarts in a reactive way.</p><p><img src="https://i.loli.net/2020/01/28/FJOi26MQko8qzem.png" alt></p></li><li><p><a href="https://github.com/insideapp-oss/sonar-flutter" target="_blank" rel="noopener">sonar-flutter</a></p><p> SonarQube plugin for Flutter / Dart</p><p><img src="https://github.com/insideapp-oss/sonar-flutter/raw/master/screenshots/dashboard.png" alt></p></li><li><p><a href="https://github.com/SunPointed/MPFlutterChart" target="_blank" rel="noopener">MPFlutterChart</a></p><p> MPAndroidChart Flutter version</p><p><img src="https://i.loli.net/2020/01/28/nCaw67jhoFLbGHm.png" alt></p></li><li><p><a href="https://github.com/luckybilly/widget_chain" target="_blank" rel="noopener">widget_chain</a></p><p> Chain programming, not widget nesting constructors. Get rid of the nested hell with shiny extensions, now!</p></li><li><p><a href="https://github.com/creativecreatorormaybenot/clock" target="_blank" rel="noopener">clock</a></p><p> This is a clock display that uses exclusively the Flutter Canvas to draw everything you see on screen. That means that there are no assets, no plugins, and not even prebuilt widgets used, i.e. every RenderObject in the tree is custom made by me.</p><p><img src="https://github.com/creativecreatorormaybenot/clock/raw/master/screen_captures/showcase.gif" alt></p></li><li><p><a href="https://github.com/material-foundation/google-fonts-flutter" target="_blank" rel="noopener">google_fonts</a></p><p> A Flutter package for accessing the Google Fonts API</p><p><img src="https://raw.githubusercontent.com/material-foundation/google-fonts-flutter/master/readme_images/main.gif" alt></p></li><li><p><a href="https://github.com/filiph/english_words" target="_blank" rel="noopener">english_words</a></p><p> A package containing the most ~5000 used English words and some utility functions.</p></li><li><p><a href="https://github.com/lukasgit/flutter_contacts" target="_blank" rel="noopener">contacts_service</a></p><p> A Flutter plugin to retrieve and manage contacts on Android and iOS devices.</p><p><img src="https://github.com/lukasgit/flutter_contacts/raw/master/doc/example.gif" alt></p></li><li><p><a href="https://github.com/JonathanMonga/flutter_shine.dart" target="_blank" rel="noopener">flutter_shine.dart</a></p><p> a library for pretty and realistic shadows, dynamic light positions, extremely customizable shadows, no library dependencies, text or box shadows based on content.</p><p><img src="https://raw.githubusercontent.com/JonathanMonga/flutter_shine.dart/master/images/image_2.png" alt></p></li><li><p><a href="https://github.com/SandroMaglione/step-progress-indicator" target="_blank" rel="noopener">Step Progress Indicator</a></p><p> Open source Flutter package, bar indicator made of a series of selected and unselected steps</p><p><img src="https://i.loli.net/2020/01/31/eaMTlRQcdUm9vou.png" alt></p></li><li><p><a href="https://github.com/Vanethos/flutter_notification_permissions" target="_blank" rel="noopener">Flutter Notification Permissions</a></p><p> Plugin for Flutter to check and ask for Notification Permissions</p></li><li><p><a href="https://github.com/jhomlala/alice" target="_blank" rel="noopener">Alice</a></p><p> an HTTP Inspector tool for Flutter which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI. It is inspired from Chuck ( <a href="https://github.com/jgilfelt/chuck" target="_blank" rel="noopener">https://github.com/jgilfelt/chuck</a> ).</p><p><img src="https://github.com/jhomlala/comptf2/raw/master/media/appsmaller.gif" alt></p></li><li><p><a href="https://github.com/xvrh/lottie-flutter" target="_blank" rel="noopener">Lottie for Flutter</a></p><p> Render After Effects animations natively on Flutter. This package is a pure Dart implementation of a Lottie player.</p></li><li><p><a href="https://github.com/PhilipsHue/flutter_reactive_ble" target="_blank" rel="noopener">flutter_reactive_ble</a></p><p> Flutter library that handles BLE operations for multiple devices.</p></li><li><p><a href="https://github.com/Jaguar-dart/jaguar_hotreload" target="_blank" rel="noopener">jaguar_hotreload</a></p><p> <a href="https://github.com/Jaguar-dart/jaguar_hotreload" target="_blank" rel="noopener">https://github.com/Jaguar-dart/jaguar_hotreload</a></p></li><li><p><a href="https://github.com/hawkinsjb1/responsive_util" target="_blank" rel="noopener">responsive_util</a></p><p> A wrapper that provides draggable manipulation of a widget’s size to test it’s responsive design.</p><p><img src="https://raw.githubusercontent.com/hawkinsjb1/responsive_util/master/assets/example2.gif" alt></p></li><li><p><a href="https://github.com/BendixMa/implicitly_animated_reorderable_list" target="_blank" rel="noopener">Implicitly Animated Reorderable List</a></p><p> A Flutter ListView that implicitly animates between the changes of two lists with support to reorder its items.</p><p><img src="https://raw.githubusercontent.com/BendixMa/implicitly_animated_reorderable_list/master/assets/demo.gif" alt></p></li><li><p><a href="https://github.com/AKushWarrior/autotrie" target="_blank" rel="noopener">AutoTrie</a></p><p> An auto-suggest engine for Dart/Flutter, based off an optimized Trie implementation.</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/rodydavis/navigation_rail" target="_blank" rel="noopener">navigation_rail</a></p><p> An example of how to use the navigation rail.</p></li><li><p><a href="https://github.com/BramDC3/Cocktailr" target="_blank" rel="noopener">Cocktailr</a></p><p>  an application made for cocktail lovers to help them discover new cocktails and find cocktails based on the ingredients they have. </p></li><li><p><a href="https://github.com/JideGuru/FileX" target="_blank" rel="noopener">FileX</a></p><p> A simple File Explorer(Still very buggy) made with Flutter.</p><p><img src="https://i.loli.net/2020/02/04/eIqbQl3WEXc62sr.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/FlutterEurope/conference2020" target="_blank" rel="noopener">Flutter Europe conference app</a></p><p> Official mobile app of Flutter Europe 2020 conference</p><p><img src="https://i.loli.net/2020/01/28/iE5X23LYUpAQT68.png" alt></p></li><li><p><a href="https://github.com/michaelroudnitski/Tabs" target="_blank" rel="noopener">Tabs</a></p><p> The expense sharing app – made with Flutter, Firebase and ❤️. Keep track of what your friends owe you for that pizza you agreed to split; or rent; or whatever it might be. Tabs makes it simple.</p><p><img src="https://i.loli.net/2020/01/31/75Y8SicqW2bRsjG.png" alt></p></li><li><p><a href="https://github.com/fluttercandies/ncov_2019" target="_blank" rel="noopener">nCoV_2019</a></p><p> 获取新肺炎实时动态App，支持Android和IOS。</p><p><img src="https://i.loli.net/2020/02/04/2ORAvNLiH5z6ukD.png" alt></p></li><li><p><a href="https://github.com/theindianappguy/TinderGoldRedesign" target="_blank" rel="noopener">TinderGoldRedesign</a></p><p> Here’s a Tinder Gold redesign concept for the popular dating app made with Flutter.</p><p><img src="https://user-images.githubusercontent.com/55942632/73542795-85756f00-445b-11ea-8aa9-913ec2075f53.png" alt></p></li><li><p><a href="https://github.com/CiriousJoker/star_clock" target="_blank" rel="noopener">Star Clock</a></p><p> My entry for the Flutter Clock Face Contest </p><p><img src="https://i.loli.net/2020/02/04/LuNJzvDWwQirG13.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/lesnitsky/inherited_builder" target="_blank" rel="noopener">Inherited Builder</a></p><p> 🤖Autogenerated state management and dependency injection with inherited widgets</p><p><img src="https://i.loli.net/2020/02/04/tb87Ch5xM1Y9Wga.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Menu </tag>
+            
+            <tag> GridLayout </tag>
+            
+            <tag> Echarts </tag>
+            
+            <tag> Permissions </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 40</title>
       <link href="/flutter-weekly-issue-40/"/>
       <url>/flutter-weekly-issue-40/</url>
@@ -20,13 +51,13 @@
       
         <tags>
             
-            <tag> 网易云信 </tag>
-            
-            <tag> Admob </tag>
+            <tag> BLE </tag>
             
             <tag> Menu </tag>
             
-            <tag> BLE </tag>
+            <tag> 网易云信 </tag>
+            
+            <tag> Admob </tag>
             
         </tags>
       
@@ -152,11 +183,11 @@
       
         <tags>
             
-            <tag> BLE </tag>
-            
             <tag> 动态渲染 </tag>
             
             <tag> Audio </tag>
+            
+            <tag> BLE </tag>
             
             <tag> Navigator </tag>
             
@@ -400,9 +431,9 @@
       
         <tags>
             
-            <tag> MVC </tag>
-            
             <tag> BloC </tag>
+            
+            <tag> MVC </tag>
             
             <tag> 架构 </tag>
             
@@ -596,9 +627,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
@@ -625,11 +656,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       

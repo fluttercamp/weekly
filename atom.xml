@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2020-01-28T10:25:43.797Z</updated>
+  <updated>2020-02-05T03:21:45.992Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -15,6 +15,47 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Flutter Weekly Issue 41</title>
+    <link href="https://flutterweekly.dev/flutter-weekly-issue-41/"/>
+    <id>https://flutterweekly.dev/flutter-weekly-issue-41/</id>
+    <published>2020-02-05T03:15:19.000Z</published>
+    <updated>2020-02-05T03:21:45.992Z</updated>
+    
+    <summary type="html">
+    
+      插件
+ 1.  Full Screen Menu for Flutter
+     
+      Full screen menu for Flutter apps to give a user a broad variety of variants in beautiful way 
+     
+     
+     
+     
+ 2.  Flutter Layout Grid
+     
+      A grid-based layout system for Flutter, inspired by CSS Grid Layout
+     
+     
+     
+     
+ 3.
+    
+    </summary>
+    
+      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
+    
+    
+      <category term="Menu" scheme="https://flutterweekly.dev/tags/Menu/"/>
+    
+      <category term="GridLayout" scheme="https://flutterweekly.dev/tags/GridLayout/"/>
+    
+      <category term="Echarts" scheme="https://flutterweekly.dev/tags/Echarts/"/>
+    
+      <category term="Permissions" scheme="https://flutterweekly.dev/tags/Permissions/"/>
+    
+  </entry>
   
   <entry>
     <title>Flutter Weekly Issue 40</title>
@@ -47,13 +88,13 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="网易云信" scheme="https://flutterweekly.dev/tags/%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1/"/>
-    
-      <category term="Admob" scheme="https://flutterweekly.dev/tags/Admob/"/>
+      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
     
       <category term="Menu" scheme="https://flutterweekly.dev/tags/Menu/"/>
     
-      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
+      <category term="网易云信" scheme="https://flutterweekly.dev/tags/%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1/"/>
+    
+      <category term="Admob" scheme="https://flutterweekly.dev/tags/Admob/"/>
     
   </entry>
   
@@ -234,11 +275,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
-    
       <category term="动态渲染" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E6%80%81%E6%B8%B2%E6%9F%93/"/>
     
       <category term="Audio" scheme="https://flutterweekly.dev/tags/Audio/"/>
+    
+      <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
     
       <category term="Navigator" scheme="https://flutterweekly.dev/tags/Navigator/"/>
     
@@ -611,9 +652,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
-    
       <category term="BloC" scheme="https://flutterweekly.dev/tags/BloC/"/>
+    
+      <category term="MVC" scheme="https://flutterweekly.dev/tags/MVC/"/>
     
       <category term="架构" scheme="https://flutterweekly.dev/tags/%E6%9E%B6%E6%9E%84/"/>
     
@@ -930,64 +971,11 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
-      <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flutter Weekly Issue 21</title>
-    <link href="https://flutterweekly.dev/flutter-weekly-issue-21/"/>
-    <id>https://flutterweekly.dev/flutter-weekly-issue-21/</id>
-    <published>2019-05-20T11:02:19.000Z</published>
-    <updated>2019-05-26T08:41:17.081Z</updated>
-    
-    <summary type="html">
-    
-      教程
- 1. UI2CODE 智能生成代码——组件识别篇
-    
-    
- 2. Flutter 面试知识点集锦
-    
-    
- 3. 在闲鱼，我们如何用 Dart 做高效后端开发？
-    
-    
- 4. Flutter 完全手册
-    
-    
-
-插件
- 1. flutter_i18n
-    
-     一个国际化插件
-    
-    
- 2. flutter_classic_kit
-    
-     经典 UI 组件库
-    
-     
-    
-    
- 3. TextReaderAnimation
-    
-     该动画灵感来自于谷歌IO19 RNN
-    
-    </summary>
-    
-      <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
-    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
-    
-      <category term="面试" scheme="https://flutterweekly.dev/tags/%E9%9D%A2%E8%AF%95/"/>
-    
-      <category term="Dart" scheme="https://flutterweekly.dev/tags/Dart/"/>
     
   </entry>
   
