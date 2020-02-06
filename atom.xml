@@ -90,11 +90,11 @@
     
       <category term="BLE" scheme="https://flutterweekly.dev/tags/BLE/"/>
     
+      <category term="Menu" scheme="https://flutterweekly.dev/tags/Menu/"/>
+    
       <category term="网易云信" scheme="https://flutterweekly.dev/tags/%E7%BD%91%E6%98%93%E4%BA%91%E4%BF%A1/"/>
     
       <category term="Admob" scheme="https://flutterweekly.dev/tags/Admob/"/>
-    
-      <category term="Menu" scheme="https://flutterweekly.dev/tags/Menu/"/>
     
   </entry>
   
@@ -971,9 +971,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
-    
       <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     
