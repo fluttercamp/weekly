@@ -53,11 +53,11 @@
             
             <tag> BLE </tag>
             
-            <tag> Menu </tag>
-            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
+            
+            <tag> Menu </tag>
             
         </tags>
       
@@ -357,7 +357,7 @@
       <link href="/flutter-weekly-issue-30/"/>
       <url>/flutter-weekly-issue-30/</url>
       
-        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://juejin.im/post/5d37fb1af265da1b695da1a9?utm_source=wechat&amp;from=timeline&amp;isappinstalled=0" target="_blank" rel="noopener">Flutter PIP（画中画）效果的实现</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/-0itxQHzpOQ-9k1oIggpYw" target="_blank" rel="noopener">有赞 Flutter 插件开发与发布</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/LsjCc3NnWFPqlvVb1GnosQ" target="_blank" rel="noopener">教育 App Flutter 点播组件实战</a></p></li><li><p><a href="https://juejin.im/post/5d3c341c6fb9a07ecf726ced?from=timeline&amp;isappinstalled=0" target="_blank" rel="noopener">Flutter 在铭师堂的实践</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/florent37/AnimatedWidgets" target="_blank" rel="noopener">AnimatedWidgets</a></p><p> 一个方便添加动画的插件</p><p> <img src="https://i.loli.net/2019/07/29/5d3efdcef361f56223.gif" alt></p></li><li><p><a href="https://github.com/florent37/Flutter-KenBurns" target="_blank" rel="noopener">Flutter-KenBurns</a></p><p> Ken Burns 效果的 Flutter 实现</p></li><li><p><a href="https://github.com/i-protoss/wave" target="_blank" rel="noopener">wave</a></p><p> 用于显示具有自定义颜色、持续时间、浮动和模糊效果的波浪的小组件。</p><p> <img src="https://i.loli.net/2019/07/29/5d3f00b724a6322513.png" alt></p></li><li><p><a href="https://github.com/OpenFlutter/amap_base_flutter" target="_blank" rel="noopener">amap_base_flutter</a></p><p> 高德地图Flutter插件 基于AndroidView和UiKitView，可以嵌入Widget树中。</p></li><li><p><a href="https://github.com/zino-app/graphql-flutter" target="_blank" rel="noopener">GraphQL Flutter</a></p><p> 一个用于 Flutter 的 GraphQL Client，将现代 GraphQL Client的所有特性都引入到一个易于使用的包中。</p></li><li><p><a href="https://github.com/adar2378/pin_code_fields" target="_blank" rel="noopener">pin_code_fields</a></p><p> 一个可以帮助生成pin码字段的库。可用于OTP或pin码输入。</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9d728cd3555446.png" alt></p></li><li><p><a href="https://github.com/dnys1/spotlight_carousel" target="_blank" rel="noopener">spotlight_carousel</a></p><p> 一个用于以带有可选页面指示器的旋转木马样式显示图像的Flutter小部件</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb2252ce3373397.png" alt></p></li><li><p><a href="https://github.com/pharshdev/flutter_fling" target="_blank" rel="noopener">flutter_fling</a></p><p> 转换媒体到FireStick和FireTv的插件</p></li><li><p><a href="https://github.com/f3ath/json-api-dart" target="_blank" rel="noopener">JSON:API </a></p><p> 用JSON构建api的规范。</p></li><li><p><a href="https://github.com/vintage/scratcher" target="_blank" rel="noopener">scratcher</a></p><p> 刮奖效果组件</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb404b074c72645.gif" alt></p></li><li><p><a href="https://github.com/pauldemarco/auto_data" target="_blank" rel="noopener">auto_data</a></p><p> 自动生成数据类的插件</p></li><li><p><a href="https://github.com/ReginFell/Dart-sealed-codegen" target="_blank" rel="noopener">Dart-sealed-codegen</a></p><p> 用于与密封注解使用的Codegen实现</p></li><li><p><a href="https://github.com/AKushWarrior/steel_crypt" target="_blank" rel="noopener">Steel Crypt</a></p><p> 一组高级API的集合，它公开了PointyCastle/encrypt，以便在流行的/安全算法中执行散列和加密。</p></li><li><p><a href="https://github.com/leisim/hive" target="_blank" rel="noopener">Hive</a></p><p> 轻量和快速的键值对存储</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/scitbiz/flutter_pokedex" target="_blank" rel="noopener">Flutter Pokedex</a></p><p> 一个介绍精灵宝可梦里的各种精灵的 App</p><p> <img src="https://i.loli.net/2019/07/29/5d3f03ee29f5415087.png" alt></p></li><li><p><a href="https://github.com/eopeter/flutter_dialpad" target="_blank" rel="noopener">flutter_dialpad</a></p><p> 一个电话拨号应用</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9fbeb6c1144462.png" alt></p></li><li><p><a href="https://github.com/JideGuru/FlutterCryptoUI" target="_blank" rel="noopener">FlutterCryptoUI</a></p><p> 一个数字货币应用的概念设计稿 Flutter 实现</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb9813093b71128.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/flutter-devs/flutter_paytm_clone" target="_blank" rel="noopener">Flutter Paytm UI Demo</a></p><p> 仿 Paytm UI 界面的 Flutter 示例应用。</p><p> <img src="https://i.loli.net/2019/07/30/5d3fba100322486739.gif" alt></p></li><li><p><a href="https://github.com/cvicens/flutter-gramola" target="_blank" rel="noopener">flutter-gramola</a></p><p> 展示如何以模块化的方式向Flutter应用程序添加功能</p><p> <img src="https://i.loli.net/2019/07/29/5d3efe204ac6e66442.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/synw/panaview" target="_blank" rel="noopener">Panaview</a></p><p> 一个可视化 Dart 包分析结果的的桌面应用程序</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9f4832f8f13974.png" alt></p></li><li><p><a href="https://github.com/shyndman/pubx" target="_blank" rel="noopener">pubx</a></p><p> 可以从命令行搜索和查看来自pub.dev的包的命令行工具。</p></li><li><p><a href="https://www.npmjs.com/package/appium-flutter-driver" target="_blank" rel="noopener">Appium Flutter Driver</a></p><p> Flutter 应用自动化测试工具</p></li></ol>]]></content>
+        <content type="html"><![CDATA[<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://juejin.im/post/5d37fb1af265da1b695da1a9" target="_blank" rel="noopener">Flutter PIP（画中画）效果的实现</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/-0itxQHzpOQ-9k1oIggpYw" target="_blank" rel="noopener">有赞 Flutter 插件开发与发布</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/LsjCc3NnWFPqlvVb1GnosQ" target="_blank" rel="noopener">教育 App Flutter 点播组件实战</a></p></li><li><p><a href="https://juejin.im/post/5d3c341c6fb9a07ecf726ced" target="_blank" rel="noopener">Flutter 在铭师堂的实践</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/florent37/Flutter-KenBurns" target="_blank" rel="noopener">Flutter-KenBurns</a></p><p> Ken Burns 效果的 Flutter 实现</p></li><li><p><a href="https://github.com/i-protoss/wave" target="_blank" rel="noopener">wave</a></p><p> 用于显示具有自定义颜色、持续时间、浮动和模糊效果的波浪的小组件。</p><p><img src="https://i.loli.net/2019/07/29/5d3f00b724a6322513.png" alt></p></li><li><p><a href="https://github.com/OpenFlutter/amap_base_flutter" target="_blank" rel="noopener">amap_base_flutter</a></p><p> 高德地图Flutter插件 基于AndroidView和UiKitView，可以嵌入Widget树中。</p></li><li><p><a href="https://github.com/zino-app/graphql-flutter" target="_blank" rel="noopener">GraphQL Flutter</a></p><p> 一个用于 Flutter 的 GraphQL Client，将现代 GraphQL Client的所有特性都引入到一个易于使用的包中。</p></li><li><p><a href="https://github.com/adar2378/pin_code_fields" target="_blank" rel="noopener">pin_code_fields</a></p><p> 一个可以帮助生成pin码字段的库。可用于OTP或pin码输入。</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9d728cd3555446.png" alt></p></li><li><p><a href="https://github.com/dnys1/spotlight_carousel" target="_blank" rel="noopener">spotlight_carousel</a></p><p> 一个用于以带有可选页面指示器的旋转木马样式显示图像的Flutter小部件</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb2252ce3373397.png" alt></p></li><li><p><a href="https://github.com/pharshdev/flutter_fling" target="_blank" rel="noopener">flutter_fling</a></p><p> 转换媒体到FireStick和FireTv的插件</p></li><li><p><a href="https://github.com/f3ath/json-api-dart" target="_blank" rel="noopener">JSON:API</a></p><p> 用JSON构建api的规范。</p></li><li><p><a href="https://github.com/vintage/scratcher" target="_blank" rel="noopener">scratcher</a></p><p> 刮奖效果组件</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb404b074c72645.gif" alt></p></li><li><p><a href="https://github.com/pauldemarco/auto_data" target="_blank" rel="noopener">auto_data</a></p><p> 自动生成数据类的插件</p></li><li><p><a href="https://github.com/ReginFell/Dart-sealed-codegen" target="_blank" rel="noopener">Dart-sealed-codegen</a></p><p> 用于与密封注解使用的Codegen实现</p></li><li><p><a href="https://github.com/AKushWarrior/steel_crypt" target="_blank" rel="noopener">Steel Crypt</a></p><p> 一组高级API的集合，它公开了PointyCastle/encrypt，以便在流行的/安全算法中执行散列和加密。</p></li><li><p><a href="https://github.com/leisim/hive" target="_blank" rel="noopener">Hive</a></p><p> 轻量和快速的键值对存储</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/scitbiz/flutter_pokedex" target="_blank" rel="noopener">Flutter Pokedex</a></p><p> 一个介绍精灵宝可梦里的各种精灵的 App</p><p> <img src="https://i.loli.net/2019/07/29/5d3f03ee29f5415087.png" alt></p></li><li><p><a href="https://github.com/eopeter/flutter_dialpad" target="_blank" rel="noopener">flutter_dialpad</a></p><p> 一个电话拨号应用</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9fbeb6c1144462.png" alt></p></li><li><p><a href="https://github.com/JideGuru/FlutterCryptoUI" target="_blank" rel="noopener">FlutterCryptoUI</a></p><p> 一个数字货币应用的概念设计稿 Flutter 实现</p><p> <img src="https://i.loli.net/2019/07/30/5d3fb9813093b71128.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/flutter-devs/flutter_paytm_clone" target="_blank" rel="noopener">Flutter Paytm UI Demo</a></p><p> 仿 Paytm UI 界面的 Flutter 示例应用。</p><p> <img src="https://i.loli.net/2019/07/30/5d3fba100322486739.gif" alt></p></li><li><p><a href="https://github.com/cvicens/flutter-gramola" target="_blank" rel="noopener">flutter-gramola</a></p><p> 展示如何以模块化的方式向Flutter应用程序添加功能</p><p> <img src="https://i.loli.net/2019/07/29/5d3efe204ac6e66442.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/synw/panaview" target="_blank" rel="noopener">Panaview</a></p><p> 一个可视化 Dart 包分析结果的的桌面应用程序</p><p> <img src="https://i.loli.net/2019/07/30/5d3f9f4832f8f13974.png" alt></p></li><li><p><a href="https://github.com/shyndman/pubx" target="_blank" rel="noopener">pubx</a></p><p> 可以从命令行搜索和查看来自pub.dev的包的命令行工具。</p></li><li><p><a href="https://www.npmjs.com/package/appium-flutter-driver" target="_blank" rel="noopener">Appium Flutter Driver</a></p><p> Flutter 应用自动化测试工具</p></li></ol>]]></content>
       
       
       <categories>
@@ -627,9 +627,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -908,11 +908,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -939,11 +939,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
@@ -1152,9 +1152,9 @@
       
         <tags>
             
-            <tag> Animation </tag>
-            
             <tag> ListView </tag>
+            
+            <tag> Animation </tag>
             
             <tag> StatefulWidget </tag>
             

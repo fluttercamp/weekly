@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://flutterweekly.dev/subscribe/index.html</loc>
+    <loc>https://flutterweekly.dev/flutter-weekly-issue-30/</loc>
     
-    <lastmod>2020-02-05T14:38:06.094Z</lastmod>
+    <lastmod>2020-02-06T14:39:51.211Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://flutterweekly.dev/flutter-weekly-issue-41/</loc>
     
-    <lastmod>2020-02-05T08:03:28.448Z</lastmod>
+    <lastmod>2020-02-06T12:44:22.988Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://flutterweekly.dev/subscribe/index.html</loc>
+    
+    <lastmod>2020-02-05T14:38:06.094Z</lastmod>
     
   </url>
   
@@ -82,13 +89,6 @@
     <loc>https://flutterweekly.dev/flutter-weekly-issue-31/</loc>
     
     <lastmod>2019-10-28T03:34:34.440Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://flutterweekly.dev/flutter-weekly-issue-30/</loc>
-    
-    <lastmod>2019-07-30T03:54:59.217Z</lastmod>
     
   </url>
   
