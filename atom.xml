@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://flutterweekly.dev/"/>
-  <updated>2020-02-05T03:21:45.992Z</updated>
+  <updated>2020-02-05T08:03:28.448Z</updated>
   <id>https://flutterweekly.dev/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://flutterweekly.dev/flutter-weekly-issue-41/"/>
     <id>https://flutterweekly.dev/flutter-weekly-issue-41/</id>
     <published>2020-02-05T03:15:19.000Z</published>
-    <updated>2020-02-05T03:21:45.992Z</updated>
+    <updated>2020-02-05T08:03:28.448Z</updated>
     
     <summary type="html">
     
@@ -499,9 +499,9 @@
     
       <category term="状态管理" scheme="https://flutterweekly.dev/tags/%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86/"/>
     
-      <category term="异步消息" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF/"/>
-    
       <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
+    
+      <category term="异步消息" scheme="https://flutterweekly.dev/tags/%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF/"/>
     
   </entry>
   
@@ -552,11 +552,11 @@
     
       <category term="插件开发" scheme="https://flutterweekly.dev/tags/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/"/>
     
-      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
-    
       <category term="画中画" scheme="https://flutterweekly.dev/tags/%E7%94%BB%E4%B8%AD%E7%94%BB/"/>
     
       <category term="自动化测试" scheme="https://flutterweekly.dev/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="点播" scheme="https://flutterweekly.dev/tags/%E7%82%B9%E6%92%AD/"/>
     
   </entry>
   
@@ -971,9 +971,9 @@
       <category term="Weekly" scheme="https://flutterweekly.dev/categories/Weekly/"/>
     
     
-      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
-    
       <category term="动画" scheme="https://flutterweekly.dev/tags/%E5%8A%A8%E7%94%BB/"/>
+    
+      <category term="混合开发" scheme="https://flutterweekly.dev/tags/%E6%B7%B7%E5%90%88%E5%BC%80%E5%8F%91/"/>
     
       <category term="Web" scheme="https://flutterweekly.dev/tags/Web/"/>
     

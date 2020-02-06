@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://flutterweekly.dev/subscribe/index.html</loc>
+    
+    <lastmod>2020-02-05T14:38:06.094Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://flutterweekly.dev/flutter-weekly-issue-41/</loc>
     
-    <lastmod>2020-02-05T03:21:45.992Z</lastmod>
+    <lastmod>2020-02-05T08:03:28.448Z</lastmod>
     
   </url>
   
@@ -292,13 +299,6 @@
     <loc>https://flutterweekly.dev/about/index.html</loc>
     
     <lastmod>2019-03-03T09:45:56.555Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://flutterweekly.dev/subscribe/index.html</loc>
-    
-    <lastmod>2019-03-03T09:42:31.125Z</lastmod>
     
   </url>
   
