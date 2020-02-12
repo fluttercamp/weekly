@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="referrer" content="no-referrer">
   
-  <title>Flutter Weekly Issue 5 | Flutter Weekly</title>
+  <title>Flutter Weekly Issue 42 | Flutter Weekly</title>
   <meta name="description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
   <meta name="keywords" content="Flutter,Flutter 开发,Flutter 教程,Flutter 插件,Flutter 项目,Flutter 社区">
   <meta name="HandheldFriendly" content="True">
@@ -13,22 +13,27 @@
   <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="alternate" href="/rss2.xml" title="Flutter Weekly">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="教程  1.  使用 Flare 创建 Flutter 动画              2.  Flutter: 如何使用 streams 动态改变 app 的主题              3.  Flutter 的 listview 和 checkbox              4.  深入探究 Flutter 的页面视图              5.  Flutter — 密码校验动画">
-<meta name="keywords" content="Animation,ListView,StatefulWidget,Garbage Collector">
+  <meta name="description" content="插件  1.  Flutter Google Sheet localizations generator             Generate Flutter localization from a simple online Google Sheets.              2.  JSON to Dart             Library that generates dart">
+<meta name="keywords" content="Shimmer,Mock,WebSockets">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Flutter Weekly Issue 5">
-<meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-5/index.html">
+<meta property="og:title" content="Flutter Weekly Issue 42">
+<meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-42/index.html">
 <meta property="og:site_name" content="Flutter Weekly">
-<meta property="og:description" content="教程  1.  使用 Flare 创建 Flutter 动画              2.  Flutter: 如何使用 streams 动态改变 app 的主题              3.  Flutter 的 listview 和 checkbox              4.  深入探究 Flutter 的页面视图              5.  Flutter — 密码校验动画">
+<meta property="og:description" content="插件  1.  Flutter Google Sheet localizations generator             Generate Flutter localization from a simple online Google Sheets.              2.  JSON to Dart             Library that generates dart">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:image" content="https://ws2.sinaimg.cn/large/006tNc79ly1g2iaapptwug30a20kvk1h.gif">
-<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tNc79ly1g2iaaqyya5j30j60y33zw.jpg">
-<meta property="og:image" content="https://ws4.sinaimg.cn/large/006tNc79ly1g2iaarv74yj30j609qmxk.jpg">
-<meta property="og:updated_time" content="2019-04-28T05:30:40.966Z">
+<meta property="og:image" content="https://github.com/hnvn/flutter_shimmer/raw/master/screenshots/loading_list.gif?raw=true">
+<meta property="og:image" content="https://camo.githubusercontent.com/d26811d6fb36545b9eb16475a1836a88dbf314fe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f643875436c6670713452366a4b51765638542f67697068792e676966">
+<meta property="og:image" content="https://github.com/kriticalflare/SIES-Library/raw/master/demo/images/libraryArchdrawio.png">
+<meta property="og:image" content="https://camo.githubusercontent.com/aa4534052babfeaa3dd5312685fb640f380f52f5/687474703a2f2f6465762e73757065726d616e2d61636164656d792e636f6d2f696d616765732f707265766965775f66696e64736561742e706e67">
+<meta property="og:image" content="https://i.loli.net/2020/02/06/6qcUzxniM54ZrKA.png">
+<meta property="og:image" content="https://github.com/getgoh/inpost_mock/raw/master/inpost.gif">
+<meta property="og:image" content="https://github.com/xuyisheng/flutter_dojo/raw/master/resource/6.png">
+<meta property="og:image" content="https://github.com/flutter-devs/flutter_googledrive_ui/raw/flutter_google_drive/screens/demo.gif">
+<meta property="og:updated_time" content="2020-02-12T01:21:16.837Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Flutter Weekly Issue 5">
-<meta name="twitter:description" content="教程  1.  使用 Flare 创建 Flutter 动画              2.  Flutter: 如何使用 streams 动态改变 app 的主题              3.  Flutter 的 listview 和 checkbox              4.  深入探究 Flutter 的页面视图              5.  Flutter — 密码校验动画">
-<meta name="twitter:image" content="https://ws2.sinaimg.cn/large/006tNc79ly1g2iaapptwug30a20kvk1h.gif">
+<meta name="twitter:title" content="Flutter Weekly Issue 42">
+<meta name="twitter:description" content="插件  1.  Flutter Google Sheet localizations generator             Generate Flutter localization from a simple online Google Sheets.              2.  JSON to Dart             Library that generates dart">
+<meta name="twitter:image" content="https://github.com/hnvn/flutter_shimmer/raw/master/screenshots/loading_list.gif?raw=true">
     
   <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
@@ -141,17 +146,17 @@
   <div class="l_body">
     <div class='container clearfix'>
       <div class='l_main'>
-        <article id="post-flutter-weekly-issue-5"
+        <article id="post-flutter-weekly-issue-42"
   class="post white-box article-type-post"
   itemscope itemprop="blogPost">
 	<section class='meta'>
 	<h2 class="title">
-  	<a href="/flutter-weekly-issue-5/">
-    	Flutter Weekly Issue 5
+  	<a href="/flutter-weekly-issue-42/">
+    	Flutter Weekly Issue 42
     </a>
   </h2>
 	<time>
-	  1月 28, 2019
+	  2月 12, 2020
 	</time>
 	
     
@@ -161,56 +166,73 @@
 
 	</section>
 	
-		<section class="toc-wrapper"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#教程"><span class="toc-number">1.</span> <span class="toc-text">教程</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#插件-amp-App"><span class="toc-number">2.</span> <span class="toc-text">插件&amp;App</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#视频"><span class="toc-number">3.</span> <span class="toc-text">视频</span></a></li></ol></section>
+		<section class="toc-wrapper"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#插件"><span class="toc-number">1.</span> <span class="toc-text">插件</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#App"><span class="toc-number">2.</span> <span class="toc-text">App</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#示例"><span class="toc-number">3.</span> <span class="toc-text">示例</span></a></li></ol></section>
 	
 	<section class="article typo">
   	<div class="article-entry" itemprop="articleBody">
-    	<h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol>
-<li><p><a href="https://medium.com/@KarthikPonnam/flutter-animation-using-flare-d1eb874a429d" target="_blank" rel="noopener">使用 Flare 创建 Flutter 动画</a></p>
+    	<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol>
+<li><p><a href="https://github.com/aloisdeniel/flutter_sheet_localization" target="_blank" rel="noopener">Flutter Google Sheet localizations generator</a></p>
+<p> Generate Flutter localization from a simple online Google Sheets.</p>
 </li>
-<li><p><a href="https://medium.com/@frmineoapps/flutter-how-to-change-the-apps-theme-dynamically-using-streams-77df0c7b0c16" target="_blank" rel="noopener">Flutter: 如何使用 streams 动态改变 app 的主题</a></p>
+<li><p><a href="https://github.com/javiercbk/json_to_dart" target="_blank" rel="noopener">JSON to Dart</a></p>
+<p> Library that generates dart classes from json strings</p>
 </li>
-<li><p><a href="http://codesfor.in/flutter-listview-with-checkbox/" target="_blank" rel="noopener">Flutter 的 listview 和 checkbox</a></p>
+<li><p><a href="https://github.com/hnvn/flutter_shimmer" target="_blank" rel="noopener">Shimmer</a></p>
+<p> A package provides an easy way to add shimmer effect in Flutter project</p>
+<p><img src="https://github.com/hnvn/flutter_shimmer/raw/master/screenshots/loading_list.gif?raw=true" alt></p>
 </li>
-<li><p><a href="https://medium.com/flutter-community/a-deep-dive-into-pageview-in-flutter-with-custom-transitions-581d9ea6dded" target="_blank" rel="noopener">深入探究 Flutter 的页面视图</a></p>
+<li><p><a href="https://github.com/AKushWarrior/destiny" target="_blank" rel="noopener">Destiny</a></p>
+<p> An package which generates mock-data using the PCG algorithm.</p>
 </li>
-<li><p><a href="https://medium.com/flutter-community/flutter-password-validation-animation-79ab2bceb600" target="_blank" rel="noopener">Flutter — 密码校验动画</a></p>
+<li><p><a href="https://github.com/PavieOlivier/slidingCard" target="_blank" rel="noopener">Sliding Card</a></p>
+<p> An Animated Sliding Card Made in Flutter</p>
+<p><img src="https://camo.githubusercontent.com/d26811d6fb36545b9eb16475a1836a88dbf314fe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f643875436c6670713452366a4b51765638542f67697068792e676966" alt></p>
 </li>
-<li><p><a href="https://lizhaoxuan.github.io/2019/01/02/Flutter-你还在滥用StatefulWidget吗/" target="_blank" rel="noopener">Flutter-你还在滥用 StatefulWidget 吗</a></p>
+<li><p><a href="https://github.com/kriticalflare/SIES-Library" target="_blank" rel="noopener">SIES-Library</a></p>
+<p> A simple catalog app for SIESGST Library using Google Books API</p>
+<p><img src="https://github.com/kriticalflare/SIES-Library/raw/master/demo/images/libraryArchdrawio.png" alt></p>
 </li>
-<li><p><a href="https://mp.weixin.qq.com/s/7BAwQgk6MvHArJG3UfP-cg" target="_blank" rel="noopener">微店的Flutter混合开发组件化与工程化架构实践</a></p>
+<li><p><a href="https://github.com/google/built_value.dart" target="_blank" rel="noopener">built_value.dart</a></p>
+<p> Immutable value types, enum classes, and serialization. </p>
 </li>
-<li><p><a href="https://medium.com/flutter-community/kt-dart-better-collections-for-your-flutter-business-logic-41886ab7883" target="_blank" rel="noopener">kt.dart — 像 Kotlin 的集合一样应用于 Flutter 的业务逻辑</a></p>
+<li><p><a href="https://github.com/BirjuVachhani/spider" target="_blank" rel="noopener">Spider</a></p>
+<p> A small dart library to generate Assets dart code from assets folder. </p>
 </li>
-<li><p><a href="https://medium.com/flutter-io/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30?linkId=61956269" target="_blank" rel="noopener">Flutter: 不要害怕垃圾回收器</a></p>
+<li><p><a href="https://github.com/dart-lang/web_socket_channel" target="_blank" rel="noopener">web_socket_channel</a></p>
+<p> StreamChannel wrappers for WebSockets.</p>
 </li>
-<li><p><a href="https://medium.com/flutter-community/a-simple-pair-game-made-with-flutter-a-custom-library-and-the-tunnel-pattern-52e03584f1d1" target="_blank" rel="noopener">一个用 Flutter 开发的简单的配对游戏</a></p>
+<li><p><a href="https://github.com/damondouglas/random_string.dart" target="_blank" rel="noopener">random_string</a></p>
+<p> Simple library for generating random ascii strings.</p>
 </li>
-<li><p><a href="https://buildflutter.com/functional-programming-with-flutter/" target="_blank" rel="noopener">函数式编程 和 Flutter</a></p>
+<li><p><a href="https://github.com/rrousselGit/freezed" target="_blank" rel="noopener">freezed</a></p>
+<p> Code generation for immutable classes that has a simple syntax/API without compromising on the features.</p>
 </li>
-<li><p><a href="https://medium.com/2dimensions/building-an-interactive-login-screen-with-flare-flutter-749db628bb51" target="_blank" rel="noopener">使用Flare &amp; Flutter 创建交互式的登录屏幕</a></p>
-</li>
-<li><p><a href="https://medium.com/flutter-community/simple-flutter-patterns-325a91a3b8f2" target="_blank" rel="noopener">简单的 Flutter 模式</a></p>
+<li><p><a href="https://github.com/xuexiangjys/flutter_xupdate" target="_blank" rel="noopener">flutter_xupdate</a></p>
+<p> A Flutter plugin for Android Version Update.</p>
 </li>
 </ol>
-<h3 id="插件-amp-App"><a href="#插件-amp-App" class="headerlink" title="插件&amp;App"></a>插件&amp;App</h3><ol>
-<li><p><a href="https://github.com/alibaba/flutter-go" target="_blank" rel="noopener">flutter-go</a></p>
-<p> flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档</p>
-<p> <img src="https://ws2.sinaimg.cn/large/006tNc79ly1g2iaapptwug30a20kvk1h.gif" alt></p>
+<h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol>
+<li><p><a href="https://github.com/KhoaSuperman/findseat" target="_blank" rel="noopener">Flutter FindSeat App</a></p>
+<p> A completed user flows Flutter app</p>
+<p><img src="https://camo.githubusercontent.com/aa4534052babfeaa3dd5312685fb640f380f52f5/687474703a2f2f6465762e73757065726d616e2d61636164656d792e636f6d2f696d616765732f707265766965775f66696e64736561742e706e67" alt></p>
 </li>
-<li><p><a href="https://github.com/X-Wei/flutter_catalog" target="_blank" rel="noopener">Flutter Catalog</a></p>
-<p> 一个展示Flutter组件的应用程序，并带有相应的源代码展示。</p>
-<p> <img src="https://ws4.sinaimg.cn/large/006tNc79ly1g2iaaqyya5j30j60y33zw.jpg" alt></p>
+<li><p><a href="https://github.com/pmathulan/Flutter-Music-Player-UI" target="_blank" rel="noopener">Flutter Music Player UI</a></p>
+<p> A Material designed music player developed in Flutter.</p>
+<p><img src="https://i.loli.net/2020/02/06/6qcUzxniM54ZrKA.png" alt></p>
 </li>
-<li><p><a href="https://github.com/mobxjs/mobx.dart" target="_blank" rel="noopener">mobx.dart</a></p>
-<p> MobX是一个状态管理库，可以轻松地将应用程序的响应数据与UI连接起来。</p>
-<p> <img src="https://ws4.sinaimg.cn/large/006tNc79ly1g2iaarv74yj30j609qmxk.jpg" alt></p>
+<li><p><a href="https://github.com/getgoh/inpost_mock" target="_blank" rel="noopener">inpost_mock</a></p>
+<p> Mock UI app for InPost, written in Flutter</p>
+<p><img src="https://github.com/getgoh/inpost_mock/raw/master/inpost.gif" alt></p>
 </li>
 </ol>
-<h3 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h3><ol>
-<li><p><a href="https://medium.com/coding-with-flutter/introduction-to-dart-new-video-series-e4042a94135a" target="_blank" rel="noopener">新视频系列 -  Dart简介</a></p>
+<h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol>
+<li><p><a href="https://github.com/xuyisheng/flutter_dojo" target="_blank" rel="noopener">flutter_dojo</a></p>
+<p> A beautiful design and useful project for Building a flutter knowledge architecture</p>
+<p><img src="https://github.com/xuyisheng/flutter_dojo/raw/master/resource/6.png" alt></p>
 </li>
-<li><p><a href="https://www.youtube.com/watch?v=pFUEjJvgtUc" target="_blank" rel="noopener">Flutter UI / UX：呼吸和旋转按钮</a></p>
+<li><p><a href="https://github.com/flutter-devs/flutter_googledrive_ui" target="_blank" rel="noopener">Flutter Google Drive UI Demo</a></p>
+<p> A sample application to show Google Drive Flutter Clone.</p>
+<p><img src="https://github.com/flutter-devs/flutter_googledrive_ui/raw/flutter_google_drive/screens/demo.gif" alt></p>
 </li>
 </ol>
 
@@ -218,13 +240,11 @@
 	  
 	  <div class="article-tags tags">
       
-        <a href="/tags/Animation/">Animation</a>
+        <a href="/tags/Shimmer/">Shimmer</a>
       
-        <a href="/tags/ListView/">ListView</a>
+        <a href="/tags/Mock/">Mock</a>
       
-        <a href="/tags/StatefulWidget/">StatefulWidget</a>
-      
-        <a href="/tags/Garbage-Collector/">Garbage Collector</a>
+        <a href="/tags/WebSockets/">WebSockets</a>
       
 	  </div>
     
@@ -232,13 +252,9 @@
 	
 		<div class="art-item-footer">
 				
-					<span class="art-item-left"><i class="icon icon-chevron-thin-left"></i>prev：<a href="/flutter-weekly-issue-6/" rel="prev"  title="Flutter Weekly Issue 6">
-						Flutter Weekly Issue 6 
-					</a></span>
 				
-				
-					<span class="art-item-right">next：<a href="/flutter-weekly-issue-4/" rel="next"  title="Flutter Weekly Issue 4">
-						Flutter Weekly Issue 4
+					<span class="art-item-right">next：<a href="/flutter-weekly-issue-41/" rel="next"  title="Flutter Weekly Issue 41">
+						Flutter Weekly Issue 41
 					</a><i class="icon icon-chevron-thin-right"></i></span>
 				
 		</div>
@@ -248,7 +264,7 @@
 </article>
 <script>
 	window.subData = {
-		title: 'Flutter Weekly Issue 5',
+		title: 'Flutter Weekly Issue 42',
 		tools: true
 	}
 </script>

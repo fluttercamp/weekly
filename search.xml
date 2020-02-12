@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 42</title>
+      <link href="/flutter-weekly-issue-42/"/>
+      <url>/flutter-weekly-issue-42/</url>
+      
+        <content type="html"><![CDATA[<h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/aloisdeniel/flutter_sheet_localization" target="_blank" rel="noopener">Flutter Google Sheet localizations generator</a></p><p> Generate Flutter localization from a simple online Google Sheets.</p></li><li><p><a href="https://github.com/javiercbk/json_to_dart" target="_blank" rel="noopener">JSON to Dart</a></p><p> Library that generates dart classes from json strings</p></li><li><p><a href="https://github.com/hnvn/flutter_shimmer" target="_blank" rel="noopener">Shimmer</a></p><p> A package provides an easy way to add shimmer effect in Flutter project</p><p><img src="https://github.com/hnvn/flutter_shimmer/raw/master/screenshots/loading_list.gif?raw=true" alt></p></li><li><p><a href="https://github.com/AKushWarrior/destiny" target="_blank" rel="noopener">Destiny</a></p><p> An package which generates mock-data using the PCG algorithm.</p></li><li><p><a href="https://github.com/PavieOlivier/slidingCard" target="_blank" rel="noopener">Sliding Card</a></p><p> An Animated Sliding Card Made in Flutter</p><p><img src="https://camo.githubusercontent.com/d26811d6fb36545b9eb16475a1836a88dbf314fe/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f643875436c6670713452366a4b51765638542f67697068792e676966" alt></p></li><li><p><a href="https://github.com/kriticalflare/SIES-Library" target="_blank" rel="noopener">SIES-Library</a></p><p> A simple catalog app for SIESGST Library using Google Books API</p><p><img src="https://github.com/kriticalflare/SIES-Library/raw/master/demo/images/libraryArchdrawio.png" alt></p></li><li><p><a href="https://github.com/google/built_value.dart" target="_blank" rel="noopener">built_value.dart</a></p><p> Immutable value types, enum classes, and serialization. </p></li><li><p><a href="https://github.com/BirjuVachhani/spider" target="_blank" rel="noopener">Spider</a></p><p> A small dart library to generate Assets dart code from assets folder. </p></li><li><p><a href="https://github.com/dart-lang/web_socket_channel" target="_blank" rel="noopener">web_socket_channel</a></p><p> StreamChannel wrappers for WebSockets.</p></li><li><p><a href="https://github.com/damondouglas/random_string.dart" target="_blank" rel="noopener">random_string</a></p><p> Simple library for generating random ascii strings.</p></li><li><p><a href="https://github.com/rrousselGit/freezed" target="_blank" rel="noopener">freezed</a></p><p> Code generation for immutable classes that has a simple syntax/API without compromising on the features.</p></li><li><p><a href="https://github.com/xuexiangjys/flutter_xupdate" target="_blank" rel="noopener">flutter_xupdate</a></p><p> A Flutter plugin for Android Version Update.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/KhoaSuperman/findseat" target="_blank" rel="noopener">Flutter FindSeat App</a></p><p> A completed user flows Flutter app</p><p><img src="https://camo.githubusercontent.com/aa4534052babfeaa3dd5312685fb640f380f52f5/687474703a2f2f6465762e73757065726d616e2d61636164656d792e636f6d2f696d616765732f707265766965775f66696e64736561742e706e67" alt></p></li><li><p><a href="https://github.com/pmathulan/Flutter-Music-Player-UI" target="_blank" rel="noopener">Flutter Music Player UI</a></p><p> A Material designed music player developed in Flutter.</p><p><img src="https://i.loli.net/2020/02/06/6qcUzxniM54ZrKA.png" alt></p></li><li><p><a href="https://github.com/getgoh/inpost_mock" target="_blank" rel="noopener">inpost_mock</a></p><p> Mock UI app for InPost, written in Flutter</p><p><img src="https://github.com/getgoh/inpost_mock/raw/master/inpost.gif" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/xuyisheng/flutter_dojo" target="_blank" rel="noopener">flutter_dojo</a></p><p> A beautiful design and useful project for Building a flutter knowledge architecture</p><p><img src="https://github.com/xuyisheng/flutter_dojo/raw/master/resource/6.png" alt></p></li><li><p><a href="https://github.com/flutter-devs/flutter_googledrive_ui" target="_blank" rel="noopener">Flutter Google Drive UI Demo</a></p><p> A sample application to show Google Drive Flutter Clone.</p><p><img src="https://github.com/flutter-devs/flutter_googledrive_ui/raw/flutter_google_drive/screens/demo.gif" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Shimmer </tag>
+            
+            <tag> Mock </tag>
+            
+            <tag> WebSockets </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 41</title>
       <link href="/flutter-weekly-issue-41/"/>
       <url>/flutter-weekly-issue-41/</url>
@@ -53,11 +82,11 @@
             
             <tag> BLE </tag>
             
+            <tag> Menu </tag>
+            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
-            
-            <tag> Menu </tag>
             
         </tags>
       
@@ -342,9 +371,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -371,11 +400,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -908,11 +937,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -939,11 +968,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
@@ -1152,9 +1181,9 @@
       
         <tags>
             
-            <tag> ListView </tag>
-            
             <tag> Animation </tag>
+            
+            <tag> ListView </tag>
             
             <tag> StatefulWidget </tag>
             
