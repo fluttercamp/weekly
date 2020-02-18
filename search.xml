@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 43</title>
+      <link href="/flutter-weekly-issue-43/"/>
+      <url>/flutter-weekly-issue-43/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程-Articles"><a href="#教程-Articles" class="headerlink" title="教程/Articles"></a>教程/Articles</h3><ol><li><p><a href="https://medium.com/better-programming/devops-in-flutter-734cb268d7db" target="_blank" rel="noopener">Set Up CI/CD in Flutter Using Codemagic</a></p></li><li><p><a href="https://medium.com/flutter-community/advanced-flutter-matrix4-and-perspective-transformations-a79404a0d828" target="_blank" rel="noopener">Advanced Flutter: Matrix4 And Perspective Transformations</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/1HW-9Ad8IL-16jkm6yDohQ" target="_blank" rel="noopener">iOS 平台 Flutter 集成方案</a></p></li></ol><h3 id="插件-Librays"><a href="#插件-Librays" class="headerlink" title="插件/Librays"></a>插件/Librays</h3><ol><li><p><a href="https://github.com/alisonthemonster/flutter_calendar_comparison" target="_blank" rel="noopener">Flutter Calendar Comparison</a></p><p> A comparison of several calendar libraries for Flutter</p><p><img src="https://camo.githubusercontent.com/7786651452c576234d4b172a374b3b339b7e9745/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a4d43716e772d6e4f58745a4542536377524241376d512e706e67" alt></p></li><li><p><a href="https://github.com/kevmoo/build_cli" target="_blank" rel="noopener">build_cli</a></p><p> Parse command line arguments directly into an annotation class using the Dart Build System.</p></li><li><p><a href="https://github.com/Milad-Akarie/auto_route_library" target="_blank" rel="noopener">Flutter route generator</a></p><p> a route generation library, where everything needed for navigation is automatically generated for you.</p></li><li><p><a href="https://github.com/flutterigniter/flutter_data_stream_builder" target="_blank" rel="noopener">DataStreamBuilder</a></p><p> A pragmatic StreamBuilder with sensible defaults</p></li><li><p><a href="https://github.com/theyakka/fluro" target="_blank" rel="noopener">Fluro</a></p><p> a Flutter routing library that adds flexible routing options like wildcards, named parameters and clear route definitions.</p></li><li><p><a href="https://github.com/adithyaxx/toggle_bar" target="_blank" rel="noopener">toggle_bar</a></p><p> A horizontal bar of customisable toggle buttons.</p><p><img src="https://raw.githubusercontent.com/adithyaxx/toggle_bar/master/demo.gif" alt></p></li><li><p><a href="https://github.com/daisuke-fukuda/flutter_launcher_name" target="_blank" rel="noopener">flutter_launcher_name</a></p><p> A command-line tool which simplifies the task of updating your Flutter app’s launcher name.</p></li><li><p><a href="https://github.com/codegrue/card_settings" target="_blank" rel="noopener">Card Settings</a></p><p> A flutter package for building card based forms.</p><p><img src="https://github.com/codegrue/card_settings/raw/master/images/example.png" alt></p></li><li><p><a href="https://github.com/dart-lang/watcher" target="_blank" rel="noopener">watcher</a></p><p> A file system watcher library for Dart. </p></li><li><p><a href="https://github.com/tekartik/synchronized.dart" target="_blank" rel="noopener">synchronized</a></p><p> Basic lock mechanism to prevent concurrent access to asynchronous code</p></li><li><p><a href="https://github.com/JonathanMonga/flutter_gradients" target="_blank" rel="noopener">Flutter Gradients</a></p><p> A curated collection of awesome gradients made in Dart for Flutter</p></li><li><p><a href="https://github.com/sam0829/firebase_auth_ui" target="_blank" rel="noopener">firebase_auth_ui</a></p><p> Flutter plugin for Firebase Auth UI. Supports popular auth providers by using native SDK for Android and iOS.</p><p><img src="https://github.com/sam0829/firebase_auth_ui/raw/master/assets/preview.jpg" alt></p></li><li><p><a href="https://github.com/AKushWarrior/instant" target="_blank" rel="noopener">instant</a></p><p> A package that exports functions for converting, formatting, and nicening of dates/times in Dart.</p></li><li><p><a href="https://github.com/ReactiveX/rxdart" target="_blank" rel="noopener">rxdart_codemod</a></p><p> The Reactive Extensions for Dart</p></li><li><p><a href="https://github.com/AKushWarrior/pendulum" target="_blank" rel="noopener">pendulum</a></p><p> A dynamic, Stream-based API for job scheduling in Dart, capable of processing on different triggers.</p></li><li><p><a href="https://github.com/ganeshrvel/pub-scaff" target="_blank" rel="noopener">pub-scaff</a></p><p> Scaffold Generator for Dart and Flutter.</p></li><li><p><a href="https://github.com/ueman/feedback" target="_blank" rel="noopener">feedback</a></p><p> A simple widget for getting better feedback.</p><p><img src="https://github.com/ueman/feedback/raw/master/img/example_0.1.0-beta.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/huanxsd/flutter_shuqi" target="_blank" rel="noopener">高仿书旗小说 Flutter 版</a></p><p> 高仿书旗小说 Flutter版，支持iOS、Android</p></li></ol><p><img src="https://github.com/huanxsd/flutter_shuqi/raw/master/screenshot/ios_0.png" alt></p><h3 id="示例-Samples"><a href="#示例-Samples" class="headerlink" title="示例/Samples"></a>示例/Samples</h3><ol><li><p><a href="https://github.com/rxlabz/boat_heroes" target="_blank" rel="noopener">Boat hero</a></p><p> lutter hero transition example</p></li></ol><p><img src="https://github.com/rxlabz/boat_heroes/raw/master/assets/boathero.gif" alt></p><ol><li><p><a href="https://github.com/flouthoc/commitchart-flutter" target="_blank" rel="noopener">commitchart-flutter</a></p><p> Implementation of Github Commit Chart in Flutter.</p><p><img src="https://raw.githubusercontent.com/flouthoc/commitchart-flutter/master/assets/preview.gif" alt></p></li></ol><h3 id="工具-Tools"><a href="#工具-Tools" class="headerlink" title="工具/Tools"></a>工具/Tools</h3><ol><li><p><a href="https://github.com/piedcipher/dotslash3.0" target="_blank" rel="noopener">Dartpad Generator</a></p><p> 🎯 Creating DartPad Snippets Made Easy</p></li><li><p><a href="https://www.widgetmaker.dev/" target="_blank" rel="noopener">Widget-Maker (α)</a></p><p> A Flutter UI builder</p></li><li><p><a href="https://github.com/tnfe/c2f" target="_blank" rel="noopener">c2f</a></p><p> an interesting little project. I hope to find a way to convert css styles to flutter styles.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CI/CD </tag>
+            
+            <tag> RxDart </tag>
+            
+            <tag> StreamBuilder </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 42</title>
       <link href="/flutter-weekly-issue-42/"/>
       <url>/flutter-weekly-issue-42/</url>
@@ -371,9 +400,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 异步消息 </tag>
-            
             <tag> 点播 </tag>
+            
+            <tag> 异步消息 </tag>
             
         </tags>
       
@@ -400,11 +429,11 @@
             
             <tag> 插件开发 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -594,11 +623,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -906,11 +935,11 @@
       
         <tags>
             
-            <tag> 测试 </tag>
-            
             <tag> 自定义字体 </tag>
             
             <tag> 插件开发 </tag>
+            
+            <tag> 测试 </tag>
             
             <tag> 快捷键 </tag>
             
@@ -937,11 +966,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -968,11 +997,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
@@ -1152,9 +1181,9 @@
             
             <tag> PlatformView </tag>
             
-            <tag> GestureDetector </tag>
-            
             <tag> CI/CD </tag>
+            
+            <tag> GestureDetector </tag>
             
             <tag> Google Map </tag>
             
@@ -1181,9 +1210,9 @@
       
         <tags>
             
-            <tag> Animation </tag>
-            
             <tag> ListView </tag>
+            
+            <tag> Animation </tag>
             
             <tag> StatefulWidget </tag>
             
