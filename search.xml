@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 44</title>
+      <link href="/flutter-weekly-issue-44/"/>
+      <url>/flutter-weekly-issue-44/</url>
+      
+        <content type="html"><![CDATA[<h3 id="教程-Articles"><a href="#教程-Articles" class="headerlink" title="教程/Articles"></a>教程/Articles</h3><ol><li><p><a href="https://medium.com/flutter-community/flutter-on-surface-duo-part-1-eef6c467bd2e" target="_blank" rel="noopener">Flutter on Surface Duo: Part 1</a></p></li><li><p><a href="https://juejin.im/post/5e4b9c74f265da57127e3f63" target="_blank" rel="noopener">Flutter实战手势番外篇之可拖拽悬浮组件</a></p></li></ol><h3 id="插件-Librays"><a href="#插件-Librays" class="headerlink" title="插件/Librays"></a>插件/Librays</h3><ol><li><p><a href="https://github.com/v7lin/fake_wechat" target="_blank" rel="noopener">fake_wechat</a></p><p> flutter版微信登录/分享/支付</p></li><li><p><a href="https://github.com/v7lin/fake_alipay" target="_blank" rel="noopener">fake_alipay</a></p><p> flutter版支付宝登录/支付</p></li><li><p><a href="https://github.com/v7lin/fake_tencent" target="_blank" rel="noopener">tencent_kit</a></p><p> flutter版QQ登录/分享</p></li><li><p><a href="https://github.com/v7lin/fake_weibo" target="_blank" rel="noopener">fake_weibo</a></p><p> flutter版新浪微博登录/分享</p></li><li><p><a href="https://github.com/v7lin/fake_okhttp" target="_blank" rel="noopener">okhttp_kit</a></p><p> dart版okhttp3</p></li><li><p><a href="https://github.com/canewsin/widget_extensions" target="_blank" rel="noopener">widget_extensions</a></p><p> An Extension library for Flutter Widgets.</p></li><li><p><a href="https://github.com/ali2236/context_extentions" target="_blank" rel="noopener">context_extentions</a></p><p> Various extensions on BuildContext to access inherited widget’s state</p></li><li><p><a href="https://github.com/droididan/dart_extensions" target="_blank" rel="noopener">dart_extensions</a></p><p> extentions for dart</p></li><li><p><a href="https://github.com/PatilShreyas/LiveStream-Flutter" target="_blank" rel="noopener">LiveStream-Flutter</a></p><p> Flutter package to which makes data communication easy among different modules of your application.</p><p> <img src="https://github.com/PatilShreyas/LiveStream-Flutter/raw/master/images/LiveStream-anim.gif" alt></p></li><li><p><a href="https://github.com/GiancarloCode/form_bloc" target="_blank" rel="noopener">form_bloc</a></p><p> Easy Form State Management using BLoC pattern - Create Beautiful Forms in Flutter. The easiest way to Prefill, Async Validation, Update Form Fields, and Show Progress, Failures, Successes or Navigate by Reacting to the Form State.</p><p> <img src="https://i.loli.net/2020/02/21/Kq2XdnyhLfEu4Ga.png" alt></p></li><li><p><a href="https://github.com/fluttercandies/extended_nested_scroll_view" target="_blank" rel="noopener">extended_nested_scroll_view</a></p><p> extended nested scroll view to fix following issues. 1.pinned sliver header issue 2.inner scrollables in tabview sync issue 3.pull to refresh is not work. 4.do without ScrollController in NestedScrollView’s body</p></li><li><p><a href="https://github.com/415593725/flutter_k_chart" target="_blank" rel="noopener">flutter_k_chart</a></p><p> 一个仿火币的flutter图表库包含深度图，支持各种指标及放大缩小、平移等操作</p><p> <img src="https://github.com/415593725/flutter_k_chart/raw/master/example/images/k_chart.2019-09-01%202010_19_56.gif" alt></p></li><li><p><a href="https://github.com/fluttercommunity/flutter_webview_plugin" target="_blank" rel="noopener">flutter_webview_plugin</a></p><p> Community WebView Plugin - Allows Flutter to communicate with a native WebView. </p></li><li><p><a href="https://github.com/Solido/Flutter-BlurHash" target="_blank" rel="noopener">Flutter-BlurHash</a></p><p> BlurHash decoding implementation for Flutter.</p><p> <img src="https://user-images.githubusercontent.com/1295961/75059847-129d6800-54de-11ea-8832-d19ea58eb7eb.png" alt></p></li><li><p><a href="https://github.com/jonsamwell/flutter_simple_dependency_injection" target="_blank" rel="noopener">flutter_simple_dependency_injection</a></p><p> A super simple dependency injection implementation for flutter that behaviours like any normal IOC container and does not rely on mirrors</p></li><li><p><a href="https://github.com/jonsamwell/flutter_rx_stream_builder" target="_blank" rel="noopener">flutter_rx_stream_builder</a></p><p> An rx stream builder for flutter that can populate the inital data of a stream builder from an rx value / replay observable</p></li><li><p><a href="https://github.com/jonsamwell/flutter_gherkin" target="_blank" rel="noopener">flutter_gherkin</a></p><p> A Gherkin parsers and runner for Dart and Flutter which is very similar to cucumber</p></li><li><p><a href="https://github.com/toly1994328/flutter_star" target="_blank" rel="noopener">flutter_star</a></p><p> You can create a star easily and decide how many angle or color of the star, even the fat and progress of the star.</p><p> <img src="https://i.loli.net/2020/02/26/KCcNXZSGFxw3yf9.png" alt></p></li></ol><h3 id="示例-Samples"><a href="#示例-Samples" class="headerlink" title="示例/Samples"></a>示例/Samples</h3><ol><li><p><a href="https://github.com/orestesgaolin/i18n_example_flutter" target="_blank" rel="noopener">i18n example</a></p><p> App showing how to efficiently use localization</p><p> <img src="https://i.loli.net/2020/02/21/RA3TDc2y6LmIx5v.png" alt></p></li></ol><ol><li><p><a href="https://github.com/Tomison-E/Flutter_Authentication" target="_blank" rel="noopener">Flutter_Authentication</a></p><p> A simple flutter application that demonstrates authentication with pin or OTP sent via sms and also Fingerprint.</p><p> <img src="https://github.com/Tomison-E/Flutter_Authentication/raw/master/assets/screenshots/IMG_6712.gif" alt></p></li></ol><h3 id="工具-Tools"><a href="#工具-Tools" class="headerlink" title="工具/Tools"></a>工具/Tools</h3><ol><li><p><a href="https://github.com/bernaferrari/FlutterResourceRanker" target="_blank" rel="noopener">FlutterResourceRanker</a></p><p> Find underused colors, overused magical numbers and the largest classes in any Flutter project.</p><p> <img src="https://github.com/bernaferrari/FlutterResourceRanker/raw/master/screenshot.png?raw=true" alt></p></li></ol><ol><li><p><a href="https://github.com/axetroy/commander.dart" target="_blank" rel="noopener">commander.dart</a></p><p> 🔧The complete solution for Dart command-line interfaces, inspired by &lt;commander.js&gt; </p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> okhttp </tag>
+            
+            <tag> LiveStream </tag>
+            
+            <tag> BLoC </tag>
+            
+            <tag> Chart </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 43</title>
       <link href="/flutter-weekly-issue-43/"/>
       <url>/flutter-weekly-issue-43/</url>
@@ -623,11 +654,11 @@
       
         <tags>
             
-            <tag> Provider </tag>
-            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
+            
+            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -809,11 +840,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -842,11 +873,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
@@ -935,11 +966,11 @@
       
         <tags>
             
+            <tag> 测试 </tag>
+            
             <tag> 自定义字体 </tag>
             
             <tag> 插件开发 </tag>
-            
-            <tag> 测试 </tag>
             
             <tag> 快捷键 </tag>
             
@@ -966,11 +997,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -997,11 +1028,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
@@ -1117,9 +1148,9 @@
             
             <tag> Redux </tag>
             
-            <tag> Steams </tag>
-            
             <tag> BLoC </tag>
+            
+            <tag> Steams </tag>
             
             <tag> isolate </tag>
             
