@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="referrer" content="no-referrer">
+  
+  <title>Flutter Weekly Issue 48 | Flutter Weekly</title>
+  <meta name="description" content="每周一期，汇集互联网上 Flutter 开发相关的教程、开源项目、插件、视频和工具等">
+  <meta name="keywords" content="Flutter,Flutter 开发,Flutter 教程,Flutter 插件,Flutter 项目,Flutter 社区">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <link rel="alternate" href="/rss2.xml" title="Flutter Weekly">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="👖插件/Librarys  1.  dart_native             Write iOS&amp;Android Code using Dart. This package liberates you from native code and low performance channel.              2.  flare_loading             Loadin">
+<meta name="keywords" content="Bugly,datepicker,staggered,ratingbar">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Flutter Weekly Issue 48">
+<meta property="og:url" content="https://flutterweekly.dev/flutter-weekly-issue-48/index.html">
+<meta property="og:site_name" content="Flutter Weekly">
+<meta property="og:description" content="👖插件/Librarys  1.  dart_native             Write iOS&amp;Android Code using Dart. This package liberates you from native code and low performance channel.              2.  flare_loading             Loadin">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:image" content="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg">
+<meta property="og:image" content="https://i.loli.net/2020/03/21/Odlon6gYZuXm95B.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/21/FYVmf2rpNQoh86s.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/21/QGzcDky9EAMlYpH.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/21/6tqw4mv8yQUWfKr.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/23/FwvkCQ8rMSNYjDp.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/23/G3z8liE7KvVxYBT.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/23/DoYxZyIpWBzTeFf.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/23/dkPSqEXMahVNpWB.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/yY5slnq6xaWC2TF.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/J3FdjuhXSwtQrzk.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/tN63vuJGk47Boxq.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/95xXvWpPiQeVdgY.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/JOrezwBT9lFcYWb.gif">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/avr7TUxsDhkmJEP.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/57TrlWUqMa2tDPF.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/6fbLlu4SEizDRx3.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/jREc83qDwpnMs5K.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/n7FBu6Kvit1h9cf.png">
+<meta property="og:image" content="https://i.loli.net/2020/03/25/fy7BjqzhicxUmKE.png">
+<meta property="og:updated_time" content="2020-03-25T02:34:12.376Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Flutter Weekly Issue 48">
+<meta name="twitter:description" content="👖插件/Librarys  1.  dart_native             Write iOS&amp;Android Code using Dart. This package liberates you from native code and low performance channel.              2.  flare_loading             Loadin">
+<meta name="twitter:image" content="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg">
+    
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata|Titillium+Web" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+  <link href="//cdn.bootcss.com/node-waves/0.7.5/waves.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+  <script>
+    function setLoadingBarProgress(num) {
+      document.getElementById('loading-bar').style.width=num+"%";
+    }
+  </script>
+</head>
+</html>
+<body>
+  <div id="loading-bar-wrapper">
+  <div id="loading-bar"></div>
+</div>
+
+
+  <script>setLoadingBarProgress(20)</script> 
+  <header class="l_header">
+	<div class='wrapper'>
+		<div class="nav-main container container--flex">
+			<img class="logo-icon" src="/images/favicon.ico" alt="Flutter Logo"/>
+			<a class="logo flat-box" href='/' >
+				Flutter Weekly
+			</a>
+			<div class='menu'>
+				<ul class='h-list'>
+					
+						<li>
+							<a class='flat-box nav-home' href='/'>
+								首页
+							</a>
+						</li>
+					
+						<li>
+							<a class='flat-box nav-archives' href='/archives'>
+								归档
+							</a>
+						</li>
+					
+						<li>
+							<a class='flat-box nav-subscribe' href='/subscribe'>
+								订阅
+							</a>
+						</li>
+					
+						<li>
+							<a class='flat-box nav-about' href='/about'>
+								关于
+							</a>
+						</li>
+					
+				</ul>
+				<div class='underline'></div>
+			</div>
+			
+				<div class="m_search">
+					<form name="searchform" class="form u-search-form">
+						<input type="text" class="input u-search-input" placeholder="Search" />
+						<span class="icon icon-search"></span>
+					</form>
+				</div>
+			
+			<ul class='switcher h-list'>
+				
+					<li class='s-search'><a href='javascript:void(0)'><span class="icon icon-search flat-box"></span></a></li>
+				
+				<li class='s-menu'><a href='javascript:void(0)'><span class="icon icon-menu flat-box"></span></a></li>
+			</ul>
+		</div>
+		
+		<div class='nav-sub container container--flex'>
+			<a class="logo" class="flat-box" href='javascript:void(0)'>
+				Word of Forks
+			</a>
+
+			<ul class='switcher h-list'>
+				<li class='s-comment'><a href='javascript:void(0)'><span class="icon icon-chat_bubble_outline flat-box"></span></a></li>
+				<li class='s-top'><a href='javascript:void(0)'><span class="icon icon-arrow_upward flat-box"></span></a></li>
+				<li class='s-toc'><a href='javascript:void(0)'><span class="icon icon-format_list_numbered flat-box"></span></a></li>
+			</ul>
+		</div>
+	</div>
+</header>
+<aside class="menu-phone">
+	<nav>
+		
+			<a href="/" class="nav-home nav">
+				首页
+			</a>
+		
+			<a href="/archives" class="nav-archives nav">
+				归档
+			</a>
+		
+			<a href="/subscribe" class="nav-subscribe nav">
+				订阅
+			</a>
+		
+			<a href="/about" class="nav-about nav">
+				关于
+			</a>
+		
+	</nav>
+</aside>
+
+  <script>setLoadingBarProgress(40);</script>
+  
+  <div class="l_body">
+    <div class='container clearfix'>
+      <div class='l_main'>
+        <article id="post-flutter-weekly-issue-48"
+  class="post white-box article-type-post"
+  itemscope itemprop="blogPost">
+	<section class='meta'>
+	<h2 class="title">
+  	<a href="/flutter-weekly-issue-48/">
+    	Flutter Weekly Issue 48
+    </a>
+  </h2>
+	<time>
+	  3月 25, 2020
+	</time>
+	
+    
+    <div class='cats'>
+        <a href="/categories/Weekly/">Weekly</a>
+    </div>
+
+	</section>
+	
+		<section class="toc-wrapper"><ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#👖插件-Librarys"><span class="toc-number">1.</span> <span class="toc-text">👖插件/Librarys</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#📱App"><span class="toc-number">2.</span> <span class="toc-text">📱App</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#🔧工具-Tools"><span class="toc-number">3.</span> <span class="toc-text">🔧工具/Tools</span></a></li></ol></section>
+	
+	<section class="article typo">
+  	<div class="article-entry" itemprop="articleBody">
+    	<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p>
+<h3 id="👖插件-Librarys"><a href="#👖插件-Librarys" class="headerlink" title="👖插件/Librarys"></a>👖插件/Librarys</h3><ol>
+<li><p><a href="https://github.com/dart-native/dart_native" target="_blank" rel="noopener">dart_native</a></p>
+<p> Write iOS&amp;Android Code using Dart. This package liberates you from native code and low performance channel.</p>
+</li>
+<li><p><a href="https://github.com/jaumard/flare_loading" target="_blank" rel="noopener">flare_loading</a></p>
+<p> Loading widget based on a Flare animation, allow you to create beautiful custom loading widgets or dialogs</p>
+</li>
+<li><p><a href="https://github.com/jaumard/flare_splash_screen" target="_blank" rel="noopener">flare_splash_screen</a></p>
+<p> Facilitator for having a Splash Screen with a Flare animation</p>
+</li>
+<li><p><a href="https://github.com/crazecoder/flutter_bugly" target="_blank" rel="noopener">flutter_bugly</a></p>
+<p> 腾讯Bugly flutter应用更新统计及异常上报插件,支持Android、iOS</p>
+</li>
+<li><p><a href="https://github.com/sarbagyastha/flutter_tagging" target="_blank" rel="noopener">flutter_tagging</a></p>
+<p> A TextField flutter package with tagging functionality.</p>
+<p><img src="https://i.loli.net/2020/03/21/Odlon6gYZuXm95B.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/gildaswise/holding_gesture" target="_blank" rel="noopener">holding_gesture</a></p>
+<p> A customized GestureDetector that acts on holding a determined Widget</p>
+</li>
+<li><p><a href="https://github.com/sarbagyastha/nepali_date_picker" target="_blank" rel="noopener">nepali_date_picker</a></p>
+<p> Material Style Date Picker with Bikram Sambat(Nepali) Calendar Support. Supports both Android and ios.</p>
+<p><img src="https://i.loli.net/2020/03/21/FYVmf2rpNQoh86s.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/sarbagyastha/flutter_rating_bar" target="_blank" rel="noopener">flutter_rating_bar</a></p>
+<p> A simple ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating.</p>
+<p><img src="https://i.loli.net/2020/03/21/QGzcDky9EAMlYpH.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/AbdulRahmanAlHamali/flutter_typeahead" target="_blank" rel="noopener">flutter_typeahead</a></p>
+<p> A TypeAhead widget for Flutter, where you can show suggestions to users as they type</p>
+<p><img src="https://i.loli.net/2020/03/21/6tqw4mv8yQUWfKr.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/sarbagyastha/youtube_player" target="_blank" rel="noopener">youtube_player</a></p>
+<p> A flutter plugin to play Youtube Videos without API Key in range of Quality(144p, 240p,360p,480p,720p and 1080p).</p>
+</li>
+<li><p><a href="https://github.com/FilledStacks/provider_architecture" target="_blank" rel="noopener">provider_architecture</a></p>
+<p> A set of widgets to help with the implementation of the Provider architecture as shown by FilledStacks</p>
+</li>
+<li><p><a href="https://github.com/simplezhli/flutter_remote_control" target="_blank" rel="noopener">flutter_remote_control</a></p>
+<p> flutter remote control，主要使用LongPressDraggable与DragTarget实现的万能遥控器交互效果。</p>
+<p><img src="https://i.loli.net/2020/03/23/FwvkCQ8rMSNYjDp.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/iamvivekkaushik/OTPTextField" target="_blank" rel="noopener">OTPTextField</a></p>
+<p> A flutter package for the OTP Field widget.</p>
+<p><img src="https://i.loli.net/2020/03/23/G3z8liE7KvVxYBT.png" alt></p>
+</li>
+<li><p><a href="https://github.com/iamvivekkaushik/DatePickerTimelineFlutter" target="_blank" rel="noopener">DatePickerTimelineFlutter</a></p>
+<p> Flutter Date Picker Library that provides a calendar as a horizontal timeline</p>
+<p><img src="https://i.loli.net/2020/03/23/DoYxZyIpWBzTeFf.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/Reign9201/image_path_helper" target="_blank" rel="noopener">image_path_helper</a></p>
+<p> 使用Dart注解一行代码生成图片资源配置文件</p>
+</li>
+<li><p><a href="https://pub.dev/packages/animations" target="_blank" rel="noopener">animations</a></p>
+<p> High quality pre-built Animations for Flutter </p>
+<p><img src="https://i.loli.net/2020/03/23/dkPSqEXMahVNpWB.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/iampawan/VelocityX" target="_blank" rel="noopener">VelocityX</a></p>
+<p> A minimalist Flutter framework for rapidly building custom designs. <a href="https://velocityx.dev" target="_blank" rel="noopener">https://velocityx.dev</a></p>
+</li>
+<li><p><a href="https://github.com/mateusfccp/magiceye" target="_blank" rel="noopener">magiceye</a></p>
+<p> An abstraction on top of flutter camera. </p>
+</li>
+<li><p><a href="https://github.com/letsar/flutter_slidable" target="_blank" rel="noopener">flutter_slidable</a></p>
+<p> A Flutter implementation of slidable list item with directional slide actions.</p>
+<p><img src="https://i.loli.net/2020/03/25/yY5slnq6xaWC2TF.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/iampawan/Flutter-UI-Kit" target="_blank" rel="noopener">Flutter_UI_Kit</a></p>
+<p> Flutter app for collection of UI in a UIKit</p>
+<p><img src="https://i.loli.net/2020/03/25/J3FdjuhXSwtQrzk.png" alt></p>
+</li>
+<li><p><a href="https://github.com/letsar/flutter_staggered_grid_view" target="_blank" rel="noopener">flutter_staggered_grid_view</a></p>
+<p> A Flutter staggered grid view which supports multiple columns with rows of varying sizes.</p>
+<p><img src="https://i.loli.net/2020/03/25/tN63vuJGk47Boxq.png" alt></p>
+</li>
+<li><p><a href="https://github.com/letsar/flutter_parallax" target="_blank" rel="noopener">flutter_parallax</a></p>
+<p> A Flutter widget that moves according to a scroll controller.</p>
+</li>
+<li><p><a href="https://github.com/letsar/flutter_sidekick" target="_blank" rel="noopener">flutter_sidekick</a></p>
+<p> Widgets for creating Hero-like animations between two widgets within the same screen.</p>
+<p><img src="https://i.loli.net/2020/03/25/95xXvWpPiQeVdgY.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/mchome/flutter_advanced_networkimage" target="_blank" rel="noopener">flutter_advanced_networkimage</a></p>
+<p> An advanced image provider provides caching and retrying for flutter app. Now with zoomable widget and transition to image widget.</p>
+<p><img src="https://i.loli.net/2020/03/25/JOrezwBT9lFcYWb.gif" alt></p>
+</li>
+<li><p><a href="https://github.com/mchome/flutter_statusbarcolor" target="_blank" rel="noopener">flutter_statusbarcolor</a></p>
+<p> A package can help you to change your flutter app’s statusbar’s color or navigationbar’s color programmatically.</p>
+<p><img src="https://i.loli.net/2020/03/25/avr7TUxsDhkmJEP.png" alt></p>
+</li>
+<li><p><a href="https://github.com/barbadose/enviro_sensors" target="_blank" rel="noopener">enviro_sensors</a></p>
+<p> A flutter plugin exposing streams to android and iOS enviroment sensors (temp, light, pressure, humidty)</p>
+<p><img src="https://i.loli.net/2020/03/25/57TrlWUqMa2tDPF.png" alt></p>
+</li>
+<li><p><a href="https://github.com/mono0926/adaptive_dialog" target="_blank" rel="noopener">adaptive_dialog</a></p>
+<p> Show alert dialog or modal action sheet adaptively according to platform. </p>
+<p><img src="https://i.loli.net/2020/03/25/6fbLlu4SEizDRx3.png" alt></p>
+</li>
+<li><p><a href="https://github.com/ShekarMudaliyar/social_share" target="_blank" rel="noopener">social_share</a></p>
+<p> Flutter package to share images on social media</p>
+</li>
+</ol>
+<h3 id="📱App"><a href="#📱App" class="headerlink" title="📱App"></a>📱App</h3><ol>
+<li><p><a href="https://github.com/Xelvoz/sorty" target="_blank" rel="noopener">sorty</a></p>
+<p> Sorty 〽️ - Sorting Algorithms Visualization</p>
+</li>
+<li><p><a href="https://github.com/ashishkhuraishy/CovidUpdates" target="_blank" rel="noopener">CovidUpdates</a></p>
+<p> A cross platform-app made with flutter of latest updates of Covid-19</p>
+<p><img src="https://i.loli.net/2020/03/25/jREc83qDwpnMs5K.png" alt></p>
+</li>
+<li><p><a href="https://github.com/GabrielTavernini/Covid19Stats" target="_blank" rel="noopener">Covid19Stats</a></p>
+<p> A mobile app developed with Flutter to view Covid19 statistics 🦠</p>
+<p><img src="https://i.loli.net/2020/03/25/n7FBu6Kvit1h9cf.png" alt></p>
+</li>
+</ol>
+<h3 id="🔧工具-Tools"><a href="#🔧工具-Tools" class="headerlink" title="🔧工具/Tools"></a>🔧工具/Tools</h3><ol>
+<li><p><a href="https://github.com/thize/xd-to-flutter" target="_blank" rel="noopener">xd_to_flutter</a></p>
+<p> Xd to Flutter</p>
+<p><img src="https://i.loli.net/2020/03/25/fy7BjqzhicxUmKE.png" alt></p>
+</li>
+</ol>
+<blockquote>
+<p>199元学习大礼包：<a href="http://gk.link/a/10ga3" target="_blank" rel="noopener">点击领取</a><br>原文地址：<a href="https://flutterweekly.dev/flutter-weekly-issue-48/">https://flutterweekly.dev/flutter-weekly-issue-48/</a><br>版权声明：禁止一切形式的转载-禁止商用-禁止衍生<br>公众号：<a href="https://0x9.me/W4m8Q" target="_blank" rel="noopener">Android开发技术周刊</a></p>
+</blockquote>
+
+  	</div>
+	  
+	  <div class="article-tags tags">
+      
+        <a href="/tags/Bugly/">Bugly</a>
+      
+        <a href="/tags/datepicker/">datepicker</a>
+      
+        <a href="/tags/staggered/">staggered</a>
+      
+        <a href="/tags/ratingbar/">ratingbar</a>
+      
+	  </div>
+    
+		
+	
+		<div class="art-item-footer">
+				
+				
+					<span class="art-item-right">next：<a href="/flutter-weekly-issue-47/" rel="next"  title="Flutter Weekly Issue 47">
+						Flutter Weekly Issue 47
+					</a><i class="icon icon-chevron-thin-right"></i></span>
+				
+		</div>
+	
+	</section>
+	
+</article>
+<script>
+	window.subData = {
+		title: 'Flutter Weekly Issue 48',
+		tools: true
+	}
+</script>
+
+      </div>
+      
+      <script>setLoadingBarProgress(60);</script>
+    </div>
+  </div>
+  <footer id="footer" class="clearfix" style="background: url(/images/flutter-bottom.svg) no-repeat;background-position-x: center;background-position-y: bottom;
+background-size: 180%;" >
+  <br><br><br><br>
+	<div class="social-wrapper">
+  	
+      
+        <a href="https://github.com/cfug" class="social github"
+          target="_blank" rel="external">
+          <span class="icon icon-github"></span>
+        </a>
+      
+        <a href="https://twitter.com/FlutterChina" class="social twitter"
+          target="_blank" rel="external">
+          <span class="icon icon-twitter"></span>
+        </a>
+      
+        <a href="https://weibo.com/flutterio" class="social sina-weibo"
+          target="_blank" rel="external">
+          <span class="icon icon-sina-weibo"></span>
+        </a>
+      
+        <a href="/rss2.xml" class="social rss"
+          target="_blank" rel="external">
+          <span class="icon icon-rss"></span>
+        </a>
+      
+    
+  </div>
+  <br>
+  <div>
+    <section class="friends-links">
+      <div class="content-links">
+      
+        <span class="link">
+          <a href="https://flutter-io.cn/" target="_blank" rel="external">
+            Flutter 社区中文资源
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://www.coolapk.com/apk/io.flutter.demo.gallery" target="_blank" rel="external">
+            Flutter Gallery
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://codelabs.flutter-io.cn/" target="_blank" rel="external">
+            Flutter Codelabs
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://flutter.dev/" target="_blank" rel="external">
+            Flutter 官方网站
+          </a>
+        </span>
+      
+        <span class="link">
+          <a href="https://dartpad.cn/" target="_blank" rel="external">
+            DartPad
+          </a>
+        </span>
+      
+      </div>
+    </section>
+    <br>
+    <section class="flutter-intro">
+      <span>Made with&nbsp;&nbsp;</span>
+      <a title="China Flutter User Group" href="https://github.com/cfug" target="_blank">CFUG</a>
+      <span>&nbsp;&nbsp;team</span><br>
+      <span>感谢郑州玩码科技帮助维护基础设施资源</span>
+    </section>
+  </div>
+  <div class="beian-wrapper">
+  
+      <a href="http://www.miitbeian.gov.cn/ target="_blank" rel="external">
+        豫ICP备18021312号-1
+      </a>
+      &nbsp;&nbsp;
+  
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=41010702002474 target="_blank" rel="external">
+        豫公网安备41010702002474号
+      </a>
+      &nbsp;&nbsp;
+  
+  </div>
+</footer>
+  <script>setLoadingBarProgress(80);</script>
+  
+
+<script src="//apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src='//cdn.bootcss.com/node-waves/0.7.5/waves.min.js'></script>
+<script src="//cdn.bootcss.com/scrollReveal.js/3.3.2/scrollreveal.min.js"></script>
+<script src="/js/jquery.fitvids.js"></script>
+<script>
+	var GOOGLE_CUSTOM_SEARCH_API_KEY = "";
+	var GOOGLE_CUSTOM_SEARCH_ENGINE_ID = "";
+	var ALGOLIA_API_KEY = "";
+	var ALGOLIA_APP_ID = "";
+	var ALGOLIA_INDEX_NAME = "";
+  var AZURE_SERVICE_NAME = "";
+  var AZURE_INDEX_NAME = "";
+  var AZURE_QUERY_KEY = "";
+  var BAIDU_API_ID = "";
+  var SEARCH_SERVICE = "hexo";
+  var ROOT = "/"||"/";
+  if(!ROOT.endsWith('/'))ROOT += '/';
+</script>
+<script src="/js/search.js"></script>
+<script src="/js/app.js"></script>
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"4ce760d3271c4cd5c8950b240","lid":"8c5c8d6f46","uniqueMethods":true}) })</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135552747-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135552747-1');
+</script>
+
+
+  <script>setLoadingBarProgress(100);</script>
+</body>
+</html>
