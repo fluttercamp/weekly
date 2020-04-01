@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 49</title>
+      <link href="/flutter-weekly-issue-49/"/>
+      <url>/flutter-weekly-issue-49/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="👖插件-Librarys"><a href="#👖插件-Librarys" class="headerlink" title="👖插件/Librarys"></a>👖插件/Librarys</h3><ol><li><p><a href="https://github.com/MariaMelnik/flutter_date_pickers" target="_blank" rel="noopener">flutter_date_pickers</a></p><p> Allows to use date pickers without dialog. Provides some customizable styles for date pickers.</p><p><img src="https://i.loli.net/2020/03/26/jGeZBipJ6UlTEm7.gif" alt></p></li><li><p><a href="https://github.com/DavBfr/dart_pdf" target="_blank" rel="noopener">dart_pdf</a></p><p> Pdf creation library for dart/flutter </p><p><img src="https://i.loli.net/2020/03/26/YyUdJESl825Dfeg.jpg" alt></p></li><li><p><a href="https://github.com/DanielCardonaRojas/verify" target="_blank" rel="noopener">verify</a></p><p> A Dart validation DSL to validate your flutter app models.</p></li><li><p><a href="https://github.com/Cleveroad/flutter_sliding_tutorial" target="_blank" rel="noopener">flutter_sliding_tutorial</a></p><p> User onboarding library with smooth animation of objects and background colors </p><p><img src="https://i.loli.net/2020/03/30/UHJbr86ASB27QNy.gif" alt></p></li><li><p><a href="https://github.com/littleGnAl/shared_versions" target="_blank" rel="noopener">shared_versions</a></p><p> a command line tool that allow share the versions for multiple packages in Flutter</p></li><li><p><a href="https://github.com/flutter-moum/flutter_hardware_buttons" target="_blank" rel="noopener">flutter_hardware_buttons</a></p><p> A Flutter plugin for iOS and Android for detecting various hardware buttons.</p><p><img src="https://i.loli.net/2020/03/30/fI7eGWuEBdPFlji.jpg" alt></p></li><li><p><a href="https://github.com/Lyokone/flutterlocation" target="_blank" rel="noopener">flutterlocation</a></p><p> A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.</p><p><img src="https://i.loli.net/2020/03/30/wWcSxmzDarAvJKo.gif" alt></p></li><li><p><a href="https://github.com/wskfjtheqian/flutter_autowidth" target="_blank" rel="noopener">flutter_autowidth</a></p><p> 根据屏幕调整组件的宽度.</p><p><img src="https://i.loli.net/2020/03/30/8yljkxYXWe4Dpva.gif" alt></p></li><li><p><a href="https://github.com/IronLad85/flutter_calendar_strip" target="_blank" rel="noopener">flutter_calendar_strip</a></p><p> Easy to use and beautiful calendar strip component for Flutter.</p><p><img src="https://i.loli.net/2020/03/30/6EkPNbriDZh2Q1V.png" alt></p></li><li><p><a href="https://github.com/humblerookie/optimized_cached_image" target="_blank" rel="noopener">optimized_cached_image</a></p><p> A flutter library for loading images from network, resizing as per container size and caching while being memory sensitive.</p></li><li><p><a href="https://github.com/hellobike/thrio" target="_blank" rel="noopener">thrio</a></p><p> Thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.</p></li><li><p><a href="https://github.com/anupcowkur/Flip" target="_blank" rel="noopener">Flip</a></p><p> A paper flipping animation built using Flutter</p><p><img src="https://i.loli.net/2020/03/31/KPAWB7mrVftLaHD.gif" alt></p></li><li><p><a href="https://github.com/CorneilleEdi/sweetsheet" target="_blank" rel="noopener">sweetsheet</a></p><p> Show beautiful bottom sheet as confirmation dialog quickly and easily.</p><p><img src="https://i.loli.net/2020/03/31/tPONXcVgUyTm9a3.png" alt></p></li><li><p><a href="https://github.com/MarcinusX/water_drop" target="_blank" rel="noopener">water_drop</a></p><p> A simple package for adding water drops to your Widgets!</p><p><img src="https://i.loli.net/2020/03/31/lTkt8aIy61WoiZf.gif" alt></p></li><li><p><a href="https://github.com/aadarsh-patel/decoding_text_effect" target="_blank" rel="noopener">decoding_text_effect</a></p><p> A flutter package for creating DecodingTextEffect widget.</p><p><img src="https://i.loli.net/2020/03/31/bNnk1MzwJp8K9Rl.gif" alt></p></li><li><p><a href="https://github.com/brianegan/flutter_redux" target="_blank" rel="noopener">flutter_redux</a></p><p> A set of utilities that allow you to easily consume a Redux Store to build Flutter Widgets.</p></li><li><p><a href="https://github.com/bmw-tech/lumberdash" target="_blank" rel="noopener">lumberdash</a></p><p> Do you need logs? Lumberdash is the answer! With a simple but powerful logging API, Lumberdash is the easiest way to record logs. And if that is not enough, you can extend its API and create your own custom plugins for your own logging needs.</p></li></ol><h3 id="🌰示例"><a href="#🌰示例" class="headerlink" title="🌰示例"></a>🌰示例</h3><ol><li><p><a href="https://github.com/acelords/flutter-starter-kit" target="_blank" rel="noopener">flutter_starter_kit</a></p><p> A Flutter Starter Kit (Boilerplate) to kick-start your next Android and iOS app</p></li></ol><h3 id="📱App"><a href="#📱App" class="headerlink" title="📱App"></a>📱App</h3><ol><li><p><a href="https://github.com/boyan01/flutter-netease-music" target="_blank" rel="noopener">flutter_netease_music</a></p><p> flutter music player application, support iOS and Android. （仿网易云音乐）</p><p><img src="https://i.loli.net/2020/03/26/wA6Pl2UHda1eRhL.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> datepicker </tag>
+            
+            <tag> DSL </tag>
+            
+            <tag> PDF </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 48</title>
       <link href="/flutter-weekly-issue-48/"/>
       <url>/flutter-weekly-issue-48/</url>
@@ -22,11 +51,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -51,13 +80,13 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -142,11 +171,11 @@
       
         <tags>
             
-            <tag> BLoC </tag>
-            
             <tag> okhttp </tag>
             
             <tag> LiveStream </tag>
+            
+            <tag> BLoC </tag>
             
             <tag> Chart </tag>
             
@@ -264,11 +293,11 @@
             
             <tag> BLE </tag>
             
-            <tag> Menu </tag>
-            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
+            
+            <tag> Menu </tag>
             
         </tags>
       
@@ -553,9 +582,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 异步消息 </tag>
-            
             <tag> 点播 </tag>
+            
+            <tag> 异步消息 </tag>
             
         </tags>
       
@@ -582,11 +611,11 @@
             
             <tag> 插件开发 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -776,11 +805,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -867,11 +896,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -962,11 +991,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -995,11 +1024,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
@@ -1119,11 +1148,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1150,11 +1179,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
@@ -1270,9 +1299,9 @@
             
             <tag> Redux </tag>
             
-            <tag> Steams </tag>
-            
             <tag> BLoC </tag>
+            
+            <tag> Steams </tag>
             
             <tag> isolate </tag>
             
