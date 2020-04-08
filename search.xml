@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 50</title>
+      <link href="/flutter-weekly-issue-50/"/>
+      <url>/flutter-weekly-issue-50/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="📖教程-Tutorial"><a href="#📖教程-Tutorial" class="headerlink" title="📖教程/Tutorial"></a>📖教程/Tutorial</h3><ol><li><a href="https://mp.weixin.qq.com/s/98BxqW5QDHXLKMwHX_E7EQ" target="_blank" rel="noopener">闲鱼 Flutter 图片框架架构演进（超详细）</a></li></ol><h3 id="👖插件-Librarys"><a href="#👖插件-Librarys" class="headerlink" title="👖插件/Librarys"></a>👖插件/Librarys</h3><ol><li><p><a href="https://github.com/rbcprolabs/packages.flutter/tree/master/packages/epub_view" target="_blank" rel="noopener">epub_view</a></p><p> Flutter widget for view EPUB documents on all platforms. Based on epub package.</p></li><li><p><a href="https://github.com/rbcprolabs/packages.flutter/tree/master/packages/auto_animated" target="_blank" rel="noopener">auto_animated</a></p><p> Make an animated on scroll widgets in 2 minutes? Easily!</p><p> <img src="https://i.loli.net/2020/04/04/gnQDHMo2eKB5JLO.png" alt></p></li><li><p><a href="https://github.com/rbcprolabs/packages.flutter/tree/master/packages/flutter_color" target="_blank" rel="noopener">flutter_color</a></p><p> Flutter package widening a Color class which can be used to create, convert, compare colors and uses in UI. And also for working with editing color</p></li><li><p><a href="https://github.com/rbcprolabs/packages.flutter/tree/master/packages/native_pdf_view" target="_blank" rel="noopener">native_pdf_view</a></p><p> Flutter Plugin to render PDF pages as images on both Android 5.0+ and iOS 11.0+ devices.</p></li><li><p><a href="https://github.com/gummie4444/flutter-better-camera" target="_blank" rel="noopener">flutter_better_camera</a></p><p> A Flutter plugin for iOS and Android allowing access to the device cameras.</p></li><li><p><a href="https://github.com/nekocode/drag-down-to-pop-flutter" target="_blank" rel="noopener">drag_down_to_pop_flutter</a></p><p> A page transition which supports drag-down-to-pop gesture.</p><p> <img src="https://i.loli.net/2020/04/08/1Svm9VCanQo43Be.gif" alt></p></li><li><p><a href="https://github.com/xinthink/flt_worker" target="_blank" rel="noopener">flt_worker</a></p><p> Schedule &amp; run Dart code in the background for both Android &amp; iOS platforms</p></li><li><p><a href="https://github.com/LinusU/flutter_web_auth" target="_blank" rel="noopener">flutter_web_auth</a></p><p> Flutter plugin for authenticating a user with a web service</p><p> <img src="https://i.loli.net/2020/04/06/Ge9RsIEtUjgSzKc.gif" alt></p></li><li><p><a href="https://github.com/BendixMa/sliding-sheet" target="_blank" rel="noopener">sliding_sheet</a></p><p> A widget that can be dragged and scrolled in a single gesture and snapped to a list of extents.</p></li><li><p><a href="https://github.com/xinthink/flt_worker" target="_blank" rel="noopener">flt_worker</a></p><p> Schedule &amp; run Dart code in the background on both Android &amp; iOS platforms</p></li><li><p><a href="https://github.com/rodydavis/native_color_picker" target="_blank" rel="noopener">native_color_picker</a></p><p> A native color picker for Flutter.</p></li><li><p><a href="https://github.com/KaushickSArgekar/prefs_guard" target="_blank" rel="noopener">prefs_guard</a></p><p> a data protection wrapper for local storage (Shared Prefs). supporting both IOS &amp; Android.</p></li><li><p><a href="https://github.com/schmidtwmark/FlutterSpinner" target="_blank" rel="noopener">FlutterSpinner</a></p><p> A flutter widget that animates scrolling through a set of fixed size containers.</p><p> <img src="https://i.loli.net/2020/04/08/odUkWxmu15DFwtG.gif" alt></p></li></ol><h3 id="📱App"><a href="#📱App" class="headerlink" title="📱App"></a>📱App</h3><ol><li><p><a href="https://github.com/vinothvino42/smart-home-neomorphism-app" target="_blank" rel="noopener">smart_home_neomorphism_app</a></p><p> A smart home app ui design in a neomorphism style built using Flutter. </p><p> <img src="https://i.loli.net/2020/04/05/EYCmoa6ksAPUZ5L.png" alt></p></li><li><p><a href="https://github.com/hamaluik/timecop" target="_blank" rel="noopener">timecop</a></p><p> A time tracking app that respects your privacy and the gets the job done without being fancy. </p><p> <img src="https://i.loli.net/2020/04/06/n2KPCdrScba7N5Q.png" alt></p></li><li><p><a href="https://github.com/xinthink/flutter-keep" target="_blank" rel="noopener">flutter_keep</a></p><p> A note-taking app built with Flutter + Firebas</p><p> <img src="https://i.loli.net/2020/04/06/RxVnYIMt6EfJ4Wk.png" alt></p></li></ol><h3 id="🌰示例-Samples"><a href="#🌰示例-Samples" class="headerlink" title="🌰示例/Samples"></a>🌰示例/Samples</h3><ol><li><p><a href="https://github.com/glenfordwilliams/flutter_media_break_points" target="_blank" rel="noopener">flutter_media_break_points</a></p><p> Apply values per media breakpoints. Breakpoints are similar to the breakpoints used in bootstrap css framework.</p><p> <img src="https://i.loli.net/2020/04/08/cyxKWoveS7jFL1V.gif" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> EPUB </tag>
+            
+            <tag> ColorPicker </tag>
+            
+            <tag> Spinner </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 49</title>
       <link href="/flutter-weekly-issue-49/"/>
       <url>/flutter-weekly-issue-49/</url>
@@ -20,11 +49,11 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> DSL </tag>
             
             <tag> PDF </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -51,11 +80,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -805,11 +834,11 @@
       
         <tags>
             
-            <tag> Provider </tag>
-            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
+            
+            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -896,11 +925,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
@@ -991,11 +1020,11 @@
       
         <tags>
             
+            <tag> JSON </tag>
+            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
-            
-            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1024,11 +1053,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
@@ -1148,11 +1177,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1179,11 +1208,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
