@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 51</title>
+      <link href="/flutter-weekly-issue-51/"/>
+      <url>/flutter-weekly-issue-51/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="📖教程-Tutorial"><a href="#📖教程-Tutorial" class="headerlink" title="📖教程/Tutorial"></a>📖教程/Tutorial</h3><ol><li><a href="https://github.com/XPoet/dart-basic-study" target="_blank" rel="noopener">Dart快速入门系列教程</a></li></ol><h3 id="👖插件-Librarys"><a href="#👖插件-Librarys" class="headerlink" title="👖插件/Librarys"></a>👖插件/Librarys</h3><ol><li><p><a href="https://github.com/SBDavid/flutter_page_tracker" target="_blank" rel="noopener">flutter_page_tracker</a></p><p> 一个易用的 Flutter 应用页面事件埋点插件。它不仅支持在普通导航事件中监听页面曝光和离开，也支持弹窗的曝光和离开。</p><p><img src="https://i.loli.net/2020/04/13/IydPHTYcK6eZXmC.gif" alt></p></li><li><p><a href="https://github.com/SBDavid/flutter_sliver_tracker" target="_blank" rel="noopener">flutter_sliver_tracker</a></p><p> flutter滑动曝光埋点框架，支持SliverList、SliverGrid</p><p><img src="https://i.loli.net/2020/04/13/LV7kIFePZyjaipW.gif" alt></p></li><li><p><a href="https://github.com/jamesblasco/modal_bottom_sheet" target="_blank" rel="noopener">modal_bottom_sheet</a></p><p> Create awesome and powerful modal bottom sheets.</p><p><img src="https://i.loli.net/2020/04/09/Ffy6NAI34TRvaW2.png" alt></p></li><li><p><a href="https://github.com/jamesblasco/fluid_layout" target="_blank" rel="noopener">fluid_layout</a></p><p> Fluid layouts allows you to create responsive layout for mobile, web and desktop from a single codebase.</p></li><li><p><a href="https://github.com/Skyost/RateMyApp" target="_blank" rel="noopener">RateMyApp</a></p><p> This plugin allows to kindly ask users to rate your app if custom conditions are met (eg. install time, number of launches, etc…). You can even add your own conditions.</p><p><img src="https://i.loli.net/2020/04/09/s7ewENX8rHbQYn4.png" alt></p></li><li><p><a href="https://github.com/NearHuscarl/flutter_login" target="_blank" rel="noopener">flutter_login</a></p><p> a ready-made login/signup widget with many animation effects to demonstrate the capabilities of Flutter</p></li><li><p><a href="https://github.com/felixblaschke/supercharged" target="_blank" rel="noopener">supercharged</a></p><p> Supercharged brings all the comfort features from languages like Kotlin to all Flutter developers.</p></li><li><p><a href="https://github.com/ajinasokan/autopilot" target="_blank" rel="noopener">autopilot</a></p><p> A test driver for Flutter to do QA testing without sharing app source code.</p></li><li><p><a href="https://github.com/Dn-a/flutter_tags" target="_blank" rel="noopener">flutter_tags</a></p><p> With flutter tags you can create selectable or input tags that automatically adapt to the screen width</p><p><img src="https://i.loli.net/2020/04/12/EvRWzs5q28ACrIM.gif" alt></p></li><li><p><a href="https://github.com/Dn-a/flutter_inner_drawer" target="_blank" rel="noopener">flutter_inner_drawer</a></p><p> Inner Drawer is an easy way to create an internal side section (left/right) where you can insert a list-menu or other.</p><p><img src="https://i.loli.net/2020/04/12/zXlWMI7TDcNneqV.gif" alt></p></li><li><p><a href="https://github.com/MaikuB/incrementally_loading_listview" target="_blank" rel="noopener">incrementally_loading_listview</a></p><p> An extension of the Flutter ListView widget for incrementally loading items upon scrolling</p></li><li><p><a href="https://github.com/pedromassango/bottom_navy_bar" target="_blank" rel="noopener">bottom_navy_bar</a></p><p> A beautiful and animated bottom navigation </p><p><img src="https://i.loli.net/2020/04/12/sLkXUQ83wNJWFea.gif" alt></p></li><li><p><a href="https://github.com/pedromassango/titled_navigation_bar" target="_blank" rel="noopener">titled_navigation_bar</a></p><p> A beautiful and simple bottom navigation bar with smooth animation when switching selected item.</p><p><img src="https://i.loli.net/2020/04/12/jIa9vEWHJVglYdP.gif" alt></p></li><li><p><a href="https://github.com/wuba/magpie_fly" target="_blank" rel="noopener">magpie_fly</a></p><p> Magpie-fly 是58集体出品组件库，封装了多种常用组件，以满足开发者需求。(Magpie-fly is a component library produced by 58 Group, which encapsulates a variety of common components to meet the needs of developers)</p></li><li><p><a href="https://github.com/wuba/magpie_log" target="_blank" rel="noopener">magpie_log</a></p><p> A visualized dynamic programming for log collection based on flutter.</p></li><li><p><a href="https://github.com/theindianappguy/flutter_draw" target="_blank" rel="noopener">flutter_draw</a></p><p> A beautiful drawing view for a your flutter application with single line of code</p><p><img src="https://i.loli.net/2020/04/13/wCzvKyJf7q95rLN.gif" alt></p></li><li><p><a href="https://github.com/mmcc007/modal_progress_hud" target="_blank" rel="noopener">modal_progress_hud</a></p><p> A simple widget wrapper to enable modal progress HUD (a modal progress indicator, HUD = Heads Up Display)</p><p><img src="https://i.loli.net/2020/04/13/PHJYyk4R6rviBop.gif" alt></p></li><li><p><a href="https://github.com/drydart/flutter_opencv" target="_blank" rel="noopener">flutter_opencv</a></p><p> This is a Flutter plugin that bundles and wraps the OpenCV computer-vision library for Java.</p></li><li><p><a href="https://github.com/drydart/flutter_sqlcipher" target="_blank" rel="noopener">flutter_sqlcipher</a></p><p> SQLCipher database plugin for Flutter apps. </p></li><li><p><a href="https://github.com/drydart/flutter_android" target="_blank" rel="noopener">flutter_android</a></p><p> This is a Flutter plugin for using Android’s numerous platform-specific APIs in Flutter apps.</p></li><li><p><a href="https://github.com/bigship/barcode.flutter" target="_blank" rel="noopener">barcode.flutter</a></p><p> a Flutter library for simple and fast Barcode rendering via custom painter</p><p><img src="https://i.loli.net/2020/04/13/IWDbT4a8wJ1ud7y.png" alt></p></li><li><p><a href="https://github.com/TEDConsulting/http_middleware" target="_blank" rel="noopener">http_middleware</a></p><p> A middleware library for Dart’s http library.</p></li><li><p><a href="https://github.com/petehouston/flutter-emoji" target="_blank" rel="noopener">flutter_emoji</a></p><p> 👉 A light-weight Emoji 📦 for Flutter with all up-to-date emojis 😄. Made from 💯% ☕ with ❤️! </p></li><li><p><a href="https://github.com/Sacchid/poly" target="_blank" rel="noopener">poly</a></p><p> A dart library to check if given point(s) are present inside polygon or not.</p></li></ol><h3 id="📱App"><a href="#📱App" class="headerlink" title="📱App"></a>📱App</h3><ol><li><p><a href="https://github.com/vinothvino42/Mobile-Banking-App-UI" target="_blank" rel="noopener">Mobile_Banking_App_UI</a></p><p> A mobile banking ui design app in a neomorphism style built using flutter.</p><p><img src="https://i.loli.net/2020/04/09/7PhUFrQ4OnyzgVe.png" alt></p></li><li><p><a href="https://github.com/Gloumy/diaporama" target="_blank" rel="noopener">diaporama</a></p><p> A pretty simple Flutter app to browse Reddit with swiping gestures</p><p><img src="https://i.loli.net/2020/04/09/SKEWmZAzub2xfwY.png" alt></p></li><li><p><a href="https://github.com/hackerhgl/flutter-ui-designs" target="_blank" rel="noopener">flutter_ui_designs</a></p><p> Just collection of UI designs build with flutter. Can run on any mobile, web &amp; desktop.</p><p><img src="https://i.loli.net/2020/04/10/FtXC1BQGlYMRDgv.png" alt></p></li></ol><h3 id="🔧工具"><a href="#🔧工具" class="headerlink" title="🔧工具"></a>🔧工具</h3><ol><li><p><a href="https://github.com/wuba/magpie" target="_blank" rel="noopener">magpie</a></p><p> Magpie Workflow is a visualized platform which designed to create, develop and compile your standalone flutter module;一个Flutter开发的工具流，实现独立Flutter模块的创建，开发，编译，打包，上传流程。</p><p><img src="https://i.loli.net/2020/04/12/PsRSOqh4yB1KJiM.gif" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Navigation </tag>
+            
+            <tag> Tracker </tag>
+            
+            <tag> Drawer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 50</title>
       <link href="/flutter-weekly-issue-50/"/>
       <url>/flutter-weekly-issue-50/</url>
@@ -140,11 +169,11 @@
       
         <tags>
             
-            <tag> Mock </tag>
-            
             <tag> vibration </tag>
             
             <tag> WiFi </tag>
+            
+            <tag> Mock </tag>
             
             <tag> Date </tag>
             
@@ -260,9 +289,9 @@
       
         <tags>
             
-            <tag> Shimmer </tag>
-            
             <tag> Mock </tag>
+            
+            <tag> Shimmer </tag>
             
             <tag> WebSockets </tag>
             
