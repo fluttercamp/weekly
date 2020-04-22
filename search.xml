@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 52</title>
+      <link href="/flutter-weekly-issue-52/"/>
+      <url>/flutter-weekly-issue-52/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="📖教程"><a href="#📖教程" class="headerlink" title="📖教程"></a>📖教程</h3><ol><li><p><a href="https://www.yuque.com/xytech/flutter/kw6mn0" target="_blank" rel="noopener">一个易迁移、兼容性高的 Flutter 富文本方案</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/iXFa9C68gUHr7PL8NHnZUA" target="_blank" rel="noopener">复杂业务如何保证Flutter的高性能高流畅度？</a></p></li></ol><h3 id="👖插件"><a href="#👖插件" class="headerlink" title="👖插件"></a>👖插件</h3><ol><li><p><a href="https://github.com/james-alex/flutter_color_models" target="_blank" rel="noopener">flutter_color_models</a></p><p> A wrapper for the Dart color_models plugin with added support for Flutter’s Color class.</p></li><li><p><a href="https://github.com/appdev/FlutterToast" target="_blank" rel="noopener">FlutterToast</a></p><p> A Flutter Toast plugin.</p><p> <img src="https://i.loli.net/2020/04/13/rVqTO4YGjs2MQDp.png" alt></p></li><li><p><a href="https://github.com/flutter-rs/flutter-rs" target="_blank" rel="noopener">flutter_rs</a></p><p> Build beautiful desktop apps with flutter and rust. 🌠</p><p> <img src="https://i.loli.net/2020/04/13/PDSOUjnkRETe8dV.png" alt></p></li><li><p><a href="https://github.com/cholojuanito/credit_card_validator" target="_blank" rel="noopener">credit_card_validator</a></p><p> A Dart package that validates credit card numbers, expiration dates, and security codes (CVV/CVC) based on the type of credit card</p></li><li><p><a href="https://github.com/iPieter/rule_engine_dart" target="_blank" rel="noopener">rule_engine_dart</a></p><p> A small rule engine for Dart and Flutter</p></li><li><p><a href="https://github.com/adaptant-labs/vin-decoder-dart" target="_blank" rel="noopener">vin_decoder_dart</a></p><p> A VIN decoding and validation library for Dart. </p></li><li><p><a href="https://github.com/konstantinullrich/crypton" target="_blank" rel="noopener">crypton</a></p><p> A simple Dart library for asymmetric encryption and digital signatures </p></li><li><p><a href="https://github.com/sbesnard/async_message_queue_controller" target="_blank" rel="noopener">async_message_queue_controller</a></p><p> An asynchronous message queue controller for Dart</p></li><li><p><a href="https://github.com/drydart/flutter_lua" target="_blank" rel="noopener">flutter_lua</a></p><p> This is a Flutter plugin that embeds a Lua interpreter and runtime for executing dynamic scripts from Flutter apps.</p></li><li><p><a href="https://github.com/drydart/wasm.dart" target="_blank" rel="noopener">wasm.dart</a></p><p> WebAssembly virtual machine for Dart [work in progress] </p></li><li><p><a href="https://github.com/gabrielpacheco23/google-translator" target="_blank" rel="noopener">google_translator</a></p><p> Free Google Translate API for Dart</p></li><li><p><a href="https://github.com/olexale/flutter_mrz_scanner" target="_blank" rel="noopener">flutter_mrz_scanner</a></p><p> Scans MRZ (Machine Readable Zone) from identity documents.</p></li><li><p><a href="https://github.com/pulyaevskiy/node-interop" target="_blank" rel="noopener">node_interop</a></p><p> Interop library for writing Node.js apps and modules in Dart.</p></li><li><p><a href="https://github.com/AdityaMulgundkar/flutter_opencv" target="_blank" rel="noopener">flutter_opencv</a></p><p> A Flutter™ plug-in providing a binding to OpenCV-4.x.</p></li><li><p><a href="https://github.com/chgibb/hydro-sdk" target="_blank" rel="noopener">hydro_sdk</a></p><p> Author native Flutter experiences in Typescript and deliver updates directly to users over the air and out of band</p></li><li><p><a href="https://github.com/TimWhiting/dart_pad_widget" target="_blank" rel="noopener">dart_pad_widget</a></p><p> A new Flutter package that allows you to easily embed DartPad into your Flutter Web application.</p><p> <img src="https://i.loli.net/2020/04/22/viyYb2GrjoSALKI.png" alt></p></li><li><p><a href="https://github.com/Robert3141/client_server_lan" target="_blank" rel="noopener">client_server_lan</a></p><p> A LAN communication Flutter package based off Node Commander but removing parts such as Commander Nodes and making communication between client and server two way.</p></li><li><p><a href="https://github.com/pedromassango/build_context" target="_blank" rel="noopener">build_context</a></p><p> Access most used properties in your BuildContext instance. </p></li><li><p><a href="https://github.com/GizmosDev/gizmos_hud" target="_blank" rel="noopener">gizmos_hud</a></p><p> A Flutter package for displaying custom HUD’s, Toasts, or other screen overlays. Any widget can be displayed, in any position on the screen for a completely customized interface.</p></li><li><p><a href="https://github.com/atiqsamtia/change_app_package_name" target="_blank" rel="noopener">change_app_package_name</a></p><p> Change App Package Name with single command. It makes the process very easy and fast.</p></li><li><p><a href="https://github.com/ggichure/asset_toast" target="_blank" rel="noopener">asset_toast</a></p><p> reddit like toast</p><p> <img src="https://i.loli.net/2020/04/22/VKRgLnbZBFryeYj.gif" alt></p></li><li><p><a href="https://github.com/spebbe/dartz" target="_blank" rel="noopener">dartz</a></p><p> Functional programming in Dart</p></li><li><p><a href="https://github.com/gskinnerTeam/flutter-stats-fl" target="_blank" rel="noopener">flutter_stats_fl</a></p><p> A simple FPS monitor for Flutter</p><p> <img src="https://i.loli.net/2020/04/22/zb5N7xCQlpU23O1.png" alt></p></li><li><p><a href="https://github.com/gonuit/flutter-custom-refresh-indicator" target="_blank" rel="noopener">flutter_custom_refresh_indicator</a></p><p> This package adds CustomRefreshIndicator widget that allows you to create whatever indicator you want.</p><p> <img src="https://i.loli.net/2020/04/22/TXH3fsz4P7GN6r2.gif" alt></p></li><li><p><a href="https://github.com/am15h/tflite_flutter_plugin" target="_blank" rel="noopener">tflite_flutter_plugin</a></p><p> TensorFlow Lite plugin provides a dart API for accessing TensorFlow Lite interpreter and performing inference. It binds to TensorFlow Lite C API using dart:ffi.</p></li><li><p><a href="https://pub.dev/packages/markdown_widget" target="_blank" rel="noopener">markdown_widget</a></p><p> A simple and easy-to-use markdown package created by flutter.完全由flutter创建,一个简单好用,支持mobile与flutter web的markdown插件</p></li></ol><h3 id="📱App"><a href="#📱App" class="headerlink" title="📱App"></a>📱App</h3><ol><li><p><a href="https://github.com/hi-manshu/Flutter-Music-App" target="_blank" rel="noopener">Flutter_Music_App</a></p><p> A new Flutter Flutter Music App built playing with animation and local music files from Soundcloud</p><p> <img src="https://i.loli.net/2020/04/13/pNUMILXeZl78rOq.jpg" alt></p></li><li><p><a href="https://github.com/toly1994328/FlutterUnit" target="_blank" rel="noopener">FlutterUnit</a></p><p> Flutter源码中的可用的组件一共350个左右，纷繁复杂，也没有明确的分类标准 FlutterUnit 对大大小小，常用不常用的组件能收的尽量收录。并根据个人感觉进行评星 目前收录组件207个，每个都有至少一个演示展现和代码展示。</p><p> <img src="https://i.loli.net/2020/04/15/JKhOmpZqc4HXw2W.png" alt></p></li><li><p><a href="https://github.com/themindstorm/NextBusSG" target="_blank" rel="noopener">NextBusSG</a></p><p> An app to show everything bus related in Singapore, including bus arrival times and a directory, with extra features.</p><p> <img src="https://i.loli.net/2020/04/22/iVA9EkgpZlT5zYI.png" alt></p></li><li><p><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank" rel="noopener">bonfire</a></p><p> (RPG maker) Create RPG-style or similar games more simply with Flame.</p><p> <img src="https://i.loli.net/2020/04/22/Scmf43twnNyOE62.gif" alt></p></li></ol><h3 id="🔧工具"><a href="#🔧工具" class="headerlink" title="🔧工具"></a>🔧工具</h3><ol><li><p><a href="https://github.com/odunboye/flutter_create" target="_blank" rel="noopener">flutter_create</a></p><p> For creating custom flutter project from template</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Toast </tag>
+            
+            <tag> WebAssembly </tag>
+            
+            <tag> BuildContext </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 51</title>
       <link href="/flutter-weekly-issue-51/"/>
       <url>/flutter-weekly-issue-51/</url>
@@ -78,11 +107,11 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> DSL </tag>
             
             <tag> PDF </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -138,13 +167,13 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -169,11 +198,11 @@
       
         <tags>
             
+            <tag> Mock </tag>
+            
             <tag> vibration </tag>
             
             <tag> WiFi </tag>
-            
-            <tag> Mock </tag>
             
             <tag> Date </tag>
             
@@ -289,9 +318,9 @@
       
         <tags>
             
-            <tag> Mock </tag>
-            
             <tag> Shimmer </tag>
+            
+            <tag> Mock </tag>
             
             <tag> WebSockets </tag>
             
@@ -351,11 +380,11 @@
             
             <tag> BLE </tag>
             
+            <tag> Menu </tag>
+            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
-            
-            <tag> Menu </tag>
             
         </tags>
       
@@ -729,9 +758,9 @@
       
         <tags>
             
-            <tag> BloC </tag>
-            
             <tag> MVC </tag>
+            
+            <tag> BloC </tag>
             
             <tag> 架构 </tag>
             
@@ -1049,11 +1078,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1082,11 +1111,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
@@ -1206,11 +1235,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1237,11 +1266,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
