@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 53</title>
+      <link href="/flutter-weekly-issue-53/"/>
+      <url>/flutter-weekly-issue-53/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/fluttercandies/left-scroll-actions" target="_blank" rel="noopener">left-scroll-actions</a></p><p> A useful left scroll actions widget like WeChat.一款仿微信效果的 Flutter 左滑菜单插件。现在支持iOS的展开与弹性效果。</p><p><img src="https://i.loli.net/2020/04/23/Kb6pYU1R4XmzhrC.gif" alt></p></li><li><p><a href="https://github.com/akassharjun/flutter-screen-scaler" target="_blank" rel="noopener">flutter-screen-scaler</a></p><p> A package to resize your widgets according to the screen size with the use of percentages.</p><p><img src="https://i.loli.net/2020/04/23/o6tL43XuUGsdSvn.png" alt></p></li><li><p><a href="https://github.com/dart-lang/string_scanner" target="_blank" rel="noopener">string-scanner</a></p><p> A class for parsing strings using a sequence of patterns. </p></li><li><p><a href="https://github.com/GroovinChip/dart_class_generator" target="_blank" rel="noopener">dart-class-generator</a></p><p> A Flutter that can generate Dart classes. Runs on Android, Windows and Web. </p></li><li><p><a href="https://github.com/rhymelph/r_scan" target="_blank" rel="noopener">r-scan</a></p><p> 📷🖨Flutter二维码&amp;条形码扫描插件，支持相机、文件、链接、Uint8List类型扫描</p></li><li><p><a href="https://github.com/Dorbmon/barrage_flutter" target="_blank" rel="noopener">barrage-flutter</a></p><p> This is a barrage Engine for flutter.Flutter弹幕库</p></li><li><p><a href="https://github.com/muslimtv/flutter_playout" target="_blank" rel="noopener">flutter-playout</a></p><p> Audio &amp; Video player in Flutter. This plugin provides audio/video playback with background audio support and lock screen controls for both iOS &amp; Android. Also provides player events such as onPlay, onPause, onTime etc. </p><p><img src="https://i.loli.net/2020/04/26/sw5AY1ZOHCfGIDT.png" alt></p></li><li><p><a href="https://github.com/JiangJuHong/FlutterTencentImPlugin" target="_blank" rel="noopener">FlutterTencentImPlugin</a></p><p> 腾讯即时通讯(IM)，Flutter插件,同时支持 Android 和 iOS</p></li><li><p><a href="https://github.com/flutter-studio/flutter-icons" target="_blank" rel="noopener">flutter-icons</a></p><p> Customizable Icons for Flutter</p></li><li><p><a href="https://github.com/flutterchina/azlistview" target="_blank" rel="noopener">azlistview</a></p><p> Flutter 城市列表，联系人列表，索引&amp;悬停。Flutter CityList View, ContactList View, Index &amp; Hover.</p><p><img src="https://i.loli.net/2020/04/26/jGptXxsDi3aCUuc.gif" alt></p></li><li><p><a href="https://github.com/leoelstin/Flutter-UI-Kits" target="_blank" rel="noopener">Flutter-UI-Kits</a></p><p> This project contains various inspired UI kits purely coded in Flutter framework.</p><p><img src="https://i.loli.net/2020/04/27/F9pw8iVNoBgaPcR.jpg" alt></p></li><li><p><a href="https://github.com/Clancey/simple_auth" target="_blank" rel="noopener">simple-auth</a></p><p> The Simplest way to Authenticate in Flutter</p></li><li><p><a href="https://github.com/dart-league/dson" target="_blank" rel="noopener">dson</a></p><p> dart library which converts Dart Objects into their JSON representation</p></li><li><p><a href="https://github.com/felangel/fresh" target="_blank" rel="noopener">fresh</a></p><p> A dio interceptor for built-in token refresh.</p></li><li><p><a href="https://github.com/NiKoTron/dart-tags" target="_blank" rel="noopener">dart-tags</a></p><p> ID3 Tag parser written on the pure dart language. </p></li><li><p><a href="https://github.com/PonnamKarthik/FlutterToast" target="_blank" rel="noopener">FlutterToast</a></p><p> Android and iOS Toast Library for Flutter</p><p><img src="https://i.loli.net/2020/04/29/3LJTg2oMb7KZPiD.png" alt></p></li><li><p><a href="https://github.com/roughike/flutter_facebook_login" target="_blank" rel="noopener">flutter-facebook-login</a></p><p> A Flutter plugin for allowing users to authenticate with native Android &amp; iOS Facebook login SDKs.</p></li><li><p><a href="https://github.com/CodingAleCR/http_interceptor" target="_blank" rel="noopener">http-interceptor</a></p><p> This is a plugin that lets you intercept the different requests and responses from Dart’s http package. You can use to add headers, modify query params, or print a log of the response.</p></li></ol><p>Quick Reference</p><ol><li><p><a href="https://github.com/LembergAI/flutter_face_detection" target="_blank" rel="noopener">flutter-face-detection</a></p><p> This is a Flutter plugin for real-time, on-device, offline face &amp; eye detection.</p><p><img src="https://i.loli.net/2020/04/29/cI5aXUoGBDyTjz2.png" alt></p></li><li><p><a href="https://github.com/jhomlala/catcher" target="_blank" rel="noopener">catcher</a></p><p> Flutter error catching &amp; handling plugin</p><p><img src="https://i.loli.net/2020/04/29/KsmBaGuNU6PvSHg.png" alt></p></li><li><p><a href="https://github.com/azihsoyn/flutter_mlkit" target="_blank" rel="noopener">flutter-mlkit</a></p><p> A Flutter plugin to use the Firebase ML Kit.</p></li><li><p><a href="https://github.com/fluttify-project/amap_map_fluttify" target="_blank" rel="noopener">amap-map-fluttify</a></p><p> 高德地图 地图组件 Flutter插件</p></li><li><p><a href="https://github.com/leyan95/qrcode_scanner" target="_blank" rel="noopener">qrcode-scanner</a></p><p> A Flutter plugin 🛠 to scanning. Ready for Android 🚀</p><p><img src="https://i.loli.net/2020/04/29/2QvNWE5M8RyIGra.gif" alt></p></li><li><p><a href="https://github.com/deven98/flip_box_bar" target="_blank" rel="noopener">flip-box-bar</a></p><p> A 3D Bottom Navigation Bar in Flutter</p><p><img src="https://i.loli.net/2020/04/29/FWXurEMdy7gOkn5.gif" alt></p></li><li><p><a href="https://github.com/loup-v/geolocation" target="_blank" rel="noopener">geolocation</a></p><p> Flutter geolocation plugin for Android and iOS.</p><p><img src="https://i.loli.net/2020/04/29/OdEKtXHGkSJbsZp.png" alt></p></li><li><p><a href="https://github.com/matteocrippa/flutter-nfc-reader" target="_blank" rel="noopener">flutter-nfc-reader</a></p><p> A new flutter plugin to help developers looking to use internal hardware inside iOS or Android devices for reading and writing NFC tags.</p></li><li><p><a href="https://github.com/dlutton/flutter_tts" target="_blank" rel="noopener">flutter-tts</a></p><p> A flutter text to speech plugin (Swift,Java)</p></li><li><p><a href="https://github.com/infitio/flutter_socket_io" target="_blank" rel="noopener">flutter-socket-io</a></p><p> Socket IO supprt for flutter. Looking for contributors Swift and Java.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/jamesblasco/flutter_showcase" target="_blank" rel="noopener">flutter-showcase</a></p><p> A simple, fast and easy way to share you flutter project or mockups with the world</p><p><img src="https://i.loli.net/2020/04/23/ERuP9ocHjTbtv32.gif" alt></p></li><li><p><a href="https://github.com/mmtou/listen_poetry_app" target="_blank" rel="noopener">listen-poetry-app</a></p><p> 诗词吧APP，一个集 诗词/诗人推荐、搜索、简介、赏析、朗读（下个版本） 于一体的诗词兴趣 APP</p><p><img src="https://i.loli.net/2020/04/23/y1DETJ8nHl9sOrK.png" alt></p></li><li><p><a href="https://github.com/Yuzopro/opengit_flutter" target="_blank" rel="noopener">opengit-flutter</a></p><p> OpenGit基于Flutter的Github客户端，支持Android和iOS。项目中涉及到BloC、Redux、国际化、多主题以及Github相关信息的查看等。</p><p><img src="https://i.loli.net/2020/04/29/m4HlyfjwLWOoNih.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/todother/flutter_douyin_demo" target="_blank" rel="noopener">flutter-douyin-demo</a></p><p> This is a Flutter project to copy Dou Yin (which named Tik Tok overseas). 这是一个利用Flutter复制抖音（海外叫做TikTok）的小项目。</p><p><img src="https://i.loli.net/2020/04/23/WgSYcxNwRlKBhMe.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Fly-Mix/flr-vscode-extension" target="_blank" rel="noopener">flr-vscode-extension</a></p><p> Flr(Flutter-R) Extension: A Flutter Resource Manager VSCode Extension</p></li><li><p><a href="https://github.com/Fly-Mix/flr-as-plugin" target="_blank" rel="noopener">flr-as-plugin</a></p><p> Flr(Flutter-R) Plugin: A Flutter Resource Manager Android Studio Plugin</p><p><img src="https://i.loli.net/2020/04/29/dsGvnClUjpAXmTr.gif" alt></p></li><li><p><a href="https://github.com/f3ath/pubspec-version" target="_blank" rel="noopener">pubspec-version</a></p><p> A CLI tool to get/set/bump the <code>version</code> key in pubspec.yaml.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Toast </tag>
+            
+            <tag> QRCode </tag>
+            
+            <tag> Socket </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 52</title>
       <link href="/flutter-weekly-issue-52/"/>
       <url>/flutter-weekly-issue-52/</url>
@@ -758,9 +787,9 @@
       
         <tags>
             
-            <tag> MVC </tag>
-            
             <tag> BloC </tag>
+            
+            <tag> MVC </tag>
             
             <tag> 架构 </tag>
             
@@ -983,11 +1012,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -1078,11 +1107,11 @@
       
         <tags>
             
+            <tag> JSON </tag>
+            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
-            
-            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1111,11 +1140,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
