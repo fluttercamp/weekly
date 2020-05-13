@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 55</title>
+      <link href="/flutter-weekly-issue-55/"/>
+      <url>/flutter-weekly-issue-55/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a>新闻</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/VXNbqxpoVDJeOPkBt5_88A" target="_blank" rel="noopener">Flutter 1.17 | 2020 首个稳定版发布！</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/-kknoeIq0hJfIHTB190ppQ" target="_blank" rel="noopener">Dart 2.8 发布了</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/NGqF2OTvsV1A2KLiMXE2PQ" target="_blank" rel="noopener">Flutter web 最新进展: 发掘更多可能！</a></p></li></ol><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/VkjhTSKPpEZVYYsvcLsxCA" target="_blank" rel="noopener">Flutter线上代码覆盖率解决方案——FlutterCodeX</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/shingohu/flutter_h5pay" target="_blank" rel="noopener">flutter-h5pay</a></p><p> A Flutter plugin for h5pay(Support WeChat and Alipay)</p></li><li><p><a href="https://github.com/devdennysegura/flutter-link-preview" target="_blank" rel="noopener">flutter-link-preview</a></p><p> A Rich Link Preview flutter plugin.</p><p> <img src="https://i.loli.net/2020/05/07/3xXnvu4ejdiSbCc.png" alt></p></li><li><p><a href="https://github.com/vgventures/futuristic" target="_blank" rel="noopener">futuristic</a></p><p> Makes it possible to safely execute and retry a Future inside a StatelessWidget</p><p> <img src="https://i.loli.net/2020/05/09/WEgMqsG7iumawLt.png" alt></p></li><li><p><a href="https://github.com/mannprerak2/nearby_connections" target="_blank" rel="noopener">nearby-connections</a></p><p> Flutter plugin (android) for sharing bytes and files Offline, (Based on the android Nearby Connections API)</p></li><li><p><a href="https://github.com/flame-engine/tiled.dart" target="_blank" rel="noopener">tiled.dart</a></p><p> A Tiled Dart library</p></li><li><p><a href="https://github.com/OpenFlutter/flutter_oktoast" target="_blank" rel="noopener">flutter-oktoast</a></p><p> a pure flutter toast library</p><p> <img src="https://i.loli.net/2020/05/11/enlMZoG8C9rpvsd.gif" alt></p></li><li><p><a href="https://github.com/PatilAnkits/Flutter-MaterialAlertDialog" target="_blank" rel="noopener">Flutter-MaterialAlertDialog</a></p><p> A new Flutter MaterialAlertDialog package project.Flutter package to implement animated, smiling_face_with_three_hearts Attractive, artstylish Material Dialog in Flutter easily</p></li><li><p><a href="https://github.com/shah-xad/flutter_tex" target="_blank" rel="noopener">flutter-tex</a></p><p> A Flutter Package to render Mathematics, Physics and Chemistry Equations based on LaTeX</p><p> <img src="https://i.loli.net/2020/05/11/2kyAJNCKg1xtFWY.png" alt></p></li><li><p><a href="https://github.com/rhymelph/r_upgrade" target="_blank" rel="noopener">r-upgrade</a></p><p> Android and IOS upgrade plugin/Flutter应用升级/下载插件（带通知栏进度）</p></li><li><p><a href="https://github.com/fluttercandies/flutter_wechat_assets_picker" target="_blank" rel="noopener">flutter-wechat-assets-picker</a></p><p> An assets picker in WeChat style, support multi assets picking.</p></li><li><p><a href="https://github.com/fluttercommunity/get_it" target="_blank" rel="noopener">get-it</a></p><p> Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App</p></li><li><p><a href="https://pub.dev/packages/file" target="_blank" rel="noopener">file</a></p><p> A generic file system abstraction for Dart.</p></li><li><p><a href="https://github.com/FilledStacks/stacked" target="_blank" rel="noopener">stacked</a></p><p> A Flutter application architecture created from real world scenarios</p><p> <img src="https://i.loli.net/2020/05/12/n2iGC1KTv56ZdcA.jpg" alt></p></li><li><p><a href="https://github.com/balvinderz/video_player_web_hls" target="_blank" rel="noopener">video-player-web-hls</a></p><p> Supports hls on chrome and other browsers.</p></li><li><p><a href="https://github.com/janhrastnik/pinnable_listview" target="_blank" rel="noopener">pinnable-listview</a></p><p> A ListView widget capable of pinning a child to the top of the list.</p><p> <img src="https://i.loli.net/2020/05/12/z7PxHFywEdYTng3.gif" alt></p></li><li><p><a href="https://github.com/dooboolab/flutter_sound" target="_blank" rel="noopener">flutter-sound</a></p><p> This plugin provides simple recorder and player functionalities for both <code>android</code> and <code>ios</code> platforms. This plugin handles file from remote url. This plugin can handle playback stream from native (To sync exact time with bridging).</p><p> <img src="https://i.loli.net/2020/05/12/4HCne3bFBpuaLGx.gif" alt></p></li><li><p><a href="https://github.com/spkersten/flutter_test_ui" target="_blank" rel="noopener">flutter-test-ui</a></p><p> Wrapper for flutter_test that adds a tester argument to setUp and tearDown functions</p></li><li><p><a href="https://github.com/PavieOlivier/AdvFab" target="_blank" rel="noopener">AdvFab</a></p><p> An Advanced floating action button that expands itself to reveal its hidden widget. </p><p> <img src="https://i.loli.net/2020/05/12/B56UEay18nSQAGP.gif" alt></p></li><li><p><a href="https://github.com/smaho-engineering/mailto" target="_blank" rel="noopener">mailto</a></p><p> Simple Dart package for creating mailto links in your Flutter apps or web pages </p></li><li><p><a href="https://github.com/mogol/flutter_secure_storage" target="_blank" rel="noopener">flutter-secure-storage</a></p><p> A Flutter plugin to store data in secure storage</p></li><li><p><a href="https://github.com/ryanheise/audio_service" target="_blank" rel="noopener">audio-service</a></p><p> Flutter plugin to play audio in the background while the screen is off.</p></li><li><p><a href="https://github.com/avioli/uni_links" target="_blank" rel="noopener">uni-links</a></p><p> A Flutter plugin project to help with App/Deep Links (Android) and Universal Links and Custom URL schemes (iOS).</p></li><li><p><a href="https://github.com/darioielardi/flutter_speed_dial" target="_blank" rel="noopener">flutter-speed-dial</a></p><p> Flutter plugin to implement a Material Design Speed Dial </p><p> <img src="https://i.loli.net/2020/05/13/qogj2yvEDwasSLX.gif" alt></p></li><li><p><a href="https://github.com/hhtokpinar/sqfEntity" target="_blank" rel="noopener">sqfEntity</a></p><p> SqfEntity is based on SQFlite plugin and lets you build and execute SQL commands easily and quickly with the help of fluent methods similar to .Net Entity Framework</p><p> <img src="https://i.loli.net/2020/05/13/kbnI98DQjMWEiAJ.gif" alt></p></li><li><p><a href="https://github.com/esysberlin/esys-flutter-share" target="_blank" rel="noopener">esys-flutter-share</a></p><p> A Flutter plugin for sharing files &amp; text with other applications.</p></li><li><p><a href="https://github.com/Almoullim/background_location" target="_blank" rel="noopener">background-location</a></p><p> A Flutter plugin to get location updates in the background for both Android and iOS (Requires iOS 10.0+). Uses CoreLocation for iOS and FusedLocationProvider for Android</p></li><li><p><a href="https://github.com/kashifmin/flutter_tensorflow_lite" target="_blank" rel="noopener">flutter-tensorflow-lite</a></p><p> A Flutter plugin to access TensorFlow Lite apis. </p></li><li><p><a href="https://github.com/sawankumarbundelkhandi/edge_detection" target="_blank" rel="noopener">edge-detection</a></p><p> A flutter plugin to detect edges of objects, scan paper, detect corner, detect rectangle. It allows cropping of the detected object image and returns the path of the cropped image.</p><p> <img src="https://i.loli.net/2020/05/13/qJUIdmlRiVKBhAY.gif" alt></p></li><li><p><a href="https://github.com/EPNW/painter" target="_blank" rel="noopener">painter</a></p><p> A simple flutter widget to paint with your fingers </p><p> <img src="https://i.loli.net/2020/05/13/XvhzRos1rZV4fCG.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/vipulasri/Serene" target="_blank" rel="noopener">Serene</a></p><p> a white noise app developed with Flutter. It helps you meditate, sleep better, focus, relax and be calm.</p></li><li><p><a href="https://github.com/flutteryapps/habit_formation" target="_blank" rel="noopener">habit-formation</a></p><p> Habit formation is an Android &amp; iOS app which is built using Flutter UI Toolkit. </p></li><li><p><a href="https://github.com/pawlik92/flutter_whirlpool" target="_blank" rel="noopener">flutter-whirlpool</a></p><p> Flutter UI challenge, Smart washing machine app</p><p> <img src="https://i.loli.net/2020/05/07/NWOf6ehAYHLBQ5G.png" alt></p></li><li><p><a href="https://github.com/SSebigo/open-bonfire" target="_blank" rel="noopener">open-bonfire</a></p><p> Open source code for Bonfire app (may be deprecated code compared to private repository)</p><p> <img src="https://i.loli.net/2020/05/12/dCujW1LFs4are3I.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Norbert515/flutter_localizer" target="_blank" rel="noopener">flutter-localizer</a></p><p> IntelliJ Plugin to ease the process of localizing hard coded strings in Flutter projects</p><p> <img src="https://i.loli.net/2020/05/13/ckb9B1e3qP5WLzC.gif" alt></p></li><li><p><a href="https://github.com/sampathbalivada/flutter_installer" target="_blank" rel="noopener">flutter-installer</a></p><p> An installation toolkit for Flutter SDK on Windows PCs</p><p> <img src="https://i.loli.net/2020/05/12/8ZjlHON7tv5YCeA.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Alipay </tag>
+            
+            <tag> Dialog </tag>
+            
+            <tag> LaTeX </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 54</title>
       <link href="/flutter-weekly-issue-54/"/>
       <url>/flutter-weekly-issue-54/</url>
       
-        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/iampawan/MediumClapFlutter" target="_blank" rel="noopener">MediumClapFlutter</a></p><p> A Custom Floating Action Button (FAB) library like clapping effect on Medium</p><p> <img src="https://i.loli.net/2020/04/29/VC7NrxQjkcGfDya.gif" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_alipay" target="_blank" rel="noopener">flutter-alipay</a></p><p> A flutter plugin to use alipay.</p></li><li><p><a href="https://github.com/alternadom/WiFiFlutter" target="_blank" rel="noopener">WiFiFlutter</a></p><p> Plugin Flutter which can handle WiFi connections (AP, STA)</p></li><li><p><a href="https://github.com/FooStudio/flutter_statusbar_manager" target="_blank" rel="noopener">flutter-statusbar-manager</a></p><p> Flutter StatusBar Manager for iOS &amp; Android</p><p> <img src="https://i.loli.net/2020/04/29/92NRgaJYozVMh6c.gif" alt></p></li><li><p><a href="https://github.com/scientifichackers/flutter-plugin-scaffold" target="_blank" rel="noopener">flutter-plugin-scaffold</a></p><p> A scaffold for writing flutter plugins</p></li><li><p><a href="https://github.com/yxwandroid/flutter_plugin_record" target="_blank" rel="noopener">flutter-plugin-record</a></p><p> flutter 仿微信录制语音功能 支持android和ios</p><p> <img src="https://github.com/yxwandroid/flutter_plugin_record" alt></p></li><li><p><a href="https://github.com/YYFlutter/flutter-animation-set" target="_blank" rel="noopener">flutter-animation-set</a></p><p> 🔥🔥🔥 Easy to build an animation set</p></li><li><p><a href="https://github.com/rurico/flutter_video_compress" target="_blank" rel="noopener">flutter-video-compress</a></p><p> Generate a new file by compressed video, and provide metadata. Get video thumbnail from a video path, supports JPEG/GIF. To reduce app size not using FFmpeg in IOS.</p><p> <img src="https://i.loli.net/2020/04/29/6PW4FLdwT21BYnC.gif" alt></p></li><li><p><a href="https://github.com/flutterdata/flutter_data" target="_blank" rel="noopener">flutter-data</a></p><p>  a library for seamlessly managing persistent data in Flutter apps.</p></li><li><p><a href="https://github.com/TeamWanari/rosetta" target="_blank" rel="noopener">rosetta</a></p><p> Flutter Localization tool with code generation tool.</p></li><li><p><a href="https://github.com/sarbagyastha/youtube_player_flutter" target="_blank" rel="noopener">youtube-player-flutter</a></p><p> Flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API. Supports both Android and iOS platforms.</p><p> <img src="https://i.loli.net/2020/04/29/WGrnlmZaTEjCADX.gif" alt></p></li><li><p><a href="https://github.com/dart-lang/stream_transform" target="_blank" rel="noopener">stream-transform</a></p><p> Dart utility methods to create StreamTransfomer instances to manipulate Streams</p></li><li><p><a href="https://github.com/tekartik/sembast.dart" target="_blank" rel="noopener">sembast</a></p><p> sembast db stands for Simple Embedded Application Store database</p></li><li><p><a href="https://github.com/pedromassango/build_context" target="_blank" rel="noopener">build-context</a></p><p> Access most used properties in your BuildContext instance.</p></li><li><p><a href="https://github.com/neohelden/Flutter-AdaptiveCards" target="_blank" rel="noopener">Flutter-AdaptiveCards</a></p><p> A Flutter implementation of Adaptive Cards.</p><p> <img src="https://i.loli.net/2020/04/29/G9epzS1FfkyL6Iv.jpg" alt></p></li><li><p><a href="https://github.com/KaushickSArgekar/spring" target="_blank" rel="noopener">spring</a></p><p> a simple &amp; power full animation kit. inspired by Android’s Flubber. Spring provide pre built fully customizable animation to boost your productivty.</p><p> <img src="https://i.loli.net/2020/05/05/oyRpXG6mADJqQsj.gif" alt></p></li><li><p><a href="https://github.com/sbis04/video_trimmer" target="_blank" rel="noopener">video-trimmer</a></p><p> A Flutter package for trimming videos.</p><p> <img src="https://i.loli.net/2020/05/05/GJ4CbAtOjoE2Nsx.png" alt></p></li><li><p><a href="https://github.com/jg-l/metadata_fetch" target="_blank" rel="noopener">metadata-fetch</a></p><p> A dart library for extracting metadata in web pages. Supports Open Graph, Meta, Twitter Cards, and Structured Data (Json-LD)</p></li><li><p><a href="https://github.com/adee42/flutter_keyboard_visibility" target="_blank" rel="noopener">flutter-keyboard-visibility</a></p><p> Notification service for soft-keyboard visibility</p></li><li><p><a href="https://github.com/simformsolutions/flutter_credit_card" target="_blank" rel="noopener">flutter-credit-card</a></p><p> A Flutter package allows you to easily implement the Credit card’s UI easily with the Card detection.</p><p> <img src="https://i.loli.net/2020/04/29/KzZGFRNS9ibsTwL.gif" alt></p></li><li><p><a href="https://github.com/aissat/easy_localization" target="_blank" rel="noopener">easy-localization</a></p><p> Easy and Fast internationalization for your Flutter Apps, this package simplifies the internationalizing process</p><p> <img src="https://i.loli.net/2020/05/05/2Z1FWN6ugVcUMey.png" alt></p></li><li><p><a href="https://github.com/imtoori/flutter-slide-to-act" target="_blank" rel="noopener">flutter-slide-to-act</a></p><p> A simple slide-to-unlock widget for Flutter</p><p> <img src="https://i.loli.net/2020/05/06/uUtvySP8ZKCzgo1.gif" alt></p></li><li><p><a href="https://github.com/fayaz07/animated_splash" target="_blank" rel="noopener">animated-splash</a></p><p> A light weight package for flutter apps, that easily shows a splash screen with a nice fade animation.</p><p> <img src="https://i.loli.net/2020/04/29/qyQpjEPmCJb4HMs.gif" alt></p></li><li><p><a href="https://github.com/harpreetseera/flutter_account_selector" target="_blank" rel="noopener">flutter-account-selector</a></p><p> A Flutter package which provides helper widgets for selecting single or multiple account/user from the given list.</p><p> <img src="https://i.loli.net/2020/05/06/oYRgUfGcTyelJL6.gif" alt></p></li><li><p><a href="https://github.com/rodydavis/golden_layout" target="_blank" rel="noopener">golden-layout</a></p><p> Flutter Golden Layout</p><p> <img src="https://i.loli.net/2020/05/06/ob5kcPq1mF8CQZ2.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/fmtjava/flutter_eyepetizer" target="_blank" rel="noopener">flutter-eyepetizer</a></p><p> 一款基于Flutter实现的精美仿开眼视频跨平台App,适合新手入门，快速掌握Dart语言的基本语法以及快速上手flutter开发。</p><p> <img src="https://i.loli.net/2020/04/29/48IYZVSMvEgW7pn.png" alt></p></li><li><p><a href="https://github.com/mdanics/fluttergram" target="_blank" rel="noopener">fluttergram</a></p><p> A fully functional Instagram clone written in Flutter using Firebase / Firestore</p><p> <img src="https://i.loli.net/2020/05/06/xUVhPBmwMHaciZD.gif" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/rbcprolabs/icon_font_generator" target="_blank" rel="noopener">icon-font-generator</a></p><p> Convert all *.svg icons from dir to icon-font (.ttf) and generates flutter compatible dart class.</p></li><li><p><a href="https://github.com/rodydavis/storyboard" target="_blank" rel="noopener">storyboard</a></p><p> A Flutter Debug tool to see and test all your screens at once.</p><p> <img src="https://i.loli.net/2020/05/05/5pHfLNCkeWb3jBF.png" alt></p></li></ol>]]></content>
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/iampawan/MediumClapFlutter" target="_blank" rel="noopener">MediumClapFlutter</a></p><p> A Custom Floating Action Button (FAB) library like clapping effect on Medium</p><p> <img src="https://i.loli.net/2020/04/29/VC7NrxQjkcGfDya.gif" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_alipay" target="_blank" rel="noopener">flutter-alipay</a></p><p> A flutter plugin to use alipay.</p></li><li><p><a href="https://github.com/alternadom/WiFiFlutter" target="_blank" rel="noopener">WiFiFlutter</a></p><p> Plugin Flutter which can handle WiFi connections (AP, STA)</p></li><li><p><a href="https://github.com/FooStudio/flutter_statusbar_manager" target="_blank" rel="noopener">flutter-statusbar-manager</a></p><p> Flutter StatusBar Manager for iOS &amp; Android</p><p> <img src="https://i.loli.net/2020/04/29/92NRgaJYozVMh6c.gif" alt></p></li><li><p><a href="https://github.com/scientifichackers/flutter-plugin-scaffold" target="_blank" rel="noopener">flutter-plugin-scaffold</a></p><p> A scaffold for writing flutter plugins</p></li><li><p><a href="https://github.com/yxwandroid/flutter_plugin_record" target="_blank" rel="noopener">flutter-plugin-record</a></p><p> flutter 仿微信录制语音功能 支持android和ios</p></li><li><p><a href="https://github.com/YYFlutter/flutter-animation-set" target="_blank" rel="noopener">flutter-animation-set</a></p><p> 🔥🔥🔥 Easy to build an animation set</p></li><li><p><a href="https://github.com/rurico/flutter_video_compress" target="_blank" rel="noopener">flutter-video-compress</a></p><p> Generate a new file by compressed video, and provide metadata. Get video thumbnail from a video path, supports JPEG/GIF. To reduce app size not using FFmpeg in IOS.</p><p> <img src="https://i.loli.net/2020/04/29/6PW4FLdwT21BYnC.gif" alt></p></li><li><p><a href="https://github.com/flutterdata/flutter_data" target="_blank" rel="noopener">flutter-data</a></p><p>  a library for seamlessly managing persistent data in Flutter apps.</p></li><li><p><a href="https://github.com/TeamWanari/rosetta" target="_blank" rel="noopener">rosetta</a></p><p> Flutter Localization tool with code generation tool.</p></li><li><p><a href="https://github.com/sarbagyastha/youtube_player_flutter" target="_blank" rel="noopener">youtube-player-flutter</a></p><p> Flutter plugin for playing or streaming YouTube videos inline using the official iFrame Player API. Supports both Android and iOS platforms.</p><p> <img src="https://i.loli.net/2020/04/29/WGrnlmZaTEjCADX.gif" alt></p></li><li><p><a href="https://github.com/dart-lang/stream_transform" target="_blank" rel="noopener">stream-transform</a></p><p> Dart utility methods to create StreamTransfomer instances to manipulate Streams</p></li><li><p><a href="https://github.com/tekartik/sembast.dart" target="_blank" rel="noopener">sembast</a></p><p> sembast db stands for Simple Embedded Application Store database</p></li><li><p><a href="https://github.com/pedromassango/build_context" target="_blank" rel="noopener">build-context</a></p><p> Access most used properties in your BuildContext instance.</p></li><li><p><a href="https://github.com/neohelden/Flutter-AdaptiveCards" target="_blank" rel="noopener">Flutter-AdaptiveCards</a></p><p> A Flutter implementation of Adaptive Cards.</p><p> <img src="https://i.loli.net/2020/04/29/G9epzS1FfkyL6Iv.jpg" alt></p></li><li><p><a href="https://github.com/KaushickSArgekar/spring" target="_blank" rel="noopener">spring</a></p><p> a simple &amp; power full animation kit. inspired by Android’s Flubber. Spring provide pre built fully customizable animation to boost your productivty.</p><p> <img src="https://i.loli.net/2020/05/05/oyRpXG6mADJqQsj.gif" alt></p></li><li><p><a href="https://github.com/sbis04/video_trimmer" target="_blank" rel="noopener">video-trimmer</a></p><p> A Flutter package for trimming videos.</p><p> <img src="https://i.loli.net/2020/05/05/GJ4CbAtOjoE2Nsx.png" alt></p></li><li><p><a href="https://github.com/jg-l/metadata_fetch" target="_blank" rel="noopener">metadata-fetch</a></p><p> A dart library for extracting metadata in web pages. Supports Open Graph, Meta, Twitter Cards, and Structured Data (Json-LD)</p></li><li><p><a href="https://github.com/adee42/flutter_keyboard_visibility" target="_blank" rel="noopener">flutter-keyboard-visibility</a></p><p> Notification service for soft-keyboard visibility</p></li><li><p><a href="https://github.com/simformsolutions/flutter_credit_card" target="_blank" rel="noopener">flutter-credit-card</a></p><p> A Flutter package allows you to easily implement the Credit card’s UI easily with the Card detection.</p><p> <img src="https://i.loli.net/2020/04/29/KzZGFRNS9ibsTwL.gif" alt></p></li><li><p><a href="https://github.com/aissat/easy_localization" target="_blank" rel="noopener">easy-localization</a></p><p> Easy and Fast internationalization for your Flutter Apps, this package simplifies the internationalizing process</p><p> <img src="https://i.loli.net/2020/05/05/2Z1FWN6ugVcUMey.png" alt></p></li><li><p><a href="https://github.com/imtoori/flutter-slide-to-act" target="_blank" rel="noopener">flutter-slide-to-act</a></p><p> A simple slide-to-unlock widget for Flutter</p><p> <img src="https://i.loli.net/2020/05/06/uUtvySP8ZKCzgo1.gif" alt></p></li><li><p><a href="https://github.com/fayaz07/animated_splash" target="_blank" rel="noopener">animated-splash</a></p><p> A light weight package for flutter apps, that easily shows a splash screen with a nice fade animation.</p><p> <img src="https://i.loli.net/2020/04/29/qyQpjEPmCJb4HMs.gif" alt></p></li><li><p><a href="https://github.com/harpreetseera/flutter_account_selector" target="_blank" rel="noopener">flutter-account-selector</a></p><p> A Flutter package which provides helper widgets for selecting single or multiple account/user from the given list.</p><p> <img src="https://i.loli.net/2020/05/06/oYRgUfGcTyelJL6.gif" alt></p></li><li><p><a href="https://github.com/rodydavis/golden_layout" target="_blank" rel="noopener">golden-layout</a></p><p> Flutter Golden Layout</p><p> <img src="https://i.loli.net/2020/05/06/ob5kcPq1mF8CQZ2.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/fmtjava/flutter_eyepetizer" target="_blank" rel="noopener">flutter-eyepetizer</a></p><p> 一款基于Flutter实现的精美仿开眼视频跨平台App,适合新手入门，快速掌握Dart语言的基本语法以及快速上手flutter开发。</p><p> <img src="https://i.loli.net/2020/04/29/48IYZVSMvEgW7pn.png" alt></p></li><li><p><a href="https://github.com/mdanics/fluttergram" target="_blank" rel="noopener">fluttergram</a></p><p> A fully functional Instagram clone written in Flutter using Firebase / Firestore</p><p> <img src="https://i.loli.net/2020/05/06/xUVhPBmwMHaciZD.gif" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/rbcprolabs/icon_font_generator" target="_blank" rel="noopener">icon-font-generator</a></p><p> Convert all *.svg icons from dir to icon-font (.ttf) and generates flutter compatible dart class.</p></li><li><p><a href="https://github.com/rodydavis/storyboard" target="_blank" rel="noopener">storyboard</a></p><p> A Flutter Debug tool to see and test all your screens at once.</p><p> <img src="https://i.loli.net/2020/05/05/5pHfLNCkeWb3jBF.png" alt></p></li></ol>]]></content>
       
       
       <categories>
@@ -196,11 +225,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -225,13 +254,13 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -816,9 +845,9 @@
       
         <tags>
             
-            <tag> BloC </tag>
-            
             <tag> MVC </tag>
+            
+            <tag> BloC </tag>
             
             <tag> 架构 </tag>
             
@@ -1012,9 +1041,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
@@ -1136,11 +1165,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1169,11 +1198,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
@@ -1293,11 +1322,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1324,11 +1353,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
