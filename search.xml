@@ -20,11 +20,11 @@
       
         <tags>
             
-            <tag> Alipay </tag>
-            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -49,11 +49,11 @@
       
         <tags>
             
+            <tag> Alipay </tag>
+            
             <tag> Animation </tag>
             
             <tag> StatusBar </tag>
-            
-            <tag> Alipay </tag>
             
         </tags>
       
@@ -225,11 +225,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -254,13 +254,13 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -756,9 +756,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -785,11 +785,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -845,9 +845,9 @@
       
         <tags>
             
-            <tag> MVC </tag>
-            
             <tag> BloC </tag>
+            
+            <tag> MVC </tag>
             
             <tag> 架构 </tag>
             
@@ -1041,9 +1041,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -1070,11 +1070,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
@@ -1165,11 +1165,11 @@
       
         <tags>
             
+            <tag> JSON </tag>
+            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
-            
-            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1198,11 +1198,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
@@ -1442,11 +1442,11 @@
       
         <tags>
             
+            <tag> Dialog </tag>
+            
             <tag> Flame </tag>
             
             <tag> Firestore </tag>
-            
-            <tag> Dialog </tag>
             
         </tags>
       
