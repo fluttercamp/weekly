@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 56</title>
+      <link href="/flutter-weekly-issue-56/"/>
+      <url>/flutter-weekly-issue-56/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/jonataslaw/get" target="_blank" rel="noopener">get</a></p><p> Navigate between screens, display snackbars, dialogs and bottomSheets, from anywhere in your code without context with Get.</p></li><li><p><a href="https://github.com/iamSahdeep/FlutterVisualizers" target="_blank" rel="noopener">FlutterVisualizers</a></p><p> A Flutter Plugin to visualize audio in android</p></li><li><p><a href="https://github.com/sakebook/flutter_native_ads" target="_blank" rel="noopener">flutter-native-ads</a></p><p> Flutter plugin for AdMob Native Ads. Compatible with Android and iOS using PlatformView.</p><p> <img src="https://i.loli.net/2020/05/20/9lPELajMkA6QVFu.png" alt></p></li><li><p><a href="https://github.com/sroddy/flutter_string_encryption" target="_blank" rel="noopener">flutter-string-encryption</a></p><p> Cross-platform string encryption using common best-practices (AES/CBC/PKCS5/Random IVs/HMAC-SHA256 Integrity Check).</p></li><li><p><a href="https://github.com/pichillilorenzo/flutter_appavailability" target="_blank" rel="noopener">flutter-appavailability</a></p><p> A Flutter plugin that allows you to check if an app is installed/enabled, launch an app and get the list of installed apps.</p></li><li><p><a href="https://github.com/OpenFlutter/k_chart" target="_blank" rel="noopener">k-chart</a></p><p> Maybe this is the best k chart in Flutter.Support drag,scale,long press,fling.And easy to use.</p><p> <img src="https://i.loli.net/2020/05/20/SI9b2siR8ouhzgc.gif" alt></p></li><li><p><a href="https://github.com/ch-muhammad-adil/flutter-plugin-circular_profile_avatar" target="_blank" rel="noopener">flutter-plugin-circular-profile-avatar</a></p><p> a Flutter package which allows developers to implement circular profile avatar with border, overlay, initialsText and many other awesome features, which simplifies developers job. </p><p> <img src="https://i.loli.net/2020/05/20/BRz2ofjQvYWZhkr.png" alt></p></li><li><p><a href="https://github.com/Origogi/Flutter-Credit-Card-Input-Form" target="_blank" rel="noopener">Flutter-Credit-Card-Input-Form</a></p><p> This package provides visually beautiful UX through animation of credit card information input form.</p><p> <img src="https://i.loli.net/2020/05/20/rapRb4lnfOId18u.gif" alt></p></li><li><p><a href="https://github.com/delay/flutter_firebase_auth_starter" target="_blank" rel="noopener">flutter-firebase-auth-starter</a></p><p> flutter firebase auth starter project</p></li><li><p><a href="https://github.com/thyagoluciano/flutter_radio" target="_blank" rel="noopener">flutter-radio</a></p><p> A Flutter audio plugin for Android to play remote audio files using ExoPlayer</p></li><li><p><a href="https://github.com/decodedhealth/flutter_zoom_plugin" target="_blank" rel="noopener">flutter-zoom-plugin</a></p><p> A Flutter plugin for the Zoom SDK.</p></li><li><p><a href="https://github.com/dmjones/flutter_auth_buttons" target="_blank" rel="noopener">flutter-auth-buttons</a></p><p> Flutter widget library containing buttons for authenticating with popular social networks: Apple, Google, Facebook, Twitter and Microsoft.</p><p> <img src="https://i.loli.net/2020/05/20/VKHuFnlMtxGyzbe.png" alt></p></li><li><p><a href="https://github.com/gskinner/dart_rnd" target="_blank" rel="noopener">dart-rnd</a></p><p> Extension methods &amp; helpers for Random in Dart, and a globally accessible instance. Ex. rnd(10), rnd.getItem(list), rnd.getBit(0.8).</p></li><li><p><a href="https://github.com/rodydavis/golden_layout" target="_blank" rel="noopener">golden-layout</a></p><p> Flutter Golden Layout </p><p> <img src="https://i.loli.net/2020/05/20/uiDfBcMaNtx3wh5.png" alt></p></li><li><p><a href="https://github.com/spencerccf/app_settings" target="_blank" rel="noopener">app-settings</a></p><p> Flutter plugin for accessing app phone settings for iOS and Android</p></li><li><p><a href="https://gitlab.com/Amirmhmdi/clickabletextpackage" target="_blank" rel="noopener">clickabletextpackage</a></p><p> Find Hashtag and Mention seperately and both together.This package work for both android and IOS just use it as child of richtext.</p><p> <img src="https://i.loli.net/2020/05/20/vaxclEmTHworfbi.png" alt></p></li><li><p><a href="https://github.com/berkayoruc/mapbox_geocoding" target="_blank" rel="noopener">mapbox-geocoding</a></p><p> A Flutter package Mapbox Geocoding API. Package is not official product of mapbox.</p></li><li><p><a href="https://github.com/Daniel-Ioannou/flutter_group_list_view" target="_blank" rel="noopener">flutter-group-list-view</a></p><p> A ListView that allows you to group list items and support headers like iOS UITableView section.</p><p> <img src="https://i.loli.net/2020/05/20/LC8MabOsDU1N5kZ.png" alt></p></li><li><p><a href="https://github.com/mobizel/flutter-logger-android-like" target="_blank" rel="noopener">flutter-logger-android-like</a></p><p> A simple logger that uses quite the same API as Android one.</p></li><li><p><a href="https://github.com/DavBfr/dart_pdf" target="_blank" rel="noopener">dart-pdf</a></p><p> Pdf creation module for dart/flutte</p></li><li><p><a href="https://github.com/Purus/launch_review" target="_blank" rel="noopener">launch-review</a></p><p> A Flutter plugin to assist in leaving user reviews/ratings in the Google Play Store. Supports both Android and iOS.</p></li><li><p><a href="https://github.com/wilburt/flutter_paystack" target="_blank" rel="noopener">flutter-paystack</a></p><p> A robust Flutter plugin for making payments via Paystack Payment Gateway. Completely supports Android and iOS</p><p> <img src="https://i.loli.net/2020/05/20/ipHW3j9AJtVMLxn.png" alt></p></li><li><p><a href="https://github.com/fluttercommunity/firebase_dart_sdk" target="_blank" rel="noopener">firebase-dart-sdk</a></p><p> Unofficial Firebase Dart SDK</p></li><li><p><a href="https://github.com/fluttercommunity/get_version" target="_blank" rel="noopener">get-version</a></p><p>  Get the Version Name, Version Code, Platform and OS Version, and App ID on iOS and Android.</p><p> <img src="https://i.loli.net/2020/05/20/PV4fKXcRNYts9yW.png" alt></p></li><li><p><a href="https://github.com/2find/stereo" target="_blank" rel="noopener">stereo</a></p><p> A Flutter plugin for playing music on iOS and Android. </p></li><li><p><a href="https://github.com/droibit/flutter_custom_tabs" target="_blank" rel="noopener">flutter-custom-tabs</a></p><p> A Flutter plugin to use Chrome Custom Tabs. </p><p> <img src="https://i.loli.net/2020/05/20/YKimd1rQzoOTLas.gif" alt></p></li><li><p><a href="https://github.com/loup-v/beacons" target="_blank" rel="noopener">beacons</a></p><p> Flutter beacons plugin for Android and iOS.</p></li><li><p><a href="https://github.com/SoundByteOSS/youtube-extractor" target="_blank" rel="noopener">youtube-extractor</a></p><p> a library for Dart (and Flutter) that provides an interface to resolve and download YouTube video and audio streams</p></li><li><p><a href="https://github.com/square/reader-sdk-flutter-plugin" target="_blank" rel="noopener">reader-sdk-flutter-plugin</a></p><p> Flutter Plugin for Square Reader SDK</p></li><li><p><a href="https://github.com/VenusCao/x5_webview_flutter" target="_blank" rel="noopener">x5-webview-flutter</a></p><p> 一个基于腾讯x5引擎的webview flutter插件，简化集成，一行代码打开视频播放，暂时只支持android使用</p></li><li><p><a href="https://github.com/hui-z/flutter_install_plugin" target="_blank" rel="noopener">flutter-install-plugin</a></p><p> A flutter plugin for install apk for android; and using url to go to app store for iOS.</p></li><li><p><a href="https://github.com/rhymelph/r_scan" target="_blank" rel="noopener">r-scan</a></p><p> Flutter二维码&amp;条形码扫描插件，支持相机、文件、链接、Uint8List类型扫描</p></li><li><p><a href="https://github.com/rekab-app/background_locator" target="_blank" rel="noopener">background-locator</a></p><p> A Flutter plugin for updating location in background.</p><p> <img src="https://i.loli.net/2020/05/20/LdAqBrQP81JHsU4.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/hi-manshu/Flutter-Apps-Collection" target="_blank" rel="noopener">Flutter-Apps-Collection</a></p><p> This is a repository of a collection of apps made in flutter for learning purpose</p><p> <img src="https://i.loli.net/2020/05/20/jshz6fxSmeEuQIZ.png" alt></p></li><li><p><a href="https://github.com/javipacheco/impossiblocks" target="_blank" rel="noopener">impossiblocks</a></p><p> a complicated game but with very simple rules made in Flutter</p></li><li><p><a href="https://github.com/iampawan/PortfolioX" target="_blank" rel="noopener">PortfolioX</a></p><p> Responsive Portfolio App Made With Flutter With VelocityX</p><p> <img src="https://i.loli.net/2020/05/18/TlbepdrHCn3goVF.png" alt></p></li><li><p><a href="https://github.com/persilee/flutter_ctrip" target="_blank" rel="noopener">flutter-ctrip</a></p><p> 跨端(iOS/Android)移动应用创建携程App</p><p> <img src="https://i.loli.net/2020/05/18/i3Ibz9F6lMo4dB8.png" alt></p></li><li><p><a href="https://github.com/sterrenburg/flutterhole" target="_blank" rel="noopener">flutterhole</a></p><p> A third party Android application for the Pi-Hole® dashboard. </p><p> <img src="https://i.loli.net/2020/05/18/yQHx5caBVOfEe7t.png" alt></p></li><li><p><a href="https://github.com/aelshamy/flutter_samsung_remote" target="_blank" rel="noopener">flutter-samsung-remote</a></p><p> Flutter remote controller for Samsung TV</p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/rodydavis/flutter_remote_compiler" target="_blank" rel="noopener">flutter-remote-compiler</a></p><p> Remote Flutter/Dart Compiler for CloudRun and Docker</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> chart </tag>
+            
+            <tag> Cross-platform </tag>
+            
+            <tag> AdMob </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 55</title>
       <link href="/flutter-weekly-issue-55/"/>
       <url>/flutter-weekly-issue-55/</url>
@@ -20,11 +49,11 @@
       
         <tags>
             
+            <tag> Alipay </tag>
+            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
-            
-            <tag> Alipay </tag>
             
         </tags>
       
@@ -49,11 +78,11 @@
       
         <tags>
             
-            <tag> Alipay </tag>
-            
             <tag> Animation </tag>
             
             <tag> StatusBar </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -225,11 +254,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -254,13 +283,13 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -756,9 +785,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 异步消息 </tag>
-            
             <tag> 点播 </tag>
+            
+            <tag> 异步消息 </tag>
             
         </tags>
       
@@ -785,11 +814,11 @@
             
             <tag> 插件开发 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -1167,9 +1196,9 @@
             
             <tag> JSON </tag>
             
-            <tag> PlatformView </tag>
-            
             <tag> 多线程 </tag>
+            
+            <tag> PlatformView </tag>
             
             <tag> Texture </tag>
             
@@ -1322,11 +1351,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1353,11 +1382,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
