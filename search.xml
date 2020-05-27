@@ -5,35 +5,6 @@
     
     <entry>
       <title>Flutter Weekly Issue 56</title>
-      <link href="/flutter-weekly-issue-57/"/>
-      <url>/flutter-weekly-issue-57/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a>新闻</h3><ol><li><a href="https://mp.weixin.qq.com/s/y_lOfxlYlG6nM-4xduQ4Aw" target="_blank" rel="noopener">更方便、更强大: Flutter package 生态系统更新</a></li></ol><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/4h6szVmDyiC5RjbLRC9ZZw" target="_blank" rel="noopener">Fish-Lottie：纯Dart如何实现一个高性能动画框架？</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Fliggy-Mobile/frefresh" target="_blank" rel="noopener">frefresh</a></p><p> Help you to build pull-down refresh and pull-up loading in the simplest way.</p><p><img src="https://camo.githubusercontent.com/be6b4a90c6dd64462dcfb86f64e930c9033746d1/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f54423143544e3047766232674b306a535a4b3958586145674658612d3535302d3339312e676966" alt></p></li><li><p><a href="https://github.com/ko2ic/image_downloader" target="_blank" rel="noopener">image-downloader</a></p><p> Flutter plugin that downloads images and movies on the Internet and saves to Photo Library on iOS or specified directory on Android.</p></li><li><p><a href="https://github.com/hacktons/convex_bottom_bar" target="_blank" rel="noopener">convex-bottom-bar</a></p><p> A Flutter package which implements a ConvexAppBar to show a convex tab in the bottom bar.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6u94tvk2j30zk0hs405.jpg" alt></p></li><li><p><a href="https://github.com/g123k/flutter_plugin_device_apps" target="_blank" rel="noopener">flutter-plugin-device-apps</a></p><p> A plugin to get the list of installed applications (iOS is not supported yet).</p></li><li><p><a href="https://github.com/ikicodedev/calendar_timeline" target="_blank" rel="noopener">calendar-timeline</a></p><p> Flutter widget form select a date in horizontal timeline.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6u9lrg78j30s40e2dg6.jpg" alt></p></li><li><p><a href="https://github.com/kangshaojun/flutter-incall-manager" target="_blank" rel="noopener">flutter-incall-manager</a></p><p> Handling media-routes/sensors/events during a audio/video chat on Flutter</p></li><li><p><a href="https://github.com/aeyrium/aeyrium-sensor" target="_blank" rel="noopener">aeyrium-sensor</a></p><p> A Flutter sensor plugin which provide easy access to the Pitch and Roll on Android and iOS devices. </p></li><li><p><a href="https://github.com/SachinGanesh/screenshot" target="_blank" rel="noopener">screenshot</a></p><p> A simple plugin to capture widgets as Images.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6ua2wyd6j30u01sxabd.jpg" alt></p></li><li><p><a href="https://github.com/jamesblasco/zflutter" target="_blank" rel="noopener">zflutter</a></p><p> Flat, round, designer-friendly pseudo-3D engine for Flutter </p></li><li><p><a href="https://github.com/rmawatson/flutter_isolate" target="_blank" rel="noopener">flutter-isolate</a></p><p> Launch an isolate that can use flutter plugins.</p></li><li><p><a href="https://github.com/eyro-labs/flutter_hud" target="_blank" rel="noopener">flutter-hud</a></p><p> A clean and lightweight progress HUD to show a running asynchronous task for Flutter.</p><p><img src="https://camo.githubusercontent.com/9302958a077171a5739f7eb176380ee1462689e7/68747470733a2f2f6579726f2d6c6162732e6769746875622e696f2f666c75747465725f6875642f6578616d706c652f676966732f312e6875642d64656661756c742e676966" alt></p></li><li><p><a href="https://github.com/alann-maulana/flutter_beacon" target="_blank" rel="noopener">flutter-beacon</a></p><p> An hybrid iBeacon scanner SDK for Flutter Android and iOS.</p></li><li><p><a href="https://github.com/ravipatel147/navigate" target="_blank" rel="noopener">navigate</a></p><p> A flutter plugin for byutifull navigation with advanced routing</p><p><img src="https://camo.githubusercontent.com/ac7e09680a294ec2adf6c6ea53130a022f4096c8/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d315175674743412d383753366663417145313735374a6b5979714d507a414a3237" alt></p></li><li><p><a href="https://github.com/PSPDFKit/pspdfkit-flutter" target="_blank" rel="noopener">pspdfkit-flutter</a></p><p> PSPDFKit Wrapper for Flutter. Flutter is Google’s mobile UI framework for crafting high-quality native experiences on iOS and Android in record time. </p></li><li><p><a href="https://github.com/LunaGao/leancloud_flutter_plugin" target="_blank" rel="noopener">leancloud-flutter-plugin</a></p><p> This plugin depends on Leancloud Native(iOS / Android) SDK. It’s just convert the code from dart to those native language(Objective-C / Java).</p></li><li><p><a href="https://github.com/shiburagi/Drawer-Behavior-Flutter" target="_blank" rel="noopener">Drawer-Behavior-Flutter</a></p><p> Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view’s height while drawer on slide.</p><p><img src="https://raw.githubusercontent.com/shiburagi/Drawer-Behavior-Flutter/preview/preview-ios-gif.gif" alt></p></li><li><p><a href="https://github.com/SiriDx/qrcode" target="_blank" rel="noopener">qrcode</a></p><p> A flutter plugin for scanning QR codes. Use AVCaptureSession in iOS and zxing in Android.</p></li><li><p><a href="https://github.com/deven98/expanding_bottom_bar" target="_blank" rel="noopener">expanding-bottom-bar</a></p><p> A bottom navigation bar with expanding titles. </p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tx3mcydg30go072tc6.gif" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_location_picker" target="_blank" rel="noopener">flutter-location-picker</a></p><p> A location area picker for flutter 省市区位置选择器</p><p><img src="https://raw.githubusercontent.com/best-flutter/flutter_location_picker/master/example/locations.gif" alt></p></li><li><p><a href="https://github.com/Baseflow/flutter-contacts-plugin" target="_blank" rel="noopener">flutter-contacts-plugin</a></p><p> A Flutter contacts plugin which provides easy access to the platform specific address book.</p></li><li><p><a href="https://github.com/DevFatani/Web_Vuw" target="_blank" rel="noopener">Web-Vuw</a></p><p> A Web View for flutter</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tya78geg30dc0c4x6p.gif" alt></p></li><li><p><a href="https://github.com/jeromexiong/audio_manager" target="_blank" rel="noopener">audio-manager</a></p><p> A flutter plugin for music playback, including notification handling.</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tt0ldz6j30hx08pq3g.jpg" alt></p></li><li><p><a href="https://github.com/best-flutter/gbk2utf8" target="_blank" rel="noopener">gbk2utf8</a></p><p> A flutter package to convert gbk to utf-8</p></li><li><p><a href="https://github.com/salihgueler/flutter_before_after_image" target="_blank" rel="noopener">flutter-before-after-image</a></p><p>  a Flutter plugin to create a Before-After view with stacked two images and give user experience about before and after view.</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tu2fp7zg30go0tnhdu.gif" alt></p></li><li><p><a href="https://github.com/JideGuru/material-about" target="_blank" rel="noopener">material-about</a></p><p> An about screen to use in your Mobile apps.</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6u2bv92gj30fz0q6abj.jpg" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/moda20/flutter-tunein" target="_blank" rel="noopener">flutter-tunein</a></p><p> Dynamically themed Music Player built with flutter</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tw01g2yj30pv0oswi5.jpg" alt></p></li><li><p><a href="https://github.com/harsh6768/E-commerce" target="_blank" rel="noopener">E-commerce</a></p><p> A Flutter E-commerce by implementing the Carousel and other flutter components</p><p><img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6u1512g9j30hi0pijto.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Arbify/Arbify" target="_blank" rel="noopener">Arbify</a></p><p> ARB files localization tool. Dedicated to Flutter and its intl package.</p></li><li><p><a href="https://github.com/MattisBrizard/flutterweb_yaml" target="_blank" rel="noopener">flutterweb-yaml</a></p><p> A command-line application to generate CI/CD yaml templates for Flutter web project.</p></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> Weekly </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> WebView </tag>
-            
-            <tag> downloader </tag>
-            
-            <tag> Images </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Flutter Weekly Issue 56</title>
       <link href="/flutter-weekly-issue-56/"/>
       <url>/flutter-weekly-issue-56/</url>
       
@@ -62,6 +33,35 @@
     
     
     <entry>
+      <title>Flutter Weekly Issue 56</title>
+      <link href="/flutter-weekly-issue-57/"/>
+      <url>/flutter-weekly-issue-57/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a>新闻</h3><ol><li><a href="https://mp.weixin.qq.com/s/y_lOfxlYlG6nM-4xduQ4Aw" target="_blank" rel="noopener">更方便、更强大: Flutter package 生态系统更新</a></li></ol><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/4h6szVmDyiC5RjbLRC9ZZw" target="_blank" rel="noopener">Fish-Lottie：纯Dart如何实现一个高性能动画框架？</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Fliggy-Mobile/frefresh" target="_blank" rel="noopener">frefresh</a></p><p> Help you to build pull-down refresh and pull-up loading in the simplest way.</p><p> <img src="https://camo.githubusercontent.com/be6b4a90c6dd64462dcfb86f64e930c9033746d1/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f54423143544e3047766232674b306a535a4b3958586145674658612d3535302d3339312e676966" alt></p></li><li><p><a href="https://github.com/ko2ic/image_downloader" target="_blank" rel="noopener">image-downloader</a></p><p> Flutter plugin that downloads images and movies on the Internet and saves to Photo Library on iOS or specified directory on Android.</p></li><li><p><a href="https://github.com/hacktons/convex_bottom_bar" target="_blank" rel="noopener">convex-bottom-bar</a></p><p> A Flutter package which implements a ConvexAppBar to show a convex tab in the bottom bar.</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6u94tvk2j30zk0hs405.jpg" alt></p></li><li><p><a href="https://github.com/g123k/flutter_plugin_device_apps" target="_blank" rel="noopener">flutter-plugin-device-apps</a></p><p> A plugin to get the list of installed applications (iOS is not supported yet).</p></li><li><p><a href="https://github.com/ikicodedev/calendar_timeline" target="_blank" rel="noopener">calendar-timeline</a></p><p> Flutter widget form select a date in horizontal timeline.</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6u9lrg78j30s40e2dg6.jpg" alt></p></li><li><p><a href="https://github.com/kangshaojun/flutter-incall-manager" target="_blank" rel="noopener">flutter-incall-manager</a></p><p> Handling media-routes/sensors/events during a audio/video chat on Flutter</p></li><li><p><a href="https://github.com/aeyrium/aeyrium-sensor" target="_blank" rel="noopener">aeyrium-sensor</a></p><p> A Flutter sensor plugin which provide easy access to the Pitch and Roll on Android and iOS devices. </p></li><li><p><a href="https://github.com/SachinGanesh/screenshot" target="_blank" rel="noopener">screenshot</a></p><p> A simple plugin to capture widgets as Images.</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf6ua2wyd6j30u01sxabd.jpg" alt></p></li><li><p><a href="https://github.com/jamesblasco/zflutter" target="_blank" rel="noopener">zflutter</a></p><p> Flat, round, designer-friendly pseudo-3D engine for Flutter </p></li><li><p><a href="https://github.com/rmawatson/flutter_isolate" target="_blank" rel="noopener">flutter-isolate</a></p><p> Launch an isolate that can use flutter plugins.</p></li><li><p><a href="https://github.com/eyro-labs/flutter_hud" target="_blank" rel="noopener">flutter-hud</a></p><p> A clean and lightweight progress HUD to show a running asynchronous task for Flutter.</p><p> <img src="https://camo.githubusercontent.com/9302958a077171a5739f7eb176380ee1462689e7/68747470733a2f2f6579726f2d6c6162732e6769746875622e696f2f666c75747465725f6875642f6578616d706c652f676966732f312e6875642d64656661756c742e676966" alt></p></li><li><p><a href="https://github.com/alann-maulana/flutter_beacon" target="_blank" rel="noopener">flutter-beacon</a></p><p> An hybrid iBeacon scanner SDK for Flutter Android and iOS.</p></li><li><p><a href="https://github.com/ravipatel147/navigate" target="_blank" rel="noopener">navigate</a></p><p> A flutter plugin for byutifull navigation with advanced routing</p><p> <img src="https://camo.githubusercontent.com/ac7e09680a294ec2adf6c6ea53130a022f4096c8/68747470733a2f2f646f63732e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d315175674743412d383753366663417145313735374a6b5979714d507a414a3237" alt></p></li><li><p><a href="https://github.com/PSPDFKit/pspdfkit-flutter" target="_blank" rel="noopener">pspdfkit-flutter</a></p><p> PSPDFKit Wrapper for Flutter. Flutter is Google’s mobile UI framework for crafting high-quality native experiences on iOS and Android in record time. </p></li><li><p><a href="https://github.com/LunaGao/leancloud_flutter_plugin" target="_blank" rel="noopener">leancloud-flutter-plugin</a></p><p> This plugin depends on Leancloud Native(iOS / Android) SDK. It’s just convert the code from dart to those native language(Objective-C / Java).</p></li><li><p><a href="https://github.com/shiburagi/Drawer-Behavior-Flutter" target="_blank" rel="noopener">Drawer-Behavior-Flutter</a></p><p> Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view’s height while drawer on slide.</p><p> <img src="https://raw.githubusercontent.com/shiburagi/Drawer-Behavior-Flutter/preview/preview-ios-gif.gif" alt></p></li><li><p><a href="https://github.com/SiriDx/qrcode" target="_blank" rel="noopener">qrcode</a></p><p> A flutter plugin for scanning QR codes. Use AVCaptureSession in iOS and zxing in Android.</p></li><li><p><a href="https://github.com/deven98/expanding_bottom_bar" target="_blank" rel="noopener">expanding-bottom-bar</a></p><p> A bottom navigation bar with expanding titles. </p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tx3mcydg30go072tc6.gif" alt></p></li><li><p><a href="https://github.com/best-flutter/flutter_location_picker" target="_blank" rel="noopener">flutter-location-picker</a></p><p> A location area picker for flutter 省市区位置选择器</p><p> <img src="https://raw.githubusercontent.com/best-flutter/flutter_location_picker/master/example/locations.gif" alt></p></li><li><p><a href="https://github.com/Baseflow/flutter-contacts-plugin" target="_blank" rel="noopener">flutter-contacts-plugin</a></p><p> A Flutter contacts plugin which provides easy access to the platform specific address book.</p></li><li><p><a href="https://github.com/DevFatani/Web_Vuw" target="_blank" rel="noopener">Web-Vuw</a></p><p> A Web View for flutter</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tya78geg30dc0c4x6p.gif" alt></p></li><li><p><a href="https://github.com/jeromexiong/audio_manager" target="_blank" rel="noopener">audio-manager</a></p><p> A flutter plugin for music playback, including notification handling.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tt0ldz6j30hx08pq3g.jpg" alt></p></li><li><p><a href="https://github.com/best-flutter/gbk2utf8" target="_blank" rel="noopener">gbk2utf8</a></p><p> A flutter package to convert gbk to utf-8</p></li><li><p><a href="https://github.com/salihgueler/flutter_before_after_image" target="_blank" rel="noopener">flutter-before-after-image</a></p><p>  a Flutter plugin to create a Before-After view with stacked two images and give user experience about before and after view.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tu2fp7zg30go0tnhdu.gif" alt></p></li><li><p><a href="https://github.com/JideGuru/material-about" target="_blank" rel="noopener">material-about</a></p><p> An about screen to use in your Mobile apps.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6u2bv92gj30fz0q6abj.jpg" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/moda20/flutter-tunein" target="_blank" rel="noopener">flutter-tunein</a></p><p> Dynamically themed Music Player built with flutter</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6tw01g2yj30pv0oswi5.jpg" alt></p></li><li><p><a href="https://github.com/harsh6768/E-commerce" target="_blank" rel="noopener">E-commerce</a></p><p> A Flutter E-commerce by implementing the Carousel and other flutter components</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gf6u1512g9j30hi0pijto.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Arbify/Arbify" target="_blank" rel="noopener">Arbify</a></p><p> ARB files localization tool. Dedicated to Flutter and its intl package.</p></li><li><p><a href="https://github.com/MattisBrizard/flutterweb_yaml" target="_blank" rel="noopener">flutterweb-yaml</a></p><p> A command-line application to generate CI/CD yaml templates for Flutter web project.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> WebView </tag>
+            
+            <tag> downloader </tag>
+            
+            <tag> Images </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 55</title>
       <link href="/flutter-weekly-issue-55/"/>
       <url>/flutter-weekly-issue-55/</url>
@@ -78,11 +78,11 @@
       
         <tags>
             
-            <tag> Alipay </tag>
-            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -109,9 +109,9 @@
             
             <tag> Animation </tag>
             
-            <tag> StatusBar </tag>
-            
             <tag> Alipay </tag>
+            
+            <tag> StatusBar </tag>
             
         </tags>
       
@@ -283,11 +283,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -312,13 +312,13 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -525,11 +525,11 @@
             
             <tag> BLE </tag>
             
-            <tag> Menu </tag>
-            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
+            
+            <tag> Menu </tag>
             
         </tags>
       
@@ -1128,11 +1128,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
