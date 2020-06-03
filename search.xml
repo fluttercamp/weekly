@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 58</title>
+      <link href="/flutter-weekly-issue-58/"/>
+      <url>/flutter-weekly-issue-58/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/i352Ow__fqN9Ij2jNBd0Vg" target="_blank" rel="noopener">逆向 Flutter 应用</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/A42FNHfJS2-vPgaCkfmljg" target="_blank" rel="noopener">进展汇总 | Flutter 精彩不停，与您同在</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/GursheeshSingh/creditcard_slider" target="_blank" rel="noopener">creditcard-slider</a></p><p> Dart package for creating a credit card slider</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf7xcg4u23g308w0hse81.gif" alt></p></li><li><p><a href="https://github.com/sososdk/flutter_orientation" target="_blank" rel="noopener">flutter-orientation</a></p><p> A Flutter plugin for device’s orientation</p></li><li><p><a href="https://github.com/apgapg/flutter_responsive_tabs" target="_blank" rel="noopener">flutter-responsive-tabs</a></p><p> A responsive tabs demo at two different screen size namely tablet and phone.</p><p> <img src="https://i.loli.net/2020/05/31/8MbHGUJVBIf3n4x.gif" alt></p></li><li><p><a href="https://github.com/TEDConsulting/swipedetector" target="_blank" rel="noopener">swipedetector</a></p><p> A Flutter package to detect up, down, left, right swipes.</p></li><li><p><a href="https://github.com/marcos930807/awesomeDialogs" target="_blank" rel="noopener">awesomeDialogs</a></p><p> A new Flutter package project for simple a awesome dialogs</p><p> <img src="https://i.loli.net/2020/05/31/5hDNCw6mxQ12lEy.gif" alt></p></li><li><p><a href="https://github.com/ygmpkk/flutter_umplus" target="_blank" rel="noopener">flutter-umplus</a></p><p> 一个简单的友盟 umeng app+ 统计</p></li><li><p><a href="https://github.com/MMMzq/bot_toast" target="_blank" rel="noopener">bot-toast</a></p><p> A really easy to use flutter toast library</p><p> <img src="https://i.loli.net/2020/05/31/c7DVxvyY3sZGSoW.gif" alt></p></li><li><p><a href="https://github.com/loup-v/streams_channel" target="_blank" rel="noopener">streams-channel</a></p><p> For Flutter plugin development: StreamsChannel is inspired from EventChannel. It allows to create streams of events between Flutter and platform side.</p></li><li><p><a href="https://github.com/YYFlutter/flutter-custom-dialog" target="_blank" rel="noopener">flutter-custom-dialog</a></p><p> Semantic dialog</p><p> <img src="https://i.loli.net/2020/05/31/QJTgEeSrtcZpuyR.png" alt></p></li><li><p><a href="https://github.com/lesnitsky/flutter_desktop_plugins" target="_blank" rel="noopener">flutter-desktop-plugins</a></p><p> Flutter desktop plugins</p></li><li><p><a href="https://github.com/fluttercandies/extended_image_library" target="_blank" rel="noopener">extended-image-library</a></p><p> package library for extended_image, extended_text and extended_text_field,provide common base class.</p><p> <img src="https://i.loli.net/2020/05/31/WOcirhmy89avNHs.gif" alt></p></li><li><p><a href="https://github.com/rmbrone/flutter_audio_recorder" target="_blank" rel="noopener">flutter-audio-recorder</a></p><p> Flutter plugin that can support audio recording and level metering</p></li><li><p><a href="https://github.com/pawlik92/flutter_parallax_scroll" target="_blank" rel="noopener">flutter-parallax-scroll</a></p><p> Flutter UI challenge- Parallax scroll effect</p><p> <img src="https://i.loli.net/2020/05/31/a9UNIgzH1Jnvc4L.png" alt></p></li><li><p><a href="https://github.com/AngeloAvv/flutter_flavorizr" target="_blank" rel="noopener">flutter-flavorizr</a></p><p> A flutter utility to easily create flavors in your flutter application </p></li><li><p><a href="https://github.com/hd-motion/flutter_imageview_360" target="_blank" rel="noopener">flutter-imageview-360</a></p><p> A Flutter package which provides 360 view of the images with rotation and gesture customisations.</p><p> <img src="https://i.loli.net/2020/05/31/UpaTRbi1JkSdn9o.gif" alt></p></li><li><p><a href="https://github.com/magnatronus/flutter-devicelocale" target="_blank" rel="noopener">flutter-devicelocale</a></p><p> A Flutter package to read and return the set device locales</p></li><li><p><a href="https://github.com/retroportalstudio/foldable_sidebar" target="_blank" rel="noopener">foldable-sidebar</a></p><p> An easy to implement Foldable Sidebar Navigation Drawer for Flutter Applications.</p><p> <img src="https://i.loli.net/2020/06/03/C1kBSUbK7c54ndQ.gif" alt></p></li><li><p><a href="https://github.com/thyagoluciano/flutter_launch_whatsapp" target="_blank" rel="noopener">flutter-launch-whatsapp</a></p><p> A Flutter plugin for iOS and Android to open whatsApp.</p></li><li><p><a href="https://github.com/ilikerobots/rainbow_color" target="_blank" rel="noopener">rainbow-color</a></p><p> RainbowColor simplifies interpolation a numerical domain onto a multi-color range.</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gffga1ftlig30e80os4qt.gif" alt></p></li><li><p><a href="https://github.com/VictorRancesCode/json_to_form" target="_blank" rel="noopener">json-to-form</a></p><p> A flutter plugin to use convert Json to Form</p><p> <img src="https://i.loli.net/2020/06/03/NbjsxuHQmatBgKz.png" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/lwlizhe/flutter_novel" target="_blank" rel="noopener">flutter-novel</a></p><p> 仿追书神器，具有仿真、滑动和滚动翻页、字体大小、行高、背景、目录等功能的Flutter 阅读APP</p><p> <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf7wsklb6ag308w0j17fw.gif" alt></p></li><li><p><a href="https://github.com/huangruiLearn/flutter_hrlweibo" target="_blank" rel="noopener">flutter-hrlweibo</a></p><p> Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块</p><p> <img src="https://i.loli.net/2020/05/31/Cx2Q9ZMkItrfWyp.png" alt></p></li><li><p><a href="https://github.com/TheAlphamerc/flutter_twitter_clone" target="_blank" rel="noopener">flutter-twitter-clone</a></p><p> Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage</p><p> <img src="https://i.loli.net/2020/05/31/IiJVG1rlPhF65uL.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/scalio/bazel-flutter" target="_blank" rel="noopener">bazel-flutter</a></p><p> Sample repository with Bazel support for Flutter projects</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Desktop </tag>
+            
+            <tag> Dialog </tag>
+            
+            <tag> Tabs </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 57</title>
       <link href="/flutter-weekly-issue-57/"/>
       <url>/flutter-weekly-issue-57/</url>
@@ -78,11 +107,11 @@
       
         <tags>
             
-            <tag> Alipay </tag>
-            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -109,9 +138,9 @@
             
             <tag> Animation </tag>
             
-            <tag> StatusBar </tag>
-            
             <tag> Alipay </tag>
+            
+            <tag> StatusBar </tag>
             
         </tags>
       
@@ -525,11 +554,11 @@
             
             <tag> BLE </tag>
             
+            <tag> Menu </tag>
+            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
-            
-            <tag> Menu </tag>
             
         </tags>
       
@@ -1128,11 +1157,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
@@ -1223,11 +1252,11 @@
       
         <tags>
             
+            <tag> JSON </tag>
+            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
-            
-            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1256,11 +1285,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
