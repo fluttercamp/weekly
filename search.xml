@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 59</title>
+      <link href="/flutter-weekly-issue-59/"/>
+      <url>/flutter-weekly-issue-59/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/serenader2014/flutter_carousel_slider" target="_blank" rel="noopener">flutter-carousel-slider</a></p><p> A flutter carousel widget, support infinite scroll, and custom child widget.</p><p> <img src="https://i.loli.net/2020/06/04/T6rkefwPZqg9bd3.gif" alt></p></li><li><p><a href="https://github.com/dart-lang/code_builder" target="_blank" rel="noopener">code-builder</a></p><p> A fluent API for generating valid Dart source code</p></li><li><p><a href="https://github.com/GursheeshSingh/social_media_widgets" target="_blank" rel="noopener">social-media-widgets</a></p><p> A new flutter package for collection of common popular social media widgets</p><p> <img src="https://i.loli.net/2020/06/04/Tp2wcZCXDjxsRBV.gif" alt></p></li><li><p><a href="https://github.com/hukusuke1007/flamingo" target="_blank" rel="noopener">flamingo</a></p><p> Flamingo is a firebase firestore model framework library.</p></li><li><p><a href="https://github.com/JonasWanke/timetable" target="_blank" rel="noopener">timetable</a></p><p> Customizable, animated flutter calendar widget including day, week and month views </p><p> <img src="https://i.loli.net/2020/06/07/BufoQY6xD8S9ZaI.gif" alt></p></li><li><p><a href="https://github.com/kineapps/flutter_file_dialog" target="_blank" rel="noopener">flutter-file-dialog</a></p><p> Dialogs for picking and saving files in Android and in iOS.</p></li><li><p><a href="https://github.com/siqwin/mask_text_input_formatter" target="_blank" rel="noopener">mask-text-input-formatter</a></p><p> The package provides TextInputFormatter for TextField and TextFormField which format the input by a given mask.</p><p> <img src="https://i.loli.net/2020/06/04/O8GqLAd7Zejv1EP.gif" alt></p></li><li><p><a href="https://github.com/0b01001101/flutter-esp32-bluetooth" target="_blank" rel="noopener">flutter-esp32-bluetooth</a></p><p> A Flutter Template to communicate with an esp32 over bluetooth</p></li><li><p><a href="https://github.com/aloisdeniel/media_gallery" target="_blank" rel="noopener">media-gallery</a></p><p> A Flutter plugin that lists native gallery items.</p><p> <img src="https://i.loli.net/2020/06/04/45kM7lD28JSps3C.png" alt></p></li><li><p><a href="https://github.com/marcelgarus/flutter_cached" target="_blank" rel="noopener">flutter-cached</a></p><p> Flutter widget allowing easy cache-based data display in a ListView featuring pull-to-refresh and error banners.</p></li><li><p><a href="https://github.com/florent37/Flutter-AssetsAudioPlayer" target="_blank" rel="noopener">Flutter-AssetsAudioPlayer</a></p><p> Play music/audio stored in assets files (simultaneously) directly from Flutter (android / ios / web / macos).</p><p> <img src="https://i.loli.net/2020/06/04/OmkJCqx5uf7XLwo.png" alt></p></li><li><p><a href="https://github.com/dint-dev/maps" target="_blank" rel="noopener">maps</a></p><p> Cross-platform multi-vendor geographic maps for Flutter applications.</p></li><li><p><a href="https://github.com/JHBitencourt/timeline_tile" target="_blank" rel="noopener">timeline-tile</a></p><p> A package to help build customisable timelines in Flutter. </p><p> <img src="https://i.loli.net/2020/06/09/Hw5cqgQBTatDUdz.png" alt></p></li><li><p><a href="https://github.com/Fliggy-Mobile/fdottedline" target="_blank" rel="noopener">fdottedline</a></p><p> Use the easiest way to create a dotted line view 👀!</p><p> <img src="https://i.loli.net/2020/06/10/CsLqRSw8jcFztTG.png" alt></p></li><li><p><a href="https://github.com/Fliggy-Mobile/fsuper" target="_blank" rel="noopener">fsuper</a></p><p> A super powerful widget to help developers build complex views quickly and comfortably. FSuper 能够帮助开发者快速舒适的构建复杂视图。支持富文本、圆角、边框、图片、小红点、以及同时设置多达两个子组件，且控制它们的相对位置。</p></li></ol><p>FS<img src="https://i.loli.net/2020/06/10/j96OTM3KY5dSlUN.jpg" alt></p><ol><li><p><a href="https://github.com/SugaR256/dateable" target="_blank" rel="noopener">dateable</a></p><p> A Dart package to help you with managing dates easily.</p></li><li><p><a href="https://github.com/harshadmanglani/custom_loading_indicator" target="_blank" rel="noopener">custom-loading-indicator</a></p><p> A Flutter package to customise the loading indicators with your organisation’s logo.</p><p> <img src="https://i.loli.net/2020/06/10/25cUrLjFxClNhAK.gif" alt></p></li><li><p><a href="https://github.com/Mr-Pepe/stroke-order-animator" target="_blank" rel="noopener">stroke-order-animator</a></p><p> Stroke order animations and quizzes for Chinese characters for use in Flutter apps</p></li><li><p><a href="https://github.com/Fliggy-Mobile/ffloat" target="_blank" rel="noopener">ffloat</a></p><p> FFloat, although simple and easy to use, can satisfy all your imagination of the floating layer.</p><p> <img src="https://i.loli.net/2020/06/10/rBoVbuviQYnqApw.png" alt></p></li><li><p><a href="https://github.com/juliuscanute/qr_code_scanner" target="_blank" rel="noopener">qr-code-scanner</a></p><p> A QR code scanner that works on both iOS and Android by natively embedding the platform view within Flutter. </p><p> <img src="https://i.loli.net/2020/06/10/cwOz4haD2HZ5rmb.png" alt></p></li><li><p><a href="https://github.com/Fliggy-Mobile/fradio" target="_blank" rel="noopener">fradio</a></p><p> A radio component suitable for almost any radio scenario.</p><p> <img src="https://i.loli.net/2020/06/10/w2LWFJ9ARO4mSdU.png" alt></p></li><li><p><a href="https://pub.dev/packages/built_mirrors" target="_blank" rel="noopener">built-mirrors</a></p><p> This is a library that generates ClassMirror from classes annotated with @reflectable or @Reflectable().</p></li><li><p><a href="https://github.com/Fliggy-Mobile/fbutton" target="_blank" rel="noopener">fbutton</a></p><p> From then on, developers only need to master one Button component, which is enough.</p><p> <img src="https://i.loli.net/2020/06/10/PMy4uSzBYAaUC9H.png" alt></p></li><li><p><a href="https://pub.dev/packages/blobs" target="_blank" rel="noopener">blobs</a></p><p> Create beautiful blob shapes with minimal code.</p></li><li><p><a href="https://github.com/Fliggy-Mobile/fswitch" target="_blank" rel="noopener">fswitch</a></p><p> An interesting and practical switch component.</p><p> <img src="https://i.loli.net/2020/06/10/byOlAYKDsqGf1SQ.png" alt></p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/PavieOlivier/shopping_card_UI" target="_blank" rel="noopener">shopping-card-UI</a></p><p> This Ui focuss on:sreen adaptability、Modular code、Animation</p><p> <img src="https://i.loli.net/2020/06/07/3RogxBDOHW9ba8f.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/HTsuruo/nippo" target="_blank" rel="noopener">nippo</a></p><p> this is a simple post application by flutter + firebase</p><p> <img src="https://i.loli.net/2020/06/04/cEsbXa6qRTdM3zm.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/bsutton/pub_release" target="_blank" rel="noopener">pub-release</a></p><p> Pub Release is a package to assist in publishing dart/flutter packages to pub.dev.</p></li><li><p><a href="https://github.com/Chimerapps/niddler-ui" target="_blank" rel="noopener">niddler-ui</a></p><p> Niddler-UI is the UI component that communicates with Niddler over a websocket. It comes as a standalone Swing application, as well as an Android Studio / IntelliJ plugin.</p><p> <img src="https://i.loli.net/2020/06/10/ABRfeXv795Eyu6a.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Cache </tag>
+            
+            <tag> Animation </tag>
+            
+            <tag> Carousel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 58</title>
       <link href="/flutter-weekly-issue-58/"/>
       <url>/flutter-weekly-issue-58/</url>
@@ -107,11 +136,11 @@
       
         <tags>
             
+            <tag> Alipay </tag>
+            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
-            
-            <tag> Alipay </tag>
             
         </tags>
       
@@ -138,9 +167,9 @@
             
             <tag> Animation </tag>
             
-            <tag> Alipay </tag>
-            
             <tag> StatusBar </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -312,11 +341,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -341,13 +370,13 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -554,11 +583,11 @@
             
             <tag> BLE </tag>
             
-            <tag> Menu </tag>
-            
             <tag> 网易云信 </tag>
             
             <tag> Admob </tag>
+            
+            <tag> Menu </tag>
             
         </tags>
       
@@ -1066,11 +1095,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -1157,11 +1186,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -1409,11 +1438,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1440,11 +1469,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
