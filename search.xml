@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 60</title>
+      <link href="/flutter-weekly-issue-60/"/>
+      <url>/flutter-weekly-issue-60/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://www.jianshu.com/p/be48a3dc80fa" target="_blank" rel="noopener">网易支付-高性能NEJFlutter小程序动态化架构实践</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/-BTEkHYeh_tHqJY2UNI_xw" target="_blank" rel="noopener">Flutter卡顿问题的监控与思考</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/rgVJn928fyGunNO5kDKnSA" target="_blank" rel="noopener">构建健全的空安全</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/hmR-mRBdM-payyuC3b0Q5g" target="_blank" rel="noopener">Flutter 上的内存泄漏监控</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Norbert515/dynamic_theme" target="_blank" rel="noopener">dynamic-theme</a></p><p> Dynamically changing your theme without hassle</p><p> <img src="https://i.loli.net/2020/06/17/ZTYEtGmQd4HzXyx.png" alt> </p></li><li><p><a href="https://github.com/mintware-de/flutter_p2p" target="_blank" rel="noopener">flutter-p2p</a></p><p> A Wi-Fi Direct Plugin for Flutter</p></li><li><p><a href="https://github.com/flutterFIDL/FIDL" target="_blank" rel="noopener">FIDL</a></p><p> FIDL 即 Flutter 接口定义语言，类似于AIDL(Android Interface Definition Language)。您可以利用它定义不同平台（不限于 Android/iOS/Web）都可以识别的统一接口fidl.json文件，再通过静态代码生成的方式，自动化生成平台原生接口，进而快速/高效实现 Flutter 和原生之间的通信。</p></li><li><p><a href="https://github.com/tiamo/flutter-concentric-transition" target="_blank" rel="noopener">flutter-concentric-transition</a></p><p> A Flutter plugin to create views using Concentric Transition Clipper. Useful for onboarding, page transitions, custom clippers, painters etc.</p><p> <img src="https://i.loli.net/2020/06/17/5ghJacoG3fH9FR4.gif" alt> </p></li><li><p><a href="https://github.com/nashfive/phone_number" target="_blank" rel="noopener">phone-number</a></p><p> Flutter plugin for parsing, formatting and validating international phone numbers.</p></li><li><p><a href="https://github.com/LunaGao/flag_flutter" target="_blank" rel="noopener">flag-flutter</a></p><p> A flag Flutter package for Android and iOS.</p><p> <img src="https://i.loli.net/2020/06/17/GFjgXT6KQUuCc19.png" alt> </p></li><li><p><a href="https://github.com/taljacobson/flutter_mailer" target="_blank" rel="noopener">flutter-mailer</a></p><p> A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android</p></li><li><p><a href="https://github.com/fayeed/flutter_freshchat" target="_blank" rel="noopener">flutter-freshchat</a></p><p> A Flutter plugin for integrating Freshchat in your mobile app.<br>Setup</p></li><li><p><a href="https://github.com/InvisibleWrench/FlutterMidiCommand" target="_blank" rel="noopener">FlutterMidiCommand</a></p><p> A Flutter plugin to send and receive MIDI</p></li><li><p><a href="https://github.com/drydart/flutter_wasm" target="_blank" rel="noopener">flutter-wasm</a></p><p> WebAssembly interpreter for Flutter apps.</p></li><li><p><a href="https://github.com/edwnjos/bmnav" target="_blank" rel="noopener">bmnav</a></p><p> A very flexible Flutter implementation of the Bottom Navigation Bar.</p><p> <img src="https://i.loli.net/2020/06/17/vqdVUazZBysLpPb.gif" alt> </p></li><li><p><a href="https://github.com/appdev/FlutterRxBus" target="_blank" rel="noopener">FlutterRxBus</a></p><p> A Flutter EventBus using RxDar</p></li><li><p><a href="https://github.com/HomeXLabs/pusher-websocket-flutter" target="_blank" rel="noopener">pusher-websocket-flutter</a></p><p> An unofficial Flutter plugin that wraps pusher-websocket-java on Android and pusher-websocket-swift on iOS</p></li><li><p><a href="https://github.com/aleksanderwozniak/simple_gesture_detector" target="_blank" rel="noopener">simple-gesture-detector</a></p><p> Easy to use, reliable and lightweight gesture detector for Flutter apps, exposing simple API for basic gestures</p></li><li><p><a href="https://github.com/crazycodeboy/flutter_color_plugin" target="_blank" rel="noopener">flutter-color-plugin</a></p><p> A color parse package for flutter,it works on iOS and Android.</p></li><li><p><a href="https://github.com/Leocardoso94/flutter-countdown" target="_blank" rel="noopener">flutter-countdown</a></p><p> A simple countdown plugin for flutter ⌛ </p><p> <img src="https://i.loli.net/2020/06/17/QJN5m8oEtAe3OIK.gif" alt> </p></li><li><p><a href="https://github.com/leyan95/pda_scanner" target="_blank" rel="noopener">pda-scanner</a></p><p> A Flutter plugin to scanning. Ready for PDA</p></li><li><p><a href="https://github.com/pvsvamsi/SystemAlertWindow" target="_blank" rel="noopener">SystemAlertWindow</a></p><p> A flutter plugin to show Truecaller like overlay window, over all other apps along with callback events (which also works in background).</p></li><li><p><a href="https://github.com/hramaroson/flutter_cameraview" target="_blank" rel="noopener">flutter-cameraview</a></p><p> A Flutter plugin for Android and iOS allowing access to the device cameras, a bit deeper!!</p></li><li><p><a href="https://github.com/knopp/flutter_reorderable_list" target="_blank" rel="noopener">flutter-reorderable-list</a></p><p> iOS-like proof of concept reorderable list with animations</p><p> <img src="https://i.loli.net/2020/06/17/83LbceCVosAIWBP.gif" alt> </p></li><li><p><a href="https://github.com/tahaali54/simple_color_picker" target="_blank" rel="noopener">simple-color-picker</a></p><p> A simple HSV color picker without any glitz or glamour.</p><p> <img src="https://i.loli.net/2020/06/17/9YxG2E7IqDy8ZBH.png" alt> </p></li><li><p><a href="https://github.com/Pyozer/flutter_material_color_picker" target="_blank" rel="noopener">flutter-material-color-picker</a></p><p> Material color picker, you can customize colors. Selection in two step, first main color and after shades.</p><p> <img src="https://i.loli.net/2020/06/17/WZva6GcoTJPfbqz.png" alt> </p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/jonataswalker/flutter-example" target="_blank" rel="noopener">flutter-example</a></p><p> A starter example of a Flutter + Mobx + Notifications</p><p> <img src="https://i.loli.net/2020/06/14/Zv1EgBFjhkyeMRG.gif" alt> </p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Theme </tag>
+            
+            <tag> MIDI </tag>
+            
+            <tag> Color </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 59</title>
       <link href="/flutter-weekly-issue-59/"/>
       <url>/flutter-weekly-issue-59/</url>
@@ -310,11 +339,11 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> DSL </tag>
             
             <tag> PDF </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -341,11 +370,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -872,9 +901,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -901,11 +930,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -1095,11 +1124,11 @@
       
         <tags>
             
-            <tag> Provider </tag>
-            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
+            
+            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -1281,11 +1310,11 @@
       
         <tags>
             
-            <tag> JSON </tag>
-            
             <tag> PlatformView </tag>
             
             <tag> 多线程 </tag>
+            
+            <tag> JSON </tag>
             
             <tag> Texture </tag>
             
@@ -1314,11 +1343,11 @@
             
             <tag> Widget </tag>
             
+            <tag> JSON </tag>
+            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
-            
-            <tag> JSON </tag>
             
         </tags>
       
@@ -1407,11 +1436,11 @@
       
         <tags>
             
-            <tag> 测试 </tag>
-            
             <tag> 自定义字体 </tag>
             
             <tag> 插件开发 </tag>
+            
+            <tag> 测试 </tag>
             
             <tag> 快捷键 </tag>
             
@@ -1469,9 +1498,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> WebView </tag>
             
