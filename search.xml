@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 61</title>
+      <link href="/flutter-weekly-issue-61/"/>
+      <url>/flutter-weekly-issue-61/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/maestralsol/sup" target="_blank" rel="noopener">sup</a></p><p> A Flutter widget which displays an image, a title, and a subtitle for errors, empty states, or just fancy custom messages.</p><p> <img src="https://i.loli.net/2020/06/19/u3YFLSCwf5RzAry.png" alt></p></li><li><p><a href="https://github.com/ganeshrvel/pub-rules" target="_blank" rel="noopener">pub-rules</a></p><p>  simple yet powerful and feature-rich validation library for both dart and flutter.</p></li><li><p><a href="https://github.com/bottlepay/flutter_libphonenumber" target="_blank" rel="noopener">flutter-libphonenumber</a></p><p> Leverages libphonenumber to allow for asynchronous and synchronous formatting of phone numbers in Flutter apps. Includes a TextInputFormatter to allow real-time AsYouType formatting.</p><p> <img src="https://i.loli.net/2020/06/19/2wO3qKPdYQH5I1t.gif" alt></p></li><li><p><a href="https://github.com/rrousselGit/flutter_portal" target="_blank" rel="noopener">flutter-portal</a></p><p> Overlay/OverlayEntry, but better</p></li><li><p><a href="https://github.com/Daniel-Ioannou/flutter_adaptive_action_sheet" target="_blank" rel="noopener">flutter-adaptive-action-sheet</a></p><p> A action bottom sheet that adapts to the platform (Android/iOS). </p><p> <img src="https://i.loli.net/2020/06/21/2ZFOzcTMqG43PsL.png" alt></p></li><li><p><a href="https://github.com/dint-dev/web_browser" target="_blank" rel="noopener">web-browser</a></p><p> Cross-platform ‘dart:html’ and web content widgets for Flutter applications.</p></li><li><p><a href="https://github.com/gql-dart/gql" target="_blank" rel="noopener">gql</a></p><p> Libraries supporting GraphQL in Dart</p></li><li><p><a href="https://github.com/felangel/cubit" target="_blank" rel="noopener">cubit</a></p><p> a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.</p></li><li><p><a href="https://github.com/fluttercandies/like_button" target="_blank" rel="noopener">like-button</a></p><p> a flutter library that allows you to create a button with animation effects similar to Twitter’s heart when you like something and animation effects to increase like count.</p><p> <img src="https://i.loli.net/2020/06/24/HznBZKa5GiEOQM7.gif" alt></p></li><li><p><a href="https://github.com/snowballdigital/flutter-graphql" target="_blank" rel="noopener">flutter-graphql</a></p><p> A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package. Built after react apollo</p></li><li><p><a href="https://github.com/eyro-labs/eyro_toast" target="_blank" rel="noopener">eyro-toast</a></p><p> A simple yet powerful Flutter plugin for showing Toast at Android, iOS and Web.</p></li><li><p><a href="https://github.com/CoderJava/flutter-jsonloader" target="_blank" rel="noopener">flutter-jsonloader</a></p><p> Flutter library to open JSON from assets.</p></li><li><p><a href="https://github.com/retroportalstudio/spincircle_bottom_bar" target="_blank" rel="noopener">spincircle-bottom-bar</a></p><p> An easy to implement Spin Circle Bottom Navigation Bar for Flutter Applications.</p><p> <img src="https://i.loli.net/2020/06/24/CbP67WyKTsYxFEq.gif" alt></p></li><li><p><a href="https://github.com/Origogi/Vertical_Card_Pager" target="_blank" rel="noopener">Vertical-Card-Pager</a></p><p> Use dynamic and beautiful card view pagers to help you create great apps.</p><p> <img src="Use dynamic and beautiful card view pagers to help you create great apps." alt></p></li><li><p><a href="https://github.com/agryva/Some-Calendar" target="_blank" rel="noopener">Some-Calendar</a></p><p> Custom calendar dialog widget for flutter with (multi select, single select, date range) mode</p><p> <img src="https://i.loli.net/2020/06/24/tdrNgaykwCHPF7u.gif" alt></p></li><li><p><a href="https://github.com/dhmgroup/dart-wp" target="_blank" rel="noopener">dart-wp</a></p><p> A WordPress API client for dart with support for WooCommerce and custom namespaces.</p></li><li><p><a href="https://github.com/leoelstin/fancy_bar" target="_blank" rel="noopener">fancy-bar</a></p><p> A fancy yet beautiful animated widget for your Flutter apps</p><p> <img src="https://i.loli.net/2020/06/24/nCGYmvRHoJ4ZhLA.png" alt></p></li><li><p><a href="https://github.com/marchdev-tk/flutter_google_maps" target="_blank" rel="noopener">flutter-google-maps</a></p><p> A Flutter plugin for integrating Google Maps in iOS, Android and Web applications. It is a wrapper of google_maps_flutter for Mobile and google_maps for Web.</p></li><li><p><a href="https://github.com/smaho-engineering/esptouch_flutter" target="_blank" rel="noopener">esptouch-flutter</a></p><p> ESP-Touch Dart API for Flutter. Platform-specific implementation for Android (Java) and iOS (Objective-C).</p></li><li><p><a href="https://github.com/TheAlphamerc/empty_widget" target="_blank" rel="noopener">empty-widget</a></p><p> Custom_Empty widget is flutter plugin which is designed to notify user about some event.</p><p> <img src="https://i.loli.net/2020/06/24/bnUm9aFqTl43Y1I.png" alt></p></li><li><p><a href="https://github.com/macif-dev/ssl_pinning_plugin" target="_blank" rel="noopener">ssl-pinning-plugin</a></p><p> SSL Pinning Plugin Flutter</p></li><li><p><a href="https://github.com/jhomlala/betterplayer" target="_blank" rel="noopener">betterplayer</a></p><p> Advanced video player based on video_player and Chewie. It’s solves many typical use cases and it’s easy to run.</p></li><li><p><a href="https://github.com/tunitowen/gradient_text" target="_blank" rel="noopener">gradient-text</a></p><p> A Flutter Widget for displaying gradient text, text with a gradient drawn through it.</p><p> <img src="https://i.loli.net/2020/06/24/XyZ9PC5xzsHMa7B.png" alt></p></li><li><p><a href="https://github.com/succlz123/DLNA-Dart" target="_blank" rel="noopener">DLNA-Dart</a></p><p> A simple DLNA DMC library implemented by Dart.</p></li><li><p><a href="https://github.com/therezacuet/Motion-Tab-Bar" target="_blank" rel="noopener">Motion-Tab-Bar</a></p><p> A beautiful animated widget for your Flutter apps</p><p> <img src="https://i.loli.net/2020/06/24/Cjuk39GTzMFQX28.gif" alt></p></li><li><p><a href="https://github.com/hramaroson/flutter_cameraview" target="_blank" rel="noopener">flutter-cameraview</a></p><p> A Flutter plugin for Android and iOS allowing access to the device cameras, a bit deeper!!</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/sbilketay/flutter_music_player" target="_blank" rel="noopener">flutter-music-player</a></p><p> Music player application with Flutter.</p><p> <img src="https://i.loli.net/2020/06/21/XQLwbYyv7SRdTVO.png" alt></p></li><li><p><a href="https://github.com/GroovinChip/GitHub-Activity-Feed" target="_blank" rel="noopener">GitHub-Activity-Feed</a></p><p> A Flutter application for viewing a rich feed of GitHub activity.</p></li><li><p><a href="https://github.com/ahmedgulabkhan/GroupChatApp" target="_blank" rel="noopener">GroupChatApp</a></p><p> Developed a Group chat application using Flutter and Firebase, where users can register and create groups or join already existing groups and start conversing with each other.</p><p> <img src="https://i.loli.net/2020/06/24/LSXxEds8eIDnVZc.png" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/Devil39/fluttertest" target="_blank" rel="noopener">fluttertest</a></p><p> Custom flutter testing CLI tool for inidividual test runs or group testing</p></li><li><p><a href="https://www.zapbg.com/" target="_blank" rel="noopener">Zapbg</a></p><p> Remove backgrounds fast &amp; easily</p><p> <img src="https://i.loli.net/2020/06/24/ScGZY81q96njsog.png" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Theme </tag>
+            
+            <tag> MIDI </tag>
+            
+            <tag> Color </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 60</title>
       <link href="/flutter-weekly-issue-60/"/>
       <url>/flutter-weekly-issue-60/</url>
@@ -339,11 +368,11 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> DSL </tag>
             
             <tag> PDF </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -370,11 +399,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -901,9 +930,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 异步消息 </tag>
-            
             <tag> 点播 </tag>
+            
+            <tag> 异步消息 </tag>
             
         </tags>
       
@@ -930,11 +959,11 @@
             
             <tag> 插件开发 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -990,9 +1019,9 @@
       
         <tags>
             
-            <tag> BloC </tag>
-            
             <tag> MVC </tag>
+            
+            <tag> BloC </tag>
             
             <tag> 架构 </tag>
             
@@ -1124,11 +1153,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -1310,11 +1339,11 @@
       
         <tags>
             
-            <tag> PlatformView </tag>
-            
             <tag> 多线程 </tag>
             
             <tag> JSON </tag>
+            
+            <tag> PlatformView </tag>
             
             <tag> Texture </tag>
             
@@ -1343,11 +1372,11 @@
             
             <tag> Widget </tag>
             
-            <tag> JSON </tag>
-            
             <tag> Streams </tag>
             
             <tag> BloC </tag>
+            
+            <tag> JSON </tag>
             
         </tags>
       
@@ -1436,11 +1465,11 @@
       
         <tags>
             
+            <tag> 测试 </tag>
+            
             <tag> 自定义字体 </tag>
             
             <tag> 插件开发 </tag>
-            
-            <tag> 测试 </tag>
             
             <tag> 快捷键 </tag>
             
@@ -1498,9 +1527,9 @@
       
         <tags>
             
-            <tag> 测试 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 测试 </tag>
             
             <tag> WebView </tag>
             
