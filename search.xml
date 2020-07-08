@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 63</title>
+      <link href="/flutter-weekly-issue-63/"/>
+      <url>/flutter-weekly-issue-63/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/AfgT7jqv4m0YjFRIF5HhbA" target="_blank" rel="noopener">Flutter 和桌面应用的最新进展</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/bTpDbviZTp1a6K-kW-EvmA" target="_blank" rel="noopener">译】Flutter vs React Native vs Native：深度性能比较</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/Scl4lP-sgesti74pZH4efg" target="_blank" rel="noopener">Flutter 中的图文混排与原理解析</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/Xg3JM7yxwBNFcZ8sjgAs_Q" target="_blank" rel="noopener">告别 Flutter Channel，调用 Native API 仅需一行代码！</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/SK64Yl_FoS6kdNU0KAdPGg" target="_blank" rel="noopener">Flutter 核心原理与混合开发模式</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/4mcFo3z8DhCDkEMX7IPmww" target="_blank" rel="noopener">我们用 Flutter 写了一套全新的 Flutter 开发者工具</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/nateshmbhat/touchable" target="_blank" rel="noopener">touchable</a></p><p> Flutter library to add various gesture callbacks to each Shape you draw on your canvas in your CustomPainter</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjdon1cdxg30660dcwi1.gif" alt></p></li><li><p><a href="https://github.com/aloisdeniel/dio_cache" target="_blank" rel="noopener">dio-cache</a></p><p> A plugin for dio that caches responses for better optimization and offline data access.</p></li><li><p><a href="https://github.com/mennorenkens/flutter_scrolling_calendar" target="_blank" rel="noopener">flutter-scrolling-calendar</a></p><p> A calendar widget to easily scroll through the years 🗓</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggh4e80gihj30b40jngmf.jpg" alt></p></li><li><p><a href="https://github.com/tbm98/flutter-riverpod-live-templates" target="_blank" rel="noopener">flutter-riverpod-live-templates</a></p><p> Some built-in live templates support developers to use Flutter Riverpod faster on Android Studio</p></li><li><p><a href="https://github.com/JuniperPhoton/SwitchDecor" target="_blank" rel="noopener">SwitchDecor</a></p><p> An app to help you to add frame to your favorite screenshots from Nintendo Switch.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjdoef3n8j30zk0hddi7.jpg" alt></p></li><li><p><a href="https://github.com/fluttercandies/nav_router" target="_blank" rel="noopener">nav-router</a></p><p> flutter The lightest, easiest and most convenient route management!</p></li><li><p><a href="https://github.com/thevikke/read_pdf_text" target="_blank" rel="noopener">read-pdf-text</a></p><p> This is a flutter package that parses pdf documents to strings</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1gghfou4ua2g30u01hc4qq.gif" alt></p></li><li><p><a href="https://github.com/okadan/flutter-nfc-manager" target="_blank" rel="noopener">flutter-nfc-manager</a></p><p> A Flutter plugin to manage the NFC features. Supported on both Android and iOS.</p></li><li><p><a href="https://github.com/brianegan/flutter_stetho" target="_blank" rel="noopener">flutter-stetho</a></p><p> Integrate Flutter with the Facebook Stetho tool for Android</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggiaf07lxtg30k00b9b2d.gif" alt></p></li><li><p><a href="https://github.com/Baseflow/flutter-google-api-availability" target="_blank" rel="noopener">flutter-google-api-availability</a></p><p> Check the availability of Google Play services on the current device</p></li><li><p><a href="https://github.com/befovy/flutter_volume" target="_blank" rel="noopener">flutter-volume</a></p><p> A Flutter Plugin for Volume Control and Monitoring, support iOS and Android</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjer7j7wdg307i0dc112.gif" alt></p></li><li><p><a href="https://github.com/arthurdenner/theme_mode_handler" target="_blank" rel="noopener">theme-mode-handler</a></p><p> Flutter widget to change <code>themeMode</code> during runtime and persist it across restarts.</p></li><li><p><a href="https://github.com/iamSahdeep/liquid_button" target="_blank" rel="noopener">liquid-button</a></p><p> Liquify your buttons, web demo at website</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjesljao2g30go0yoqv5.gif" alt></p></li><li><p><a href="https://github.com/hisaichi5518/native_webview" target="_blank" rel="noopener">native-webview</a></p><p> A Flutter plugin that allows you to add an inline WebView.</p></li><li><p><a href="https://github.com/EPNW/scalable_image" target="_blank" rel="noopener">scalable-image</a></p><p> A widget that shows an image which can be scaled and dragged using gestures.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjetc48npg30880enkjl.gif" alt></p></li><li><p><a href="https://github.com/Samoy/image_save" target="_blank" rel="noopener">image-save</a></p><p> Save image to album or sandbox</p></li><li><p><a href="https://github.com/Codelessly/FlutterLoadingGIFs" target="_blank" rel="noopener">FlutterLoadingGIFs</a></p><p> Loading indicator GIFs. Material and Cupertino (Android and iOS) loading indicators in assorted sizes. Use as placeholders for loading remote image assets</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjev6ytwtg30zk0b44hs.gif" alt></p></li><li><p><a href="https://github.com/Sithira/FlutterRadioPlayer" target="_blank" rel="noopener">FlutterRadioPlayer</a></p><p> Flutter Radio Player, A Plugin to handle streaming audio without a hassle</p></li><li><p><a href="https://github.com/marchdev-tk/cross_connectivity" target="_blank" rel="noopener">cross-connectivity</a></p><p> A Flutter plugin for handling Connectivity and REAL Connection state in the mobile, web and desktop platforms. Supports iOS, Android, Web, Windows, Linux and macOS.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjf05ajhdj30wr08xdhe.jpg" alt></p></li><li><p><a href="https://github.com/AdityaMulgundkar/wallpaper_manager" target="_blank" rel="noopener">wallpaper-manager</a></p><p> A Flutter plugin for changing the Home Screen, Lock Screen (or both) Wallpaper on Android devices.</p></li><li><p><a href="https://github.com/cingulo/device_unlock" target="_blank" rel="noopener">device-unlock</a></p><p> A Flutter plugin to request the device unlock screen.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/2d-inc/WaterTracker" target="_blank" rel="noopener">WaterTracker</a></p><p> A Flutter and Flare app that tracks your water intake.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjdoxdalqg30at0cix02.gif" alt></p></li><li><p><a href="https://github.com/shenghy/flutter_shop" target="_blank" rel="noopener">flutter-shop</a></p><p> 一个Flutter的电商实战项目，包括首页、列表页、详细页、购物车页和会员中心，配有全套文字和视频教程。</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggh4ac1rogj30rs0dwq43.jpg" alt></p></li><li><p><a href="https://github.com/ionicfirebaseapp/flutter-app" target="_blank" rel="noopener">flutter-app</a></p><p> Full Feature Todos Flutter Mobile app with fireStore integration.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggjeok9zxdj30zk0hsh79.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://github.com/s0nerik/goloc" target="_blank" rel="noopener">goloc</a></p><p> A flexible tool for application localization using Google Sheets.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> GestureDetector </tag>
+            
+            <tag> AndroidTV </tag>
+            
+            <tag> BottomSheet </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 62</title>
       <link href="/flutter-weekly-issue-62/"/>
       <url>/flutter-weekly-issue-62/</url>
@@ -397,11 +426,11 @@
       
         <tags>
             
+            <tag> datepicker </tag>
+            
             <tag> DSL </tag>
             
             <tag> PDF </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -428,11 +457,11 @@
             
             <tag> Bugly </tag>
             
-            <tag> datepicker </tag>
-            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -1244,9 +1273,9 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 动画 </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Web </tag>
             
@@ -1273,11 +1302,11 @@
       
         <tags>
             
-            <tag> Web </tag>
-            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
+            
+            <tag> Web </tag>
             
         </tags>
       
