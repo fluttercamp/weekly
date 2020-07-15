@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 64</title>
+      <link href="/flutter-weekly-issue-64/"/>
+      <url>/flutter-weekly-issue-64/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><a href="https://mp.weixin.qq.com/s/2GFKxfAtnOozLsUiRUQPHg" target="_blank" rel="noopener">必读 | 深入理解布局约束</a></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/Abiri99/elastic-widgets" target="_blank" rel="noopener">elastic-widgets</a></p><p> Set of Flutter widgets built using physics based animations.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrh2ju2yag30mj0co11s.gif" alt></p></li><li><p><a href="https://github.com/andresaraujo/timeago.dart" target="_blank" rel="noopener">timeago.dart</a></p><p> A library useful for creating fuzzy timestamps. (e.g. 5 minutes ago)</p></li><li><p><a href="https://github.com/mono0926/snack_bar_presenter" target="_blank" rel="noopener">snack-bar-presenter</a></p><p> Provide easy and flexible way to show SnackBar. Simple text, undo, and error style are supported.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrh53ex5uj30n80eiq5i.jpg" alt></p></li><li><p><a href="https://github.com/SBDavid/widget_shots" target="_blank" rel="noopener">widget-shots</a></p><p> flutter组件截图widget</p></li><li><p><a href="https://github.com/samuelezedi/polls" target="_blank" rel="noopener">polls</a></p><p> A flutter package for voting processes e.g elections.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrh5xn6ocg30go0ya7wh.gif" alt></p></li><li><p><a href="https://github.com/Arbaz-Softagics/commons" target="_blank" rel="noopener">commons</a></p><p> Commons Flutter package can used for Flutter Android and IOS applications.</p></li><li><p><a href="https://github.com/samuelezedi/linkwell" target="_blank" rel="noopener">linkwell</a></p><p> a Text widget that highlight all the links in the text which then navigates the user to the URL when tapped</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrh6ryxigj305k0bfq32.jpg" alt></p></li><li><p><a href="https://github.com/CaiJingLong/flutter_photo_manager" target="_blank" rel="noopener">flutter-photo-manager</a></p><p> A flutter api for photo, you can get image/video from ios or android.<br>一个提供相册 api 的插件, android ios 可用,没有 ui,以便于自定义自己的界面, 你可以通过提供的 api 来制作图片相关的 ui 或插件</p></li><li><p><a href="https://github.com/samuelezedi/locally" target="_blank" rel="noopener">locally</a></p><p> An extension of flutter local notification, to simplify local notifications</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrh7t3dzoj30ef0f074x.jpg" alt></p></li><li><p><a href="https://github.com/isar/isar" target="_blank" rel="noopener">isar</a></p><p> Super Fast Cross Platform Database for Flutter &amp; Web Apps</p></li><li><p><a href="https://github.com/HatFeather/flutter_dough" target="_blank" rel="noopener">flutter-dough</a></p><p> This package provides some widgets you can use to create a smooshy UI.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrhhp16qmg30700cj4aj.gif" alt></p></li><li><p><a href="https://github.com/infinum/flutter-plugins-locker" target="_blank" rel="noopener">flutter-plugins-locker</a></p><p> Flutter plugin that secures your secrets in keychain using biometric authentication.</p></li><li><p><a href="https://github.com/CHB61/multi_select_flutter" target="_blank" rel="noopener">multi-select-flutter</a></p><p> Multi Select Flutter is a package for easily creating multi-select widgets in a variety of ways.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrj3fw9fmg30a80j9u0y.gif" alt></p></li><li><p><a href="https://github.com/infinum/flutter-plugins-japx" target="_blank" rel="noopener">flutter-plugins-japx</a></p><p> Lightweight [JSON:API][1] parser that flattens complex [JSON:API][1] structure and turns it into simple JSON and vice versa.</p></li><li><p><a href="https://github.com/grpc/grpc-dart" target="_blank" rel="noopener">grpc-dart</a></p><p> The Dart implementation of gRPC: A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo" target="_blank" rel="noopener">flutter-mvvm-provider-demo</a></p><p> A Flutter MVVM provider demo application.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrirze0vog30go0tm7wk.gif" alt></p></li><li><p><a href="https://github.com/exts/momentum_label_managerr" target="_blank" rel="noopener">momentum-label-managerr</a></p><p> Example use of Momentum State Management using SQFLite</p></li><li><p><a href="https://github.com/samisnotinsane/orion_flutterhack20" target="_blank" rel="noopener">orion-flutterhack20</a></p><p> An app for keeping your neighbourhood clean and tidy.</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/TallyAssist/TallyAssist" target="_blank" rel="noopener">TallyAssist</a></p><p> Open source Flutter-based template for a business assistant application</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrj2mifvhj30sd09njsm.jpg" alt></p></li><li><p><a href="https://github.com/Iconicto/recyclomedia" target="_blank" rel="noopener">recyclomedia</a></p><p> Recyclomedia is a digital platform that aims to save the planet from pollution which is the major threat to the functioning of earth.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggri4jofstg306k0dcu0z.gif" alt></p></li><li><p><a href="https://github.com/syphon-org/syphon" target="_blank" rel="noopener">syphon</a></p><p> a privacy centric matrix client</p><p> <img src="https://i.loli.net/2020/07/15/jaT59pUhRrsw81S.png" alt></p></li><li><p><a href="https://github.com/gskinnerTeam/flokk" target="_blank" rel="noopener">flokk</a></p><p> A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.</p></li><li><p><a href="https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger" target="_blank" rel="noopener">GhostRigger</a></p><p> Cyberpunk-inspired puzzle game prototype created with Flutter and Flame</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrhh6lfsdj30nm0zkgv0.jpg" alt></p></li><li><p><a href="https://github.com/tomwyr/pinger" target="_blank" rel="noopener">pinger</a></p><p> Ping command utility app made with Flutter.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggrhik9uaoj30n40o275m.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://repix.app/" target="_blank" rel="noopener">REPIX.app</a></p><p> Create Beautiful Screenshots for App Store and Play Store.</p><p> <img src="https://tva1.sinaimg.cn/small/007S8ZIlly1ggriq0rsctj31kk0u0gtb.jpg" alt></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Animation </tag>
+            
+            <tag> SnackBar </tag>
+            
+            <tag> Notification </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 63</title>
       <link href="/flutter-weekly-issue-63/"/>
       <url>/flutter-weekly-issue-63/</url>
@@ -457,11 +486,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -486,13 +515,13 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -988,9 +1017,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -1017,11 +1046,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -1273,9 +1302,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
@@ -1302,11 +1331,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
