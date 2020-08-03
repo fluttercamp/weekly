@@ -310,11 +310,11 @@
       
         <tags>
             
-            <tag> Alipay </tag>
-            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -341,9 +341,9 @@
             
             <tag> Animation </tag>
             
-            <tag> StatusBar </tag>
-            
             <tag> Alipay </tag>
+            
+            <tag> StatusBar </tag>
             
         </tags>
       
@@ -515,11 +515,11 @@
             
             <tag> Bugly </tag>
             
+            <tag> datepicker </tag>
+            
             <tag> staggered </tag>
             
             <tag> ratingbar </tag>
-            
-            <tag> datepicker </tag>
             
         </tags>
       
@@ -544,13 +544,13 @@
       
         <tags>
             
-            <tag> datepicker </tag>
-            
             <tag> skeleton </tag>
             
             <tag> Router </tag>
             
             <tag> i18n </tag>
+            
+            <tag> datepicker </tag>
             
         </tags>
       
@@ -575,11 +575,11 @@
       
         <tags>
             
+            <tag> Mock </tag>
+            
             <tag> vibration </tag>
             
             <tag> WiFi </tag>
-            
-            <tag> Mock </tag>
             
             <tag> Date </tag>
             
@@ -695,9 +695,9 @@
       
         <tags>
             
-            <tag> Mock </tag>
-            
             <tag> Shimmer </tag>
+            
+            <tag> Mock </tag>
             
             <tag> WebSockets </tag>
             
@@ -1046,9 +1046,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -1075,11 +1075,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -1331,9 +1331,9 @@
       
         <tags>
             
-            <tag> 动画 </tag>
-            
             <tag> 混合开发 </tag>
+            
+            <tag> 动画 </tag>
             
             <tag> Web </tag>
             
