@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 66</title>
+      <link href="/flutter-weekly-issue-66/"/>
+      <url>/flutter-weekly-issue-66/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="新闻"><a href="#新闻" class="headerlink" title="新闻"></a>新闻</h3><ol><li><a href="https://mp.weixin.qq.com/s/3NAa-uNSZ-KmGsZoVgKs3Q" target="_blank" rel="noopener">Flutter 季度调研结果分享</a></li></ol><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://www.yuque.com/xytech/flutter/eqp1xi" target="_blank" rel="noopener">Flutter+FaaS一体化任务编排的思考与设计</a></p></li><li><p><a href="https://www.yuque.com/xytech/flutter/qk71gn" target="_blank" rel="noopener">详解Dart中如何通过注解生成代码</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/zo7i232oCQexyegioB7kxA" target="_blank" rel="noopener">GitHub 用对了吗？Flutter 团队分享如何管理大型开源项目</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/vipulasri/flutter_bubble_tab_indicator" target="_blank" rel="noopener">flutter-bubble-tab-indicator</a></p><p> A Flutter library to add bubble tab indicator to TabBar</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6k57qc8gj30hs07b3yg.jpg" alt></p></li><li><p><a href="https://github.com/sestegra/spreadsheet_decoder" target="_blank" rel="noopener">spreadsheet-decoder</a></p><p> Spreadsheet Decoder is a library for decoding spreadsheets for ODS and XLSX files.</p></li><li><p><a href="https://github.com/learn-flutter-dev/flutter_yunpian_captcha" target="_blank" rel="noopener">flutter-yunpian-captcha</a></p><p> 适用于 Flutter 的云片行为验证插件</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghcpr2ul66j30g40hc78l.jpg" alt></p></li><li><p><a href="https://github.com/GIfatahTH/animator" target="_blank" rel="noopener">animator</a></p><p> A Flutter library that makes animation easer. It allows for separation of animation setup from the User Interface.</p></li><li><p><a href="https://github.com/GanZhiXiong/gzx_dropdown_menu" target="_blank" rel="noopener">gzx-dropdown-menu</a></p><p> 自定义功能强大的下拉筛选菜单flutter package，支持iOS和Android</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghcpwz9a2ag30c80nwqbb.gif" alt></p></li><li><p><a href="https://github.com/AKushWarrior/should" target="_blank" rel="noopener">should</a></p><p> A BDD-style assertion library for Dart developers. It has built-in support for most common primitives, including Strings, Integers, Doubles, Functions, Iterables. It also has type and equality checks built in for all objects.</p></li><li><p><a href="https://github.com/lesliearkorful/juxtapose" target="_blank" rel="noopener">juxtapose</a></p><p> A flutter widget for comparing two stacked widgets by dragging a slider thumb to reveal either sides of the slider horizontally or vertically.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghfy4vjgc4g30go0go4cf.gif" alt></p></li><li><p><a href="https://github.com/birjuvachhani/adaptive_theme" target="_blank" rel="noopener">adaptive-theme</a></p><p> Easiest way to add support for light and dark theme in your flutter app.</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/luoyibu/flutter_texture" target="_blank" rel="noopener">flutter-texture</a></p><p> flutter外接纹理尝试</p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/MadhavPruthi/Fleo-flutter-video-amalgamation" target="_blank" rel="noopener">Fleo-flutter-video-amalgamation</a></p><p> Fleo - A video calling application developed using flutter🤠</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghfy5kisodg306o0dvhdv.gif" alt></p></li><li><p><a href="https://github.com/thenifemi/PetShop" target="_blank" rel="noopener">PetShop</a></p><p> Pet Shop is an e-commerce application for Android built with Flutter (iOS to come soon).</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghfw4s35shj30n60izwg7.jpg" alt></p></li><li><p><a href="https://github.com/Notsfsssf/pixez-flutter" target="_blank" rel="noopener">pixez-flutter</a></p><p> 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1ghfvv2rdlnj30nl0mpq89.jpg" alt></p></li><li><p><a href="https://github.com/Mayandev/morec" target="_blank" rel="noopener">morec</a></p><p> 🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6j6otiuqj30ln0yftdk.jpg" alt></p></li><li><p><a href="https://github.com/Akora-IngDKB/origin_home_ui" target="_blank" rel="noopener">origin-home-ui</a></p><p> A simple UI design of the Origin Games Homepage.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6k7wbwpwj31100mltd5.jpg" alt></p></li><li><p><a href="https://github.com/wilsonowilson/youtube_flutter_redesign" target="_blank" rel="noopener">youtube-flutter-redesign</a></p><p> A redesign of YouTube, built in Flutter for MacOS. It also works on Flutter Web. Currently unresponsive, but might change later.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6k8n34xaj31310nwaf8.jpg" alt></p></li><li><p><a href="https://github.com/Zfinix/zterminal" target="_blank" rel="noopener">zterminal</a></p><p> A Terminal App</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6k9cfiboj31e00goglo.jpg" alt></p></li><li><p><a href="https://github.com/RegNex/InventoryDesktopFlutterApp" target="_blank" rel="noopener">InventoryDesktopFlutterApp</a></p><p> Implementation of Flutter Desktop Application</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6kca793rj30ce0hojro.jpg" alt></p></li></ol><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><ol><li><p><a href="https://devicedb.app/" target="_blank" rel="noopener">DeviceDB</a></p><p> Given an accurate database of device metrics, including their screen sizes in dp, I could build a logical model of the application in dp and translate that to your screen’s graphical raster, for any device and display it scaled accurately to your screen.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6kd68eibj30jg0dwglw.jpg" alt></p></li><li><p><a href="https://flutterstudio.app/" target="_blank" rel="noopener">Flutter Studio, Version 2</a></p><p> I’ve updated the Flutter Studio web application with the goal of making it more flexible, complete, responsive and accurate.</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gh6kfgoefdj30jg0cuq38.jpg" alt></p></li><li><p><a href="https://github.com/aliyigitbireroglu/flutter-snap" target="_blank" rel="noopener">flutter-snap</a></p><p> An extensive snap tool/widget for Flutter that allows very flexible snap management and snapping between your widgets.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Weekly </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Menu </tag>
+            
+            <tag> Animation </tag>
+            
+            <tag> TabBar </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 65</title>
       <link href="/Flutter%20Weekly%20Issue%2065/"/>
       <url>/Flutter%20Weekly%20Issue%2065/</url>
@@ -1046,9 +1075,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 异步消息 </tag>
-            
             <tag> 点播 </tag>
+            
+            <tag> 异步消息 </tag>
             
         </tags>
       
@@ -1075,11 +1104,11 @@
             
             <tag> 插件开发 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -1269,11 +1298,11 @@
       
         <tags>
             
+            <tag> Provider </tag>
+            
             <tag> 图表 </tag>
             
             <tag> MobX </tag>
-            
-            <tag> Provider </tag>
             
             <tag> Android </tag>
             
@@ -1360,11 +1389,11 @@
       
         <tags>
             
+            <tag> Web </tag>
+            
             <tag> 面试 </tag>
             
             <tag> Dart </tag>
-            
-            <tag> Web </tag>
             
         </tags>
       
@@ -1581,11 +1610,11 @@
       
         <tags>
             
+            <tag> 测试 </tag>
+            
             <tag> 自定义字体 </tag>
             
             <tag> 插件开发 </tag>
-            
-            <tag> 测试 </tag>
             
             <tag> 快捷键 </tag>
             
