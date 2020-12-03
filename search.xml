@@ -4,6 +4,29 @@
   
     
     <entry>
+      <title>Flutter Weekly Issue 70</title>
+      <link href="/flutter-weekly-issue-70/"/>
+      <url>/flutter-weekly-issue-70/</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://s1.ax1x.com/2020/03/18/8dq9Cd.jpg" alt></p><h3 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h3><ol><li><p><a href="https://mp.weixin.qq.com/s/zvWMa2KsSNcxmxPNlaWLyw" target="_blank" rel="noopener">承载亿级流量的开发框架，闲鱼 Flutter 技术解析与实战大公开</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/l3IohGd7xe0tLJvbRS4XRQ" target="_blank" rel="noopener">来一份Flutter渲染分析</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/9GjXB9Eu-OP3fIjdQWKklg" target="_blank" rel="noopener">UME - 丰富的Flutter调试工具</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/s__l7MU_HluR5AvxiGwnkw" target="_blank" rel="noopener">Flutter源码剖析(四):flutter run流程解析</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/usKcqSEv8nE_I228y3-7hA" target="_blank" rel="noopener">Flutter widgets 快问快答 | 第五期</a></p></li><li><p><a href="https://mp.weixin.qq.com/s/zYZNyUemeAuA7cM6Vo-ZoQ" target="_blank" rel="noopener">Dart 健全的空安全: Beta 版</a></p></li></ol><h3 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h3><ol><li><p><a href="https://github.com/evrone/flutter_audio" target="_blank" rel="noopener">flutter-audio</a></p><p> A Flutter audio-plugin to playing and recording sounds</p></li><li><p><a href="https://github.com/felangel/flow_builder" target="_blank" rel="noopener">flow-builder</a></p><p> Flutter Flows made easy! A Flutter package which simplifies flows with a flexible, declarative API.</p></li><li><p><a href="https://github.com/HongZhiQing/FAliPlayer" target="_blank" rel="noopener">FAliPlayer</a></p><p> Flutter 版的阿里云列表播放器，支持边播边缓存 Flutter 版的阿里云列表播放器，支持边播边缓存</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl4xlvjz1qg30a00hs7wn.gif" alt></p></li><li><p><a href="https://github.com/escamoteur/functional_listener" target="_blank" rel="noopener">functional-listener</a></p><p> Extension functions on ValueListenable that allows you to work with them almost as if it was a synchronous stream. </p></li><li><p><a href="https://github.com/znjameswu/flutter_math" target="_blank" rel="noopener">flutter-math</a></p><p> Math rendering and editing in pure Flutter.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl4y0wwbyvj30s307gt8m.jpg" alt></p></li><li><p><a href="https://github.com/getsentry/sentry-dart" target="_blank" rel="noopener">sentry-dart</a></p><p> A pure Dart Sentry.io client.</p></li><li><p><a href="https://github.com/ko-htut/yoyo-player" target="_blank" rel="noopener">yoyo-player</a></p><p> YoYo Video Player is a HLS(.m3u8) video player for flutter.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl4y8lllgvj30ni0dm78n.jpg" alt></p></li><li><p><a href="https://github.com/GetStream/combase-flutter" target="_blank" rel="noopener">combase-flutter</a></p><p> Flutter Chat Components for Combase • Powered By Stream</p></li><li><p><a href="https://github.com/Rexfordasamoah51/international_phone_field" target="_blank" rel="noopener">international-phone-field</a></p><p> Validating numbers and providing necessary detail base on selected country</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl57w53cxhj30kb0f5gn8.jpg" alt></p></li><li><p><a href="https://github.com/SandroMaglione/repo_case.dart" target="_blank" rel="noopener">Repo Case</a></p><p> Automatically generate usecase classes from your repository class definition in Dart and Flutter</p></li><li><p><a href="https://github.com/mrgulshanyadav/story_designer" target="_blank" rel="noopener">story-designer</a></p><p> story_designer is created to help developers out there who are looking for implementing Instagram like stories editor.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl57zcsnwsg30f00xcavo.gif" alt></p></li><li><p><a href="https://github.com/flame-engine/forge2d" target="_blank" rel="noopener">forge2d</a></p><p> A Dart port of the Box2D physics engine</p></li><li><p><a href="https://github.com/federicodesia/custom_timer" target="_blank" rel="noopener">custom-timer</a></p><p> A customizable timer builder, with controller, animation, intervals, callbacks and custom actions for Flutter.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl586txix3g30go0y97ac.gif" alt></p></li><li><p><a href="https://github.com/scidart" target="_blank" rel="noopener">scidart</a></p><p> Multiplatform scientific computing for Dart</p></li><li><p><a href="https://github.com/ABausG/home_widget" target="_blank" rel="noopener">home-widget</a></p><p> Flutter Package for Easier Creation of Home Screen Widgets</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl588n7ja6j30c60d4t98.jpg" alt></p></li><li><p><a href="https://github.com/nullptrX/pangle_flutter" target="_blank" rel="noopener">pangle-flutter</a></p><p> Flutter版穿山甲SDK，支持Android、iOS。A Flutter plugin that supports Pangle SDK on Android and iOS.</p></li><li><p><a href="https://github.com/bitsdojo/bitsdojo_window" target="_blank" rel="noopener">bitsdojo-window</a></p><p> A Flutter package that makes it easy to customize and work with your Flutter desktop app window.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl714wshp1j30nq0tb3zd.jpg" alt></p></li><li><p><a href="https://github.com/dart-lang/path" target="_blank" rel="noopener">path</a></p><p> A string-based path manipulation library.</p></li><li><p><a href="https://github.com/fluttercommunity/responsive_scaffold" target="_blank" rel="noopener">responsive-scaffold</a></p><p> Responsive Scaffold - On mobile it shows a list and pushes to details and on tablet it shows the List and the selected item.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl71dz1caxg30zk0iwx0s.gif" alt></p></li><li><p><a href="https://github.com/MattHamburger/clean_framework" target="_blank" rel="noopener">clean-framework</a></p><p> Clean Architecture components library, inspired on the guidelines created by Uncle Bob.</p></li><li><p><a href="https://github.com/alnitak/flutter_triangles_background" target="_blank" rel="noopener">flutter-triangles-background</a></p><p> Animated triangles background widget with color gradients</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl72j44o9nj30zk0k0wgg.jpg" alt></p></li><li><p><a href="https://github.com/GoogleCloudPlatform/functions-framework-dart" target="_blank" rel="noopener">functions-framework-dart</a></p><p> FaaS (Function as a service) framework for writing portable Dart functions</p></li><li><p><a href="https://pub.dev/packages/bagel_db" target="_blank" rel="noopener">bagel-db</a></p><p> Dart plugin to retrieve and update data on BagelDB. This library allows you to build a backend in a matter of minutes, make REST API requests and manage your content easily</p></li></ol><h3 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h3><ol><li><p><a href="https://github.com/JohannesMilke/divider_example" target="_blank" rel="noopener">divider-example</a></p><p> Learn how to integrate horizontal &amp; vertical dividers for the widgets in your Flutter app.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl58b0fksjg30dc0qhngc.gif" alt></p></li></ol><h3 id="App"><a href="#App" class="headerlink" title="App"></a>App</h3><ol><li><p><a href="https://github.com/fayeed/dash_chat" target="_blank" rel="noopener">dash-chat</a></p><p> The most complete Chat UI for flutter highly customizable and helps developing chat UI faster.</p><p> <img src="https://tva1.sinaimg.cn/large/0081Kckwly1gl72k8ctbdg306o0dc1kx.gif" alt></p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> VideoPlayer </tag>
+            
+            <tag> Responsive </tag>
+            
+            <tag> FaaS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Flutter Weekly Issue 69</title>
       <link href="/flutter-weekly-issue-69/"/>
       <url>/flutter-weekly-issue-69/</url>
@@ -408,11 +431,11 @@
       
         <tags>
             
+            <tag> Alipay </tag>
+            
             <tag> Dialog </tag>
             
             <tag> LaTeX </tag>
-            
-            <tag> Alipay </tag>
             
         </tags>
       
@@ -439,9 +462,9 @@
             
             <tag> Animation </tag>
             
-            <tag> Alipay </tag>
-            
             <tag> StatusBar </tag>
+            
+            <tag> Alipay </tag>
             
         </tags>
       
@@ -1144,9 +1167,9 @@
             
             <tag> 状态管理 </tag>
             
-            <tag> 点播 </tag>
-            
             <tag> 异步消息 </tag>
+            
+            <tag> 点播 </tag>
             
         </tags>
       
@@ -1173,11 +1196,11 @@
             
             <tag> 插件开发 </tag>
             
+            <tag> 点播 </tag>
+            
             <tag> 画中画 </tag>
             
             <tag> 自动化测试 </tag>
-            
-            <tag> 点播 </tag>
             
         </tags>
       
@@ -1710,11 +1733,11 @@
       
         <tags>
             
+            <tag> 混合开发 </tag>
+            
             <tag> 事件循环机制 </tag>
             
             <tag> 异步 </tag>
-            
-            <tag> 混合开发 </tag>
             
             <tag> 路由 </tag>
             
@@ -1741,11 +1764,11 @@
       
         <tags>
             
-            <tag> 混合开发 </tag>
-            
             <tag> 测试 </tag>
             
             <tag> WebView </tag>
+            
+            <tag> 混合开发 </tag>
             
             <tag> Widget </tag>
             
